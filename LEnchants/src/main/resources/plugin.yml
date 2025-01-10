@@ -1,0 +1,10 @@
+name: LEnchants
+version: '1.0.0'
+main: io.github.lucfr1746.LEnchants.LEnchants
+api-version: '1.21'
+prefix: "LEnchants"
+load: STARTUP
+authors: [LucFr1746]
+website: https://github.com/LucFr1746
+
+depend: [ LSurvivalLib ]
