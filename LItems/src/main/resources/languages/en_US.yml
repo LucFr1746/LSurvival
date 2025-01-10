@@ -1,0 +1,12 @@
+default-item:
+  item:
+    enabled: true
+    name: "&aSurvival Menu &7(Click)"
+    lore:
+      - "&7View all of your Survival progress,"
+      - "&7including your Skills, Collections,"
+      - "&7Recipes, and more!"
+      - ""
+      - "&eClick to open!"
+  menu:
+    title: "Survival Menu"

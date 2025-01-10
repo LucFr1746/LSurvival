@@ -1,0 +1,6962 @@
+{
+  "items": [{
+    "material": "OAK_LOG",
+    "name": "Oak Log",
+    "npc_sell_price": 2,
+    "id": "OAK_LOG"
+  }, {
+    "material": "OAK_WOOD",
+    "name": "Oak Wood",
+    "npc_sell_price": 2,
+    "id": "OAK_WOOD"
+  }, {
+    "material": "STRIPPED_OAK_LOG",
+    "name": "Stripped Oak Log",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_OAK_LOG"
+  }, {
+    "material": "STRIPPED_OAK_WOOD",
+    "name": "Stripped Oak Wood",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_OAK_WOOD"
+  }, {
+    "material": "OAK_PLANKS",
+    "name": "Oak Planks",
+    "npc_sell_price": 0.5,
+    "id": "OAK_PLANKS"
+  }, {
+    "material": "OAK_STAIRS",
+    "name": "Oak Stairs",
+    "npc_sell_price": 0.5,
+    "id": "OAK_STAIRS"
+  }, {
+    "material": "OAK_SLAB",
+    "name": "Oak Slab",
+    "npc_sell_price": 0.5,
+    "id": "OAK_SLAB"
+  }, {
+    "material": "OAK_FENCE",
+    "name": "Oak Fence",
+    "npc_sell_price": 1,
+    "id": "OAK_FENCE"
+  }, {
+    "material": "OAK_FENCE_GATE",
+    "name": "Oak Fence Gate",
+    "npc_sell_price": 1,
+    "id": "OAK_FENCE_GATE"
+  }, {
+    "material": "OAK_DOOR",
+    "name": "Oak Door",
+    "npc_sell_price": 1,
+    "id": "OAK_DOOR"
+  }, {
+    "material": "OAK_TRAPDOOR",
+    "name": "Oak Trapdoor",
+    "npc_sell_price": 1.5,
+    "id": "OAK_TRAPDOOR"
+  }, {
+    "material": "OAK_PRESSURE_PLATE",
+    "name": "Oak Pressure Plate",
+    "npc_sell_price": 1,
+    "id": "OAK_PRESSURE_PLATE"
+  }, {
+    "material": "OAK_BUTTON",
+    "name": "Oak Button",
+    "npc_sell_price": 0.5,
+    "id": "OAK_BUTTON"
+  }, {
+    "material": "SPRUCE_LOG",
+    "name": "Spruce Log",
+    "npc_sell_price": 2,
+    "id": "SPRUCE_LOG"
+  }, {
+    "material": "SPRUCE_WOOD",
+    "name": "Spruce Wood",
+    "npc_sell_price": 2,
+    "id": "SPRUCE_WOOD"
+  }, {
+    "material": "STRIPPED_SPRUCE_LOG",
+    "name": "Stripped Spruce Log",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_SPRUCE_LOG"
+  }, {
+    "material": "STRIPPED_SPRUCE_WOOD",
+    "name": "Stripped Spruce Wood",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_SPRUCE_WOOD"
+  }, {
+    "material": "SPRUCE_PLANKS",
+    "name": "Spruce Planks",
+    "npc_sell_price": 0.5,
+    "id": "SPRUCE_PLANKS"
+  }, {
+    "material": "SPRUCE_STAIRS",
+    "name": "Spruce Stairs",
+    "npc_sell_price": 0.5,
+    "id": "SPRUCE_STAIRS"
+  }, {
+    "material": "SPRUCE_SLAB",
+    "name": "Spruce Slab",
+    "npc_sell_price": 0.5,
+    "id": "SPRUCE_SLAB"
+  }, {
+    "material": "SPRUCE_FENCE",
+    "name": "Spruce Fence",
+    "npc_sell_price": 1,
+    "id": "SPRUCE_FENCE"
+  }, {
+    "material": "SPRUCE_FENCE_GATE",
+    "name": "Spruce Fence Gate",
+    "npc_sell_price": 1,
+    "id": "SPRUCE_FENCE_GATE"
+  }, {
+    "material": "SPRUCE_DOOR",
+    "name": "Spruce Door",
+    "npc_sell_price": 1,
+    "id": "SPRUCE_DOOR"
+  }, {
+    "material": "SPRUCE_TRAPDOOR",
+    "name": "Spruce Trapdoor",
+    "npc_sell_price": 1.5,
+    "id": "SPRUCE_TRAPDOOR"
+  }, {
+    "material": "SPRUCE_PRESSURE_PLATE",
+    "name": "Spruce Pressure Plate",
+    "npc_sell_price": 1,
+    "id": "SPRUCE_PRESSURE_PLATE"
+  }, {
+    "material": "SPRUCE_BUTTON",
+    "name": "Spruce Button",
+    "npc_sell_price": 0.5,
+    "id": "SPRUCE_BUTTON"
+  }, {
+    "material": "BIRCH_LOG",
+    "name": "Birch Log",
+    "npc_sell_price": 2,
+    "id": "BIRCH_LOG"
+  }, {
+    "material": "BIRCH_WOOD",
+    "name": "Birch Wood",
+    "npc_sell_price": 2,
+    "id": "BIRCH_WOOD"
+  }, {
+    "material": "STRIPPED_BIRCH_LOG",
+    "name": "Stripped Birch Log",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_BIRCH_LOG"
+  }, {
+    "material": "STRIPPED_BIRCH_WOOD",
+    "name": "Stripped Birch Wood",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_BIRCH_WOOD"
+  }, {
+    "material": "BIRCH_PLANKS",
+    "name": "Birch Planks",
+    "npc_sell_price": 0.5,
+    "id": "BIRCH_PLANKS"
+  }, {
+    "material": "BIRCH_STAIRS",
+    "name": "Birch Stairs",
+    "npc_sell_price": 0.5,
+    "id": "BIRCH_STAIRS"
+  }, {
+    "material": "BIRCH_SLAB",
+    "name": "Birch Slab",
+    "npc_sell_price": 0.5,
+    "id": "BIRCH_SLAB"
+  }, {
+    "material": "BIRCH_FENCE",
+    "name": "Birch Fence",
+    "npc_sell_price": 1,
+    "id": "BIRCH_FENCE"
+  }, {
+    "material": "BIRCH_FENCE_GATE",
+    "name": "Birch Fence Gate",
+    "npc_sell_price": 1,
+    "id": "BIRCH_FENCE_GATE"
+  }, {
+    "material": "BIRCH_DOOR",
+    "name": "Birch Door",
+    "npc_sell_price": 1,
+    "id": "BIRCH_DOOR"
+  }, {
+    "material": "BIRCH_TRAPDOOR",
+    "name": "Birch Trapdoor",
+    "npc_sell_price": 1.5,
+    "id": "BIRCH_TRAPDOOR"
+  }, {
+    "material": "BIRCH_PRESSURE_PLATE",
+    "name": "Birch Pressure Plate",
+    "npc_sell_price": 1,
+    "id": "BIRCH_PRESSURE_PLATE"
+  }, {
+    "material": "BIRCH_BUTTON",
+    "name": "Birch Button",
+    "npc_sell_price": 0.5,
+    "id": "BIRCH_BUTTON"
+  }, {
+    "material": "JUNGLE_LOG",
+    "name": "Jungle Log",
+    "npc_sell_price": 2,
+    "id": "JUNGLE_LOG"
+  }, {
+    "material": "JUNGLE_WOOD",
+    "name": "Jungle Wood",
+    "npc_sell_price": 2,
+    "id": "JUNGLE_WOOD"
+  }, {
+    "material": "STRIPPED_JUNGLE_LOG",
+    "name": "Stripped Jungle Log",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_JUNGLE_LOG"
+  }, {
+    "material": "STRIPPED_JUNGLE_WOOD",
+    "name": "Stripped Jungle Wood",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_JUNGLE_WOOD"
+  }, {
+    "material": "JUNGLE_PLANKS",
+    "name": "Jungle Planks",
+    "npc_sell_price": 0.5,
+    "id": "JUNGLE_PLANKS"
+  }, {
+    "material": "JUNGLE_STAIRS",
+    "name": "Jungle Stairs",
+    "npc_sell_price": 0.5,
+    "id": "JUNGLE_STAIRS"
+  }, {
+    "material": "JUNGLE_SLAB",
+    "name": "Jungle Slab",
+    "npc_sell_price": 0.5,
+    "id": "JUNGLE_SLAB"
+  }, {
+    "material": "JUNGLE_FENCE",
+    "name": "Jungle Fence",
+    "npc_sell_price": 1,
+    "id": "JUNGLE_FENCE"
+  }, {
+    "material": "JUNGLE_FENCE_GATE",
+    "name": "Jungle Fence Gate",
+    "npc_sell_price": 1,
+    "id": "JUNGLE_FENCE_GATE"
+  }, {
+    "material": "JUNGLE_DOOR",
+    "name": "Jungle Door",
+    "npc_sell_price": 1,
+    "id": "JUNGLE_DOOR"
+  }, {
+    "material": "JUNGLE_TRAPDOOR",
+    "name": "Jungle Trapdoor",
+    "npc_sell_price": 1.5,
+    "id": "JUNGLE_TRAPDOOR"
+  }, {
+    "material": "JUNGLE_PRESSURE_PLATE",
+    "name": "Jungle Pressure Plate",
+    "npc_sell_price": 1,
+    "id": "JUNGLE_PRESSURE_PLATE"
+  }, {
+    "material": "JUNGLE_BUTTON",
+    "name": "Jungle Button",
+    "npc_sell_price": 0.5,
+    "id": "JUNGLE_BUTTON"
+  }, {
+    "material": "ACACIA_LOG",
+    "name": "Acacia Log",
+    "npc_sell_price": 2,
+    "id": "ACACIA_LOG"
+  }, {
+    "material": "ACACIA_WOOD",
+    "name": "Acacia Wood",
+    "npc_sell_price": 2,
+    "id": "ACACIA_WOOD"
+  }, {
+    "material": "STRIPPED_ACACIA_LOG",
+    "name": "Stripped Acacia Log",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_ACACIA_LOG"
+  }, {
+    "material": "STRIPPED_ACACIA_WOOD",
+    "name": "Stripped Acacia Wood",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_ACACIA_WOOD"
+  }, {
+    "material": "ACACIA_PLANKS",
+    "name": "Acacia Planks",
+    "npc_sell_price": 0.5,
+    "id": "ACACIA_PLANKS"
+  }, {
+    "material": "ACACIA_STAIRS",
+    "name": "Acacia Stairs",
+    "npc_sell_price": 0.5,
+    "id": "ACACIA_STAIRS"
+  }, {
+    "material": "ACACIA_SLAB",
+    "name": "Acacia Slab",
+    "npc_sell_price": 0.5,
+    "id": "ACACIA_SLAB"
+  }, {
+    "material": "ACACIA_FENCE",
+    "name": "Acacia Fence",
+    "npc_sell_price": 1,
+    "id": "ACACIA_FENCE"
+  }, {
+    "material": "ACACIA_FENCE_GATE",
+    "name": "Acacia Fence Gate",
+    "npc_sell_price": 1,
+    "id": "ACACIA_FENCE_GATE"
+  }, {
+    "material": "ACACIA_DOOR",
+    "name": "Acacia Door",
+    "npc_sell_price": 1,
+    "id": "ACACIA_DOOR"
+  }, {
+    "material": "ACACIA_TRAPDOOR",
+    "name": "Acacia Trapdoor",
+    "npc_sell_price": 1.5,
+    "id": "ACACIA_TRAPDOOR"
+  }, {
+    "material": "ACACIA_PRESSURE_PLATE",
+    "name": "Acacia Pressure Plate",
+    "npc_sell_price": 1,
+    "id": "ACACIA_PRESSURE_PLATE"
+  }, {
+    "material": "ACACIA_BUTTON",
+    "name": "Acacia Button",
+    "npc_sell_price": 0.5,
+    "id": "ACACIA_BUTTON"
+  }, {
+    "material": "DARK_OAK_LOG",
+    "name": "Dark Oak Log",
+    "npc_sell_price": 2,
+    "id": "DARK_OAK_LOG"
+  }, {
+    "material": "DARK_OAK_WOOD",
+    "name": "Dark Oak Wood",
+    "npc_sell_price": 2,
+    "id": "DARK_OAK_WOOD"
+  }, {
+    "material": "STRIPPED_DARK_OAK_LOG",
+    "name": "Stripped Dark Oak Log",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_DARK_OAK_LOG"
+  }, {
+    "material": "STRIPPED_DARK_OAK_WOOD",
+    "name": "Stripped Dark Oak Wood",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_DARK_OAK_WOOD"
+  }, {
+    "material": "DARK_OAK_PLANKS",
+    "name": "Dark Oak Planks",
+    "npc_sell_price": 0.5,
+    "id": "DARK_OAK_PLANKS"
+  }, {
+    "material": "DARK_OAK_STAIRS",
+    "name": "Dark Oak Stairs",
+    "npc_sell_price": 0.5,
+    "id": "DARK_OAK_STAIRS"
+  }, {
+    "material": "DARK_OAK_SLAB",
+    "name": "Dark Oak Slab",
+    "npc_sell_price": 0.5,
+    "id": "DARK_OAK_SLAB"
+  }, {
+    "material": "DARK_OAK_FENCE",
+    "name": "Dark Oak Fence",
+    "npc_sell_price": 1,
+    "id": "DARK_OAK_FENCE"
+  }, {
+    "material": "DARK_OAK_FENCE_GATE",
+    "name": "Dark Oak Fence Gate",
+    "npc_sell_price": 1,
+    "id": "DARK_OAK_FENCE_GATE"
+  }, {
+    "material": "DARK_OAK_DOOR",
+    "name": "Dark Oak Door",
+    "npc_sell_price": 1,
+    "id": "DARK_OAK_DOOR"
+  }, {
+    "material": "DARK_OAK_TRAPDOOR",
+    "name": "Dark Oak Trapdoor",
+    "npc_sell_price": 1.5,
+    "id": "DARK_OAK_TRAPDOOR"
+  }, {
+    "material": "DARK_OAK_PRESSURE_PLATE",
+    "name": "Dark Oak Pressure Plate",
+    "npc_sell_price": 1,
+    "id": "DARK_OAK_PRESSURE_PLATE"
+  }, {
+    "material": "DARK_OAK_BUTTON",
+    "name": "Dark Oak Button",
+    "npc_sell_price": 0.5,
+    "id": "DARK_OAK_BUTTON"
+  }, {
+    "material": "MANGROVE_LOG",
+    "name": "Mangrove Log",
+    "npc_sell_price": 2,
+    "id": "MANGROVE_LOG"
+  }, {
+    "material": "MANGROVE_WOOD",
+    "name": "Mangrove Wood",
+    "npc_sell_price": 2,
+    "id": "MANGROVE_WOOD"
+  }, {
+    "material": "STRIPPED_MANGROVE_LOG",
+    "name": "Stripped Mangrove Log",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_MANGROVE_LOG"
+  }, {
+    "material": "STRIPPED_MANGROVE_WOOD",
+    "name": "Stripped Mangrove Wood",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_MANGROVE_WOOD"
+  }, {
+    "material": "MANGROVE_PLANKS",
+    "name": "Mangrove Planks",
+    "npc_sell_price": 0.5,
+    "id": "MANGROVE_PLANKS"
+  }, {
+    "material": "MANGROVE_STAIRS",
+    "name": "Mangrove Stairs",
+    "npc_sell_price": 0.5,
+    "id": "MANGROVE_STAIRS"
+  }, {
+    "material": "MANGROVE_SLAB",
+    "name": "Mangrove Slab",
+    "npc_sell_price": 0.5,
+    "id": "MANGROVE_SLAB"
+  }, {
+    "material": "MANGROVE_FENCE",
+    "name": "Mangrove Fence",
+    "npc_sell_price": 1,
+    "id": "MANGROVE_FENCE"
+  }, {
+    "material": "MANGROVE_FENCE_GATE",
+    "name": "Mangrove Fence Gate",
+    "npc_sell_price": 1,
+    "id": "MANGROVE_FENCE_GATE"
+  }, {
+    "material": "MANGROVE_DOOR",
+    "name": "Mangrove Door",
+    "npc_sell_price": 1,
+    "id": "MANGROVE_DOOR"
+  }, {
+    "material": "MANGROVE_TRAPDOOR",
+    "name": "Mangrove Trapdoor",
+    "npc_sell_price": 1.5,
+    "id": "MANGROVE_TRAPDOOR"
+  }, {
+    "material": "MANGROVE_PRESSURE_PLATE",
+    "name": "Mangrove Pressure Plate",
+    "npc_sell_price": 1,
+    "id": "MANGROVE_PRESSURE_PLATE"
+  }, {
+    "material": "MANGROVE_BUTTON",
+    "name": "Mangrove Button",
+    "npc_sell_price": 0.5,
+    "id": "MANGROVE_BUTTON"
+  }, {
+    "material": "CHERRY_LOG",
+    "name": "Cherry Log",
+    "npc_sell_price": 2,
+    "id": "CHERRY_LOG"
+  }, {
+    "material": "CHERRY_WOOD",
+    "name": "Cherry Wood",
+    "npc_sell_price": 2,
+    "id": "CHERRY_WOOD"
+  }, {
+    "material": "STRIPPED_CHERRY_LOG",
+    "name": "Stripped Cherry Log",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_CHERRY_LOG"
+  }, {
+    "material": "STRIPPED_CHERRY_WOOD",
+    "name": "Stripped Cherry Wood",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_CHERRY_WOOD"
+  }, {
+    "material": "CHERRY_PLANKS",
+    "name": "Cherry Planks",
+    "npc_sell_price": 0.5,
+    "id": "CHERRY_PLANKS"
+  }, {
+    "material": "CHERRY_STAIRS",
+    "name": "Cherry Stairs",
+    "npc_sell_price": 0.5,
+    "id": "CHERRY_STAIRS"
+  }, {
+    "material": "CHERRY_SLAB",
+    "name": "Cherry Slab",
+    "npc_sell_price": 0.5,
+    "id": "CHERRY_SLAB"
+  }, {
+    "material": "CHERRY_FENCE",
+    "name": "Cherry Fence",
+    "npc_sell_price": 1,
+    "id": "CHERRY_FENCE"
+  }, {
+    "material": "CHERRY_FENCE_GATE",
+    "name": "Cherry Fence Gate",
+    "npc_sell_price": 1,
+    "id": "CHERRY_FENCE_GATE"
+  }, {
+    "material": "CHERRY_DOOR",
+    "name": "Cherry Door",
+    "npc_sell_price": 1,
+    "id": "CHERRY_DOOR"
+  }, {
+    "material": "CHERRY_TRAPDOOR",
+    "name": "Cherry Trapdoor",
+    "npc_sell_price": 1.5,
+    "id": "CHERRY_TRAPDOOR"
+  }, {
+    "material": "CHERRY_PRESSURE_PLATE",
+    "name": "Cherry Pressure Plate",
+    "npc_sell_price": 1,
+    "id": "CHERRY_PRESSURE_PLATE"
+  }, {
+    "material": "CHERRY_BUTTON",
+    "name": "Cherry Button",
+    "npc_sell_price": 0.5,
+    "id": "CHERRY_BUTTON"
+  }, {
+    "material": "BAMBOO_BLOCK",
+    "name": "Block of Bamboo",
+    "npc_sell_price": 2,
+    "id": "BAMBOO_BLOCK"
+  }, {
+    "material": "STRIPPED_BAMBOO_BLOCK",
+    "name": "Block of Stripped Bamboo",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_BAMBOO_BLOCK"
+  }, {
+    "material": "BAMBOO_PLANKS",
+    "name": "Bamboo Planks",
+    "npc_sell_price": 0.5,
+    "id": "BAMBOO_PLANKS"
+  }, {
+    "material": "BAMBOO_MOSAIC",
+    "name": "Bamboo Mosaic",
+    "npc_sell_price": 0.5,
+    "id": "BAMBOO_MOSAIC"
+  }, {
+    "material": "BAMBOO_STAIRS",
+    "name": "Bamboo Stairs",
+    "npc_sell_price": 0.5,
+    "id": "BAMBOO_STAIRS"
+  }, {
+    "material": "BAMBOO_MOSAIC_STAIRS",
+    "name": "Bamboo Mosaic Stairs",
+    "npc_sell_price": 0.5,
+    "id": "BAMBOO_MOSAIC_STAIRS"
+  }, {
+    "material": "BAMBOO_SLAB",
+    "name": "Bamboo Slab",
+    "npc_sell_price": 0.5,
+    "id": "BAMBOO_SLAB"
+  }, {
+    "material": "BAMBOO_MOSAIC_SLAB",
+    "name": "Bamboo Mosaic Slab",
+    "npc_sell_price": 0.5,
+    "id": "BAMBOO_MOSAIC_SLAB"
+  }, {
+    "material": "BAMBOO_FENCE",
+    "name": "Bamboo Fence",
+    "npc_sell_price": 1,
+    "id": "BAMBOO_FENCE"
+  }, {
+    "material": "BAMBOO_FENCE_GATE",
+    "name": "Bamboo Fence Gate",
+    "npc_sell_price": 1,
+    "id": "BAMBOO_FENCE_GATE"
+  }, {
+    "material": "BAMBOO_DOOR",
+    "name": "Bamboo Door",
+    "npc_sell_price": 1,
+    "id": "BAMBOO_DOOR"
+  }, {
+    "material": "BAMBOO_TRAPDOOR",
+    "name": "Bamboo Trapdoor",
+    "npc_sell_price": 1.5,
+    "id": "BAMBOO_TRAPDOOR"
+  }, {
+    "material": "BAMBOO_PRESSURE_PLATE",
+    "name": "Bamboo Pressure Plate",
+    "npc_sell_price": 1,
+    "id": "BAMBOO_PRESSURE_PLATE"
+  }, {
+    "material": "BAMBOO_BUTTON",
+    "name": "Bamboo Button",
+    "npc_sell_price": 0.5,
+    "id": "BAMBOO_BUTTON"
+  }, {
+    "material": "CRIMSON_STEM",
+    "name": "Crimson Stem",
+    "npc_sell_price": 2,
+    "id": "CRIMSON_STEM"
+  }, {
+    "material": "CRIMSON_HYPHAE",
+    "name": "Crimson Hyphae",
+    "npc_sell_price": 2,
+    "id": "CRIMSON_HYPHAE"
+  }, {
+    "material": "STRIPPED_CRIMSON_STEM",
+    "name": "Stripped Crimson Stem",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_CRIMSON_STEM"
+  }, {
+    "material": "STRIPPED_CRIMSON_HYPHAE",
+    "name": "Stripped Crimson Hyphae",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_CRIMSON_HYPHAE"
+  }, {
+    "material": "CRIMSON_PLANKS",
+    "name": "Crimson Planks",
+    "npc_sell_price": 0.5,
+    "id": "CRIMSON_PLANKS"
+  }, {
+    "material": "CRIMSON_STAIRS",
+    "name": "Crimson Stairs",
+    "npc_sell_price": 0.5,
+    "id": "CRIMSON_STAIRS"
+  }, {
+    "material": "CRIMSON_SLAB",
+    "name": "Crimson Slab",
+    "npc_sell_price": 0.5,
+    "id": "CRIMSON_SLAB"
+  }, {
+    "material": "CRIMSON_FENCE",
+    "name": "Crimson Fence",
+    "npc_sell_price": 1,
+    "id": "CRIMSON_FENCE"
+  }, {
+    "material": "CRIMSON_FENCE_GATE",
+    "name": "Crimson Fence Gate",
+    "npc_sell_price": 1,
+    "id": "CRIMSON_FENCE_GATE"
+  }, {
+    "material": "CRIMSON_DOOR",
+    "name": "Crimson Door",
+    "npc_sell_price": 1,
+    "id": "CRIMSON_DOOR"
+  }, {
+    "material": "CRIMSON_TRAPDOOR",
+    "name": "Crimson Trapdoor",
+    "npc_sell_price": 1.5,
+    "id": "CRIMSON_TRAPDOOR"
+  }, {
+    "material": "CRIMSON_PRESSURE_PLATE",
+    "name": "Crimson Pressure Plate",
+    "npc_sell_price": 1,
+    "id": "CRIMSON_PRESSURE_PLATE"
+  }, {
+    "material": "CRIMSON_BUTTON",
+    "name": "Crimson Button",
+    "npc_sell_price": 0.5,
+    "id": "CRIMSON_BUTTON"
+  }, {
+    "material": "WARPED_STEM",
+    "name": "Warped Stem",
+    "npc_sell_price": 2,
+    "id": "WARPED_STEM"
+  }, {
+    "material": "WARPED_HYPHAE",
+    "name": "Warped Hyphae",
+    "npc_sell_price": 2,
+    "id": "WARPED_HYPHAE"
+  }, {
+    "material": "STRIPPED_WARPED_STEM",
+    "name": "Stripped Warped Stem",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_WARPED_STEM"
+  }, {
+    "material": "STRIPPED_WARPED_HYPHAE",
+    "name": "Stripped Warped Hyphae",
+    "npc_sell_price": 2,
+    "id": "STRIPPED_WARPED_HYPHAE"
+  }, {
+    "material": "WARPED_PLANKS",
+    "name": "Warped Planks",
+    "npc_sell_price": 0.5,
+    "id": "WARPED_PLANKS"
+  }, {
+    "material": "WARPED_STAIRS",
+    "name": "Warped Stairs",
+    "npc_sell_price": 0.5,
+    "id": "WARPED_STAIRS"
+  }, {
+    "material": "WARPED_SLAB",
+    "name": "Warped Slab",
+    "npc_sell_price": 0.5,
+    "id": "WARPED_SLAB"
+  }, {
+    "material": "WARPED_FENCE",
+    "name": "Warped Fence",
+    "npc_sell_price": 1,
+    "id": "WARPED_FENCE"
+  }, {
+    "material": "WARPED_FENCE_GATE",
+    "name": "Warped Fence Gate",
+    "npc_sell_price": 1,
+    "id": "WARPED_FENCE_GATE"
+  }, {
+    "material": "WARPED_DOOR",
+    "name": "Warped Door",
+    "npc_sell_price": 1,
+    "id": "WARPED_DOOR"
+  }, {
+    "material": "WARPED_TRAPDOOR",
+    "name": "Warped Trapdoor",
+    "npc_sell_price": 1.5,
+    "id": "WARPED_TRAPDOOR"
+  }, {
+    "material": "WARPED_PRESSURE_PLATE",
+    "name": "Warped Pressure Plate",
+    "npc_sell_price": 1,
+    "id": "WARPED_PRESSURE_PLATE"
+  }, {
+    "material": "WARPED_BUTTON",
+    "name": "Warped Button",
+    "npc_sell_price": 0.5,
+    "id": "WARPED_BUTTON"
+  }, {
+    "material": "STONE",
+    "name": "Stone",
+    "npc_sell_price": 1,
+    "id": "STONE"
+  }, {
+    "material": "STONE_STAIRS",
+    "name": "Stone Stairs",
+    "npc_sell_price": 1,
+    "id": "STONE_STAIRS"
+  }, {
+    "material": "STONE_SLAB",
+    "name": "Stone Slab",
+    "npc_sell_price": 0.5,
+    "id": "STONE_SLAB"
+  }, {
+    "material": "STONE_PRESSURE_PLATE",
+    "name": "Stone Pressure Plate",
+    "npc_sell_price": 2,
+    "id": "STONE_PRESSURE_PLATE"
+  }, {
+    "material": "STONE_BUTTON",
+    "name": "Stone Button",
+    "npc_sell_price": 1,
+    "id": "STONE_BUTTON"
+  }, {
+    "material": "COBBLESTONE",
+    "name": "Cobblestone",
+    "npc_sell_price": 1,
+    "id": "COBBLESTONE"
+  }, {
+    "material": "COBBLESTONE_STAIRS",
+    "name": "Cobblestone Stairs",
+    "npc_sell_price": 1,
+    "id": "COBBLESTONE_STAIRS"
+  }, {
+    "material": "COBBLESTONE_SLAB",
+    "durability": 3,
+    "name": "Cobblestone Slab",
+    "npc_sell_price": 0.5,
+    "id": "COBBLESTONE_SLAB"
+  }, {
+    "material": "COBBLESTONE_WALL",
+    "name": "Cobblestone Wall",
+    "npc_sell_price": 1,
+    "id": "COBBLESTONE_WALL"
+  }, {
+    "material": "MOSSY_COBBLESTONE",
+    "name": "Mossy Cobblestone",
+    "npc_sell_price": 6,
+    "id": "MOSSY_COBBLESTONE"
+  }, {
+    "material": "MOSSY_COBBLESTONE_STAIRS",
+    "name": "Mossy Cobblestone Stairs",
+    "npc_sell_price": 1,
+    "id": "MOSSY_COBBLESTONE_STAIRS"
+  }, {
+    "material": "MOSSY_COBBLESTONE_SLAB",
+    "durability": 3,
+    "name": "Mossy Cobblestone Slab",
+    "npc_sell_price": 0.5,
+    "id": "MOSSY_COBBLESTONE_SLAB"
+  }, {
+    "material": "MOSSY_COBBLESTONE_WALL",
+    "name": "Mossy Cobblestone Wall",
+    "npc_sell_price": 1,
+    "id": "MOSSY_COBBLESTONE_WALL"
+  }, {
+    "material": "SMOOTH_STONE",
+    "name": "Smooth Stone",
+    "npc_sell_price": 1.5,
+    "id": "SMOOTH_STONE"
+  }, {
+    "material": "SMOOTH_STONE_SLAB",
+    "name": "Smooth Stone Slab",
+    "npc_sell_price": 0.75,
+    "id": "SMOOTH_STONE_SLAB"
+  }, {
+    "material": "STONE_BRICKS",
+    "name": "Stone Bricks",
+    "npc_sell_price": 1,
+    "id": "STONE_BRICKS"
+  }, {
+    "material": "CRACKED_STONE_BRICKS",
+    "name": "Cracked Stone Bricks",
+    "npc_sell_price": 1,
+    "id": "CRACKED_STONE_BRICKS"
+  }, {
+    "material": "STONE_BRICK_STAIRS",
+    "name": "Stone Brick Stairs",
+    "npc_sell_price": 1,
+    "id": "STONE_BRICK_STAIRS"
+  }, {
+    "material": "STONE_BRICK_SLAB",
+    "name": "Stone Brick Slab",
+    "npc_sell_price": 0.5,
+    "id": "STONE_BRICK_SLAB"
+  }, {
+    "material": "STONE_BRICK_WALL",
+    "name": "Stone Brick Wall",
+    "npc_sell_price": 1,
+    "id": "STONE_BRICK_WALL"
+  }, {
+    "material": "CHISELED_STONE_BRICKS",
+    "name": "Chiseled Stone Bricks",
+    "npc_sell_price": 1,
+    "id": "CHISELED_STONE_BRICKS"
+  }, {
+    "material": "MOSSY_STONE_BRICKS",
+    "name": "Mossy Stone Bricks",
+    "npc_sell_price": 6,
+    "id": "MOSSY_STONE_BRICKS"
+  }, {
+    "material": "MOSSY_STONE_BRICK_STAIRS",
+    "name": "Mossy Stone Brick Stairs",
+    "npc_sell_price": 1,
+    "id": "MOSSY_STONE_BRICK_STAIRS"
+  }, {
+    "material": "MOSSY_STONE_BRICK_SLAB",
+    "durability": 3,
+    "name": "Mossy Stone Brick Slab",
+    "npc_sell_price": 0.5,
+    "id": "MOSSY_STONE_BRICK_SLAB"
+  }, {
+    "material": "MOSSY_STONE_BRICK_WALL",
+    "name": "Mossy Stone Brick Wall",
+    "npc_sell_price": 1,
+    "id": "MOSSY_STONE_BRICK_WALL"
+  }, {
+    "material": "GRANITE",
+    "name": "Granite",
+    "npc_sell_price": 1,
+    "id": "GRANITE"
+  }, {
+    "material": "GRANITE_STAIRS",
+    "name": "Granite Stairs",
+    "npc_sell_price": 1,
+    "id": "GRANITE_STAIRS"
+  }, {
+    "material": "GRANITE_SLAB",
+    "durability": 3,
+    "name": "Granite Slab",
+    "npc_sell_price": 0.5,
+    "id": "GRANITE_SLAB"
+  }, {
+    "material": "GRANITE_WALL",
+    "name": "Granite Wall",
+    "npc_sell_price": 1,
+    "id": "GRANITE_WALL"
+  }, {
+    "material": "POLISHED_GRANITE",
+    "name": "Polished Granite",
+    "npc_sell_price": 1,
+    "id": "POLISHED_GRANITE"
+  }, {
+    "material": "POLISHED_GRANITE_STAIRS",
+    "name": "Polished Granite Stairs",
+    "npc_sell_price": 1,
+    "id": "POLISHED_GRANITE_STAIRS"
+  }, {
+    "material": "POLISHED_GRANITE_SLAB",
+    "durability": 3,
+    "name": "Polished Granite Slab",
+    "npc_sell_price": 0.5,
+    "id": "POLISHED_GRANITE_SLAB"
+  }, {
+    "material": "DIORITE",
+    "name": "Diorite",
+    "npc_sell_price": 1,
+    "id": "DIORITE"
+  }, {
+    "material": "DIORITE_STAIRS",
+    "name": "Diorite Stairs",
+    "npc_sell_price": 1,
+    "id": "DIORITE_STAIRS"
+  }, {
+    "material": "DIORITE_SLAB",
+    "durability": 3,
+    "name": "Diorite Slab",
+    "npc_sell_price": 0.5,
+    "id": "DIORITE_SLAB"
+  }, {
+    "material": "DIORITE_WALL",
+    "name": "Diorite Wall",
+    "npc_sell_price": 1,
+    "id": "DIORITE_WALL"
+  }, {
+    "material": "POLISHED_DIORITE",
+    "name": "Polished Diorite",
+    "npc_sell_price": 1,
+    "id": "POLISHED_DIORITE"
+  }, {
+    "material": "POLISHED_DIORITE_STAIRS",
+    "name": "Polished Diorite Stairs",
+    "npc_sell_price": 1,
+    "id": "POLISHED_DIORITE_STAIRS"
+  }, {
+    "material": "POLISHED_DIORITE_SLAB",
+    "durability": 3,
+    "name": "Polished Diorite Slab",
+    "npc_sell_price": 0.5,
+    "id": "POLISHED_DIORITE_SLAB"
+  }, {
+    "material": "ANDESITE",
+    "name": "Andesite",
+    "npc_sell_price": 1,
+    "id": "ANDESITE"
+  }, {
+    "material": "ANDESITE_STAIRS",
+    "name": "Andesite Stairs",
+    "npc_sell_price": 1,
+    "id": "ANDESITE_STAIRS"
+  }, {
+    "material": "ANDESITE_SLAB",
+    "durability": 3,
+    "name": "Andesite Slab",
+    "npc_sell_price": 0.5,
+    "id": "ANDESITE_SLAB"
+  }, {
+    "material": "ANDESITE_WALL",
+    "name": "Andesite Wall",
+    "npc_sell_price": 1,
+    "id": "ANDESITE_WALL"
+  }, {
+    "material": "POLISHED_ANDESITE",
+    "name": "Polished Andesite",
+    "npc_sell_price": 1,
+    "id": "POLISHED_ANDESITE"
+  }, {
+    "material": "POLISHED_ANDESITE_STAIRS",
+    "name": "Polished Andesite Stairs",
+    "npc_sell_price": 1,
+    "id": "POLISHED_ANDESITE_STAIRS"
+  }, {
+    "material": "POLISHED_ANDESITE_SLAB",
+    "durability": 3,
+    "name": "Polished Andesite Slab",
+    "npc_sell_price": 0.5,
+    "id": "POLISHED_ANDESITE_SLAB"
+  }, {
+    "material": "DEEPSLATE",
+    "name": "Deepslate",
+    "npc_sell_price": 1,
+    "id": "DEEPSLATE"
+  }, {
+    "material": "COBBLED_DEEPSLATE",
+    "name": "Cobbled Deepslate",
+    "npc_sell_price": 1,
+    "id": "COBBLED_DEEPSLATE"
+  }, {
+    "material": "COBBLED_DEEPSLATE_STAIRS",
+    "name": "Cobbled Deepslate Stairs",
+    "npc_sell_price": 1,
+    "id": "COBBLED_DEEPSLATE_STAIRS"
+  }, {
+    "material": "COBBLED_DEEPSLATE_SLAB",
+    "durability": 3,
+    "name": "Cobbled Deepslate Slab",
+    "npc_sell_price": 0.5,
+    "id": "COBBLED_DEEPSLATE_SLAB"
+  }, {
+    "material": "COBBLED_DEEPSLATE_WALL",
+    "name": "Cobbled Deepslate Wall",
+    "npc_sell_price": 1,
+    "id": "COBBLED_DEEPSLATE_WALL"
+  }, {
+    "material": "CHISELED_DEEPSLATE",
+    "name": "Chiseled Deepslate",
+    "npc_sell_price": 1,
+    "id": "CHISELED_DEEPSLATE"
+  }, {
+    "material": "POLISHED_DEEPSLATE",
+    "name": "Polished Deepslate",
+    "npc_sell_price": 1,
+    "id": "POLISHED_DEEPSLATE"
+  }, {
+    "material": "POLISHED_DEEPSLATE_STAIRS",
+    "name": "Polished Deepslate Stairs",
+    "npc_sell_price": 1,
+    "id": "POLISHED_DEEPSLATE_STAIRS"
+  }, {
+    "material": "POLISHED_DEEPSLATE_SLAB",
+    "durability": 3,
+    "name": "Polished Deepslate Slab",
+    "npc_sell_price": 0.5,
+    "id": "POLISHED_DEEPSLATE_SLAB"
+  }, {
+    "material": "POLISHED_DEEPSLATE_WALL",
+    "name": "Polished Deepslate Wall",
+    "npc_sell_price": 1,
+    "id": "POLISHED_DEEPSLATE_WALL"
+  }, {
+    "material": "DEEPSLATE_BRICKS",
+    "name": "Deepslate Bricks",
+    "npc_sell_price": 1,
+    "id": "DEEPSLATE_BRICKS"
+  }, {
+    "material": "CRACKED_DEEPSLATE_BRICKS",
+    "name": "Cracked Deepslate Bricks",
+    "npc_sell_price": 1,
+    "id": "CRACKED_DEEPSLATE_BRICKS"
+  }, {
+    "material": "DEEPSLATE_BRICK_STAIRS",
+    "name": "Deepslate Brick Stairs",
+    "npc_sell_price": 1,
+    "id": "DEEPSLATE_BRICK_STAIRS"
+  }, {
+    "material": "DEEPSLATE_BRICK_SLAB",
+    "name": "Deepslate Brick Slab",
+    "npc_sell_price": 0.5,
+    "id": "DEEPSLATE_BRICK_SLAB"
+  }, {
+    "material": "DEEPSLATE_BRICK_WALL",
+    "name": "Deepslate Brick Wall",
+    "npc_sell_price": 1,
+    "id": "DEEPSLATE_BRICK_WALL"
+  }, {
+    "material": "DEEPSLATE_TILES",
+    "name": "Deepslate Tiles",
+    "npc_sell_price": 1,
+    "id": "DEEPSLATE_TILES"
+  }, {
+    "material": "CRACKED_DEEPSLATE_TILES",
+    "name": "Cracked Deepslate Tiles",
+    "npc_sell_price": 1,
+    "id": "CRACKED_DEEPSLATE_TILES"
+  }, {
+    "material": "DEEPSLATE_TILE_STAIRS",
+    "name": "Deepslate Tile Stairs",
+    "npc_sell_price": 1,
+    "id": "DEEPSLATE_TILE_STAIRS"
+  }, {
+    "material": "DEEPSLATE_TILE_SLAB",
+    "name": "Deepslate Tile Slab",
+    "npc_sell_price": 0.5,
+    "id": "DEEPSLATE_TILE_SLAB"
+  }, {
+    "material": "DEEPSLATE_TILE_WALL",
+    "name": "Deepslate Tile Wall",
+    "npc_sell_price": 1,
+    "id": "DEEPSLATE_TILE_WALL"
+  }, {
+    "material": "REINFORCED_DEEPSLATE",
+    "name": "Reinforced Deepslate",
+    "npc_sell_price": 600,
+    "id": "REINFORCED_DEEPSLATE"
+  }, {
+    "material": "TUFF",
+    "name": "Tuff",
+    "npc_sell_price": 1,
+    "id": "TUFF"
+  }, {
+    "material": "TUFF_STAIRS",
+    "name": "Tuff Stairs",
+    "npc_sell_price": 1,
+    "id": "TUFF_STAIRS"
+  }, {
+    "material": "TUFF_SLAB",
+    "durability": 3,
+    "name": "Tuff Slab",
+    "npc_sell_price": 0.5,
+    "id": "TUFF_SLAB"
+  }, {
+    "material": "TUFF_WALL",
+    "name": "Tuff Wall",
+    "npc_sell_price": 1,
+    "id": "TUFF_WALL"
+  }, {
+    "material": "CHISELED_TUFF",
+    "name": "Chiseled Tuff",
+    "npc_sell_price": 1,
+    "id": "CHISELED_TUFF"
+  }, {
+    "material": "POLISHED_TUFF",
+    "name": "Polished Tuff",
+    "npc_sell_price": 1,
+    "id": "POLISHED_TUFF"
+  }, {
+    "material": "POLISHED_TUFF_STAIRS",
+    "name": "Polished Tuff Stairs",
+    "npc_sell_price": 1,
+    "id": "POLISHED_TUFF_STAIRS"
+  }, {
+    "material": "POLISHED_TUFF_SLAB",
+    "durability": 3,
+    "name": "Polished Tuff Slab",
+    "npc_sell_price": 0.5,
+    "id": "POLISHED_TUFF_SLAB"
+  }, {
+    "material": "POLISHED_TUFF_WALL",
+    "name": "Polished Tuff Wall",
+    "npc_sell_price": 1,
+    "id": "POLISHED_TUFF_WALL"
+  }, {
+    "material": "TUFF_BRICKS",
+    "name": "Tuff Bricks",
+    "npc_sell_price": 1,
+    "id": "TUFF_BRICKS"
+  }, {
+    "material": "TUFF_BRICK_STAIRS",
+    "name": "Tuff Brick Stairs",
+    "npc_sell_price": 1,
+    "id": "TUFF_BRICK_STAIRS"
+  }, {
+    "material": "TUFF_BRICK_SLAB",
+    "durability": 3,
+    "name": "Tuff Brick Slab",
+    "npc_sell_price": 0.5,
+    "id": "TUFF_BRICK_SLAB"
+  }, {
+    "material": "TUFF_BRICK_WALL",
+    "name": "Tuff Brick Wall",
+    "npc_sell_price": 1,
+    "id": "TUFF_BRICK_WALL"
+  }, {
+    "material": "CHISELED_TUFF_BRICKS",
+    "name": "Chiseled Tuff",
+    "npc_sell_price": 1,
+    "id": "CHISELED_TUFF_BRICKS"
+  }, {
+    "material": "BRICKS",
+    "name": "Bricks",
+    "npc_sell_price": 1,
+    "id": "BRICKS"
+  }, {
+    "material": "BRICK_STAIRS",
+    "name": "Brick Stairs",
+    "npc_sell_price": 1,
+    "id": "BRICK_STAIRS"
+  }, {
+    "material": "BRICK_SLAB",
+    "durability": 3,
+    "name": "Brick Slab",
+    "npc_sell_price": 0.5,
+    "id": "BRICK_SLAB"
+  }, {
+    "material": "BRICK_WALL",
+    "name": "Brick Wall",
+    "npc_sell_price": 1,
+    "id": "BRICK_WALL"
+  }, {
+    "material": "PACKED_MUD",
+    "name": "Packed Mub",
+    "npc_sell_price": 1,
+    "id": "PACKED_MUD"
+  }, {
+    "material": "MUD_BRICKS",
+    "name": "Mud Bricks",
+    "npc_sell_price": 1,
+    "id": "MUD_BRICKS"
+  }, {
+    "material": "MUD_BRICK_STAIRS",
+    "name": "Mud Brick Stairs",
+    "npc_sell_price": 1,
+    "id": "MUD_BRICK_STAIRS"
+  }, {
+    "material": "MUD_BRICK_SLAB",
+    "durability": 3,
+    "name": "Mud Brick Slab",
+    "npc_sell_price": 0.5,
+    "id": "MUD_BRICK_SLAB"
+  }, {
+    "material": "MUD_BRICK_WALL",
+    "name": "Mud Brick Wall",
+    "npc_sell_price": 1,
+    "id": "MUD_BRICK_WALL"
+  }, {
+    "material": "SANDSTONE",
+    "name": "Sandstone",
+    "npc_sell_price": 1,
+    "id": "SANDSTONE"
+  }, {
+    "material": "SANDSTONE_STAIRS",
+    "name": "Sandstone Stairs",
+    "npc_sell_price": 1,
+    "id": "SANDSTONE_STAIRS"
+  }, {
+    "material": "SANDSTONE_SLAB",
+    "durability": 3,
+    "name": "Sandstone Slab",
+    "npc_sell_price": 0.5,
+    "id": "SANDSTONE_SLAB"
+  }, {
+    "material": "SANDSTONE_WALL",
+    "name": "Sandstone Wall",
+    "npc_sell_price": 1,
+    "id": "SANDSTONE_WALL"
+  }, {
+    "material": "CHISELED_SANDSTONE",
+    "name": "Chiseled Sandstone",
+    "npc_sell_price": 1,
+    "id": "CHISELED_SANDSTONE"
+  }, {
+    "material": "SMOOTH_SANDSTONE",
+    "name": "Smooth Sandstone",
+    "npc_sell_price": 1,
+    "id": "SMOOTH_SANDSTONE"
+  }, {
+    "material": "SMOOTH_SANDSTONE_STAIRS",
+    "name": "Smooth Sandstone Stairs",
+    "npc_sell_price": 1,
+    "id": "SMOOTH_SANDSTONE_STAIRS"
+  }, {
+    "material": "SMOOTH_SANDSTONE_SLAB",
+    "durability": 3,
+    "name": "Smooth Sandstone Slab",
+    "npc_sell_price": 0.5,
+    "id": "SMOOTH_SANDSTONE_SLAB"
+  }, {
+    "material": "CUT_SANDSTONE",
+    "name": "Cut Sandstone",
+    "npc_sell_price": 1,
+    "id": "CUT_SANDSTONE"
+  }, {
+    "material": "CUT_SANDSTONE_SLAB",
+    "durability": 3,
+    "name": "Cut Sandstone Slab",
+    "npc_sell_price": 0.5,
+    "id": "CUT_SANDSTONE_SLAB"
+  }, {
+    "material": "RED_SANDSTONE",
+    "name": "Red Sandstone",
+    "npc_sell_price": 1,
+    "id": "RED_SANDSTONE"
+  }, {
+    "material": "RED_SANDSTONE_STAIRS",
+    "name": "Red Sandstone Stairs",
+    "npc_sell_price": 1,
+    "id": "RED_SANDSTONE_STAIRS"
+  }, {
+    "material": "RED_SANDSTONE_SLAB",
+    "durability": 3,
+    "name": "Red Sandstone Slab",
+    "npc_sell_price": 0.5,
+    "id": "RED_SANDSTONE_SLAB"
+  }, {
+    "material": "RED_SANDSTONE_WALL",
+    "name": "Red Sandstone Wall",
+    "npc_sell_price": 1,
+    "id": "RED_SANDSTONE_WALL"
+  }, {
+    "material": "CHISELED_RED_SANDSTONE",
+    "name": "Chiseled Red Sandstone",
+    "npc_sell_price": 1,
+    "id": "CHISELED_RED_SANDSTONE"
+  }, {
+    "material": "SMOOTH_RED_SANDSTONE",
+    "name": "Smooth Red Sandstone",
+    "npc_sell_price": 1,
+    "id": "SMOOTH_RED_SANDSTONE"
+  }, {
+    "material": "SMOOTH_RED_SANDSTONE_STAIRS",
+    "name": "Smooth Red Sandstone Stairs",
+    "npc_sell_price": 1,
+    "id": "SMOOTH_RED_SANDSTONE_STAIRS"
+  }, {
+    "material": "SMOOTH_RED_SANDSTONE_SLAB",
+    "durability": 3,
+    "name": "Smooth Red Sandstone Slab",
+    "npc_sell_price": 0.5,
+    "id": "SMOOTH_RED_SANDSTONE_SLAB"
+  }, {
+    "material": "CUT_RED_SANDSTONE",
+    "name": "Cut Red Sandstone",
+    "npc_sell_price": 1,
+    "id": "CUT_RED_SANDSTONE"
+  }, {
+    "material": "CUT_RED_SANDSTONE_SLAB",
+    "durability": 3,
+    "name": "Cut Red Sandstone Slab",
+    "npc_sell_price": 0.5,
+    "id": "CUT_RED_SANDSTONE_SLAB"
+  }, {
+    "material": "SEA_LANTERN",
+    "name": "Sea Lantern",
+    "npc_sell_price": 45,
+    "id": "SEA_LANTERN"
+  }, {
+    "material": "PRISMARINE",
+    "name": "Prismarine",
+    "npc_sell_price": 5,
+    "id": "PRISMARINE"
+  }, {
+    "material": "PRISMARINE_STAIRS",
+    "name": "Prismarine Stairs",
+    "npc_sell_price": 1,
+    "id": "PRISMARINE_STAIRS"
+  }, {
+    "material": "PRISMARINE_SLAB",
+    "durability": 3,
+    "name": "Prismarine Slab",
+    "npc_sell_price": 0.5,
+    "id": "PRISMARINE_SLAB"
+  }, {
+    "material": "PRISMARINE_WALL",
+    "name": "Prismarine Wall",
+    "npc_sell_price": 1,
+    "id": "PRISMARINE_WALL"
+  }, {
+    "material": "PRISMARINE_BRICKS",
+    "name": "Prismarine Bricks",
+    "npc_sell_price": 1,
+    "id": "PRISMARINE_BRICKS"
+  }, {
+    "material": "PRISMARINE_BRICK_STAIRS",
+    "name": "Prismarine Brick Stairs",
+    "npc_sell_price": 1,
+    "id": "PRISMARINE_BRICK_STAIRS"
+  }, {
+    "material": "PRISMARINE_BRICK_SLAB",
+    "durability": 3,
+    "name": "Prismarine Brick Slab",
+    "npc_sell_price": 0.5,
+    "id": "PRISMARINE_BRICK_SLAB"
+  }, {
+    "material": "DARK_PRISMARINE",
+    "name": "Dark Prismarine",
+    "npc_sell_price": 5,
+    "id": "DARK_PRISMARINE"
+  }, {
+    "material": "DARK_PRISMARINE_STAIRS",
+    "name": "Dark Prismarine Stairs",
+    "npc_sell_price": 1,
+    "id": "DARK_PRISMARINE_STAIRS"
+  }, {
+    "material": "DARK_PRISMARINE_SLAB",
+    "durability": 3,
+    "name": "Dark Prismarine Slab",
+    "npc_sell_price": 0.5,
+    "id": "DARK_PRISMARINE_SLAB"
+  }, {
+    "material": "NETHERRACK",
+    "name": "Netherrack",
+    "npc_sell_price": 1,
+    "id": "NETHERRACK"
+  }, {
+    "material": "NETHER_BRICKS",
+    "name": "Nether Bricks",
+    "npc_sell_price": 1,
+    "id": "NETHER_BRICKS"
+  }, {
+    "material": "CRACKED_NETHER_BRICKS",
+    "name": "Cracked Nether Bricks",
+    "npc_sell_price": 1,
+    "id": "CRACKED_NETHER_BRICKS"
+  }, {
+    "material": "NETHER_BRICK_STAIRS",
+    "name": "Nether Brick Stairs",
+    "npc_sell_price": 1,
+    "id": "NETHER_BRICK_STAIRS"
+  }, {
+    "material": "NETHER_BRICK_SLAB",
+    "durability": 3,
+    "name": "Nether Brick Slab",
+    "npc_sell_price": 0.5,
+    "id": "NETHER_BRICK_SLAB"
+  }, {
+    "material": "NETHER_BRICK_WALL",
+    "name": "Nether Brick Wall",
+    "npc_sell_price": 1,
+    "id": "NETHER_BRICK_WALL"
+  }, {
+    "material": "NETHER_BRICK_FENCE",
+    "name": "Nether Brick Fence",
+    "npc_sell_price": 1,
+    "id": "NETHER_BRICK_FENCE"
+  }, {
+    "material": "CHISELED_NETHER_BRICKS",
+    "name": "Chiseled Nether Bricks",
+    "npc_sell_price": 1,
+    "id": "CHISELED_NETHER_BRICKS"
+  }, {
+    "material": "RED_NETHER_BRICKS",
+    "name": "Red Nether Bricks",
+    "npc_sell_price": 1,
+    "id": "RED_NETHER_BRICKS"
+  }, {
+    "material": "RED_NETHER_BRICK_STAIRS",
+    "name": "Red Nether Brick Stairs",
+    "npc_sell_price": 1,
+    "id": "RED_NETHER_BRICK_STAIRS"
+  }, {
+    "material": "RED_NETHER_BRICK_SLAB",
+    "durability": 3,
+    "name": "Red Nether Brick Slab",
+    "npc_sell_price": 0.5,
+    "id": "RED_NETHER_BRICK_SLAB"
+  }, {
+    "material": "RED_NETHER_BRICK_WALL",
+    "name": "Red Nether Brick Wall",
+    "npc_sell_price": 1,
+    "id": "RED_NETHER_BRICK_WALL"
+  }, {
+    "material": "BASALT",
+    "name": "Basalt",
+    "npc_sell_price": 1,
+    "id": "BASALT"
+  }, {
+    "material": "SMOOTH_BASALT",
+    "name": "Smooth Basalt",
+    "npc_sell_price": 1,
+    "id": "SMOOTH_BASALT"
+  }, {
+    "material": "POLISHED_BASALT",
+    "name": "Polished Basalt",
+    "npc_sell_price": 1,
+    "id": "POLISHED_BASALT"
+  }, {
+    "material": "BLACKSTONE",
+    "name": "Blackstone",
+    "npc_sell_price": 1,
+    "id": "BLACKSTONE"
+  }, {
+    "material": "GILDED_BLACKSTONE",
+    "name": "Gilded Blackstone",
+    "npc_sell_price": 1,
+    "id": "GILDED_BLACKSTONE"
+  }, {
+    "material": "BLACKSTONE_STAIRS",
+    "name": "Blackstone Stairs",
+    "npc_sell_price": 1,
+    "id": "BLACKSTONE_STAIRS"
+  }, {
+    "material": "BLACKSTONE_SLAB",
+    "durability": 3,
+    "name": "Blackstone Slab",
+    "npc_sell_price": 0.5,
+    "id": "BLACKSTONE_SLAB"
+  }, {
+    "material": "BLACKSTONE_WALL",
+    "name": "Blackstone Wall",
+    "npc_sell_price": 1,
+    "id": "BLACKSTONE_WALL"
+  }, {
+    "material": "CHISELED_POLISHED_BLACKSTONE",
+    "name": "Chiseled Polished Blackstone",
+    "npc_sell_price": 1,
+    "id": "CHISELED_POLISHED_BLACKSTONE"
+  }, {
+    "material": "POLISHED_BLACKSTONE",
+    "name": "Polished Blackstone",
+    "npc_sell_price": 1,
+    "id": "POLISHED_BLACKSTONE"
+  }, {
+    "material": "POLISHED_BLACKSTONE_STAIRS",
+    "name": "Polished Blackstone Stairs",
+    "npc_sell_price": 1,
+    "id": "POLISHED_BLACKSTONE_STAIRS"
+  }, {
+    "material": "POLISHED_BLACKSTONE_SLAB",
+    "name": "Polished Blackstone Slab",
+    "npc_sell_price": 0.5,
+    "id": "POLISHED_BLACKSTONE_SLAB"
+  }, {
+    "material": "POLISHED_BLACKSTONE_WALL",
+    "name": "Polished Blackstone Wall",
+    "npc_sell_price": 1,
+    "id": "POLISHED_BLACKSTONE_WALL"
+  }, {
+    "material": "POLISHED_BLACKSTONE_PRESSURE_PLATE",
+    "name": "Polished Blackstone Pressure Plate",
+    "npc_sell_price": 2,
+    "id": "POLISHED_BLACKSTONE_PRESSURE_PLATE"
+  }, {
+    "material": "POLISHED_BLACKSTONE_BUTTON",
+    "name": "Polished Blackstone Button",
+    "npc_sell_price": 1,
+    "id": "POLISHED_BLACKSTONE_BUTTON"
+  }, {
+    "material": "POLISHED_BLACKSTONE_BRICKS",
+    "name": "Polished Blackstone Bricks",
+    "npc_sell_price": 1,
+    "id": "POLISHED_BLACKSTONE_BRICKS"
+  }, {
+    "material": "CRACKED_POLISHED_BLACKSTONE_BRICKS",
+    "name": "Cracked Polished Blackstone Bricks",
+    "npc_sell_price": 1,
+    "id": "CRACKED_POLISHED_BLACKSTONE_BRICKS"
+  }, {
+    "material": "POLISHED_BLACKSTONE_BRICK_STAIRS",
+    "name": "Polished Blackstone Brick Stairs",
+    "npc_sell_price": 1,
+    "id": "POLISHED_BLACKSTONE_BRICK_STAIRS"
+  }, {
+    "material": "POLISHED_BLACKSTONE_BRICK_SLAB",
+    "durability": 3,
+    "name": "Polished Blackstone Brick Slab",
+    "npc_sell_price": 0.5,
+    "id": "POLISHED_BLACKSTONE_BRICK_SLAB"
+  }, {
+    "material": "POLISHED_BLACKSTONE_BRICK_WALL",
+    "name": "Polished Blackstone Brick Wall",
+    "npc_sell_price": 1,
+    "id": "POLISHED_BLACKSTONE_BRICK_WALL"
+  }, {
+    "material": "END_STONE",
+    "name": "End Stone",
+    "npc_sell_price": 2,
+    "id": "END_STONE"
+  }, {
+    "material": "END_STONE_BRICKS",
+    "name": "End Stone Bricks",
+    "npc_sell_price": 1,
+    "id": "END_STONE_BRICKS"
+  }, {
+    "material": "END_STONE_BRICK_STAIRS",
+    "name": "End Stone Brick Stairs",
+    "npc_sell_price": 1,
+    "id": "END_STONE_BRICK_STAIRS"
+  }, {
+    "material": "END_STONE_BRICK_SLAB",
+    "durability": 3,
+    "name": "End Stone Brick Slab",
+    "npc_sell_price": 0.5,
+    "id": "END_STONE_BRICK_SLAB"
+  }, {
+    "material": "END_STONE_BRICK_WALL",
+    "name": "End Stone Brick Wall",
+    "npc_sell_price": 1,
+    "id": "END_STONE_BRICK_WALL"
+  }, {
+    "material": "PURPUR_BLOCK",
+    "name": "Purpur Block",
+    "npc_sell_price": 2,
+    "id": "PURPUR_BLOCK"
+  }, {
+    "material": "PURPUR_PILLAR",
+    "name": "Purpur Pillar",
+    "npc_sell_price": 2,
+    "id": "PURPUR_PILLAR"
+  }, {
+    "material": "PURPUR_STAIRS",
+    "name": "Purpur Stairs",
+    "npc_sell_price": 2,
+    "id": "PURPUR_STAIRS"
+  }, {
+    "material": "PURPUR_SLAB",
+    "name": "Purpur Slab",
+    "npc_sell_price": 2,
+    "id": "PURPUR_LAB"
+  }, {
+    "material": "COAL_BLOCK",
+    "name": "Block of Coal",
+    "npc_sell_price": 9,
+    "id": "COAL_BLOCK"
+  }, {
+    "material": "IRON_BLOCK",
+    "name": "Block of Iron",
+    "npc_sell_price": 18,
+    "id": "IRON_BLOCK"
+  }, {
+    "material": "IRON_BARS",
+    "name": "Iron Bars",
+    "npc_sell_price": 1,
+    "id": "IRON_BARS"
+  }, {
+    "material": "IRON_DOOR",
+    "name": "Iron Door",
+    "npc_sell_price": 12,
+    "id": "IRON_DOOR"
+  }, {
+    "material": "IRON_TRAPDOOR",
+    "name": "Iron Trapdoor",
+    "npc_sell_price": 8,
+    "id": "IRON_TRAPDOOR"
+  }, {
+    "material": "HEAVY_WEIGHTED_PRESSURE_PLATE",
+    "name": "Heavy Weighted Pressure Plate",
+    "npc_sell_price": 4,
+    "id": "HEAVY_WEIGHTED_PRESSURE_PLATE"
+  }, {
+    "material": "CHAIN",
+    "name": "Chain",
+    "npc_sell_price": 4,
+    "id": "CHAIN"
+  }, {
+    "material": "GOLD_BLOCK",
+    "name": "Block of Gold",
+    "npc_sell_price": 27,
+    "id": "GOLD_BLOCK"
+  }, {
+    "material": "LIGHT_WEIGHTED_PRESSURE_PLATE",
+    "name": "Light Weighted Pressure Plate",
+    "npc_sell_price": 6,
+    "id": "LIGHT_WEIGHTED_PRESSURE_PLATE"
+  }, {
+    "material": "REDSTONE_BLOCK",
+    "name": "Block of Redstone",
+    "npc_sell_price": 9,
+    "id": "REDSTONE_BLOCK"
+  }, {
+    "material": "EMERALD_BLOCK",
+    "name": "Block of Emerald",
+    "npc_sell_price": 36,
+    "id": "EMERALD_BLOCK"
+  }, {
+    "material": "LAPIS_BLOCK",
+    "name": "Block of Lapis Lazuli",
+    "npc_sell_price": 36,
+    "id": "LAPIS_BLOCK"
+  }, {
+    "material": "DIAMOND_BLOCK",
+    "name": "Block of Diamond",
+    "npc_sell_price": 72,
+    "id": "DIAMOND_BLOCK"
+  }, {
+    "material": "NETHERITE_BLOCK",
+    "name": "Block of Netherite",
+    "npc_sell_price": 1700,
+    "id": "NETHERITE_BLOCK"
+  }, {
+    "material": "QUARTZ_BLOCK",
+    "name": "Block of Quartz",
+    "npc_sell_price": 16,
+    "id": "QUARTZ_BLOCK"
+  }, {
+    "material": "QUARTZ_STAIRS",
+    "name": "Quartz Stairs",
+    "npc_sell_price": 2,
+    "id": "QUARTZ_STAIRS"
+  }, {
+    "material": "QUARTZ_SLAB",
+    "name": "Quartz Slab",
+    "npc_sell_price": 1,
+    "id": "QUARTZ_SLAB"
+  }, {
+    "material": "CHISELED_QUARTZ_BLOCK",
+    "name": "Chiseled Quartz Block",
+    "npc_sell_price": 16,
+    "id": "CHISELED_QUARTZ_BLOCK"
+  }, {
+    "material": "QUARTZ_BRICKS",
+    "name": "Quartz Bricks",
+    "npc_sell_price": 1,
+    "id": "QUARTZ_BRICKS"
+  }, {
+    "material": "QUARTZ_PILLAR",
+    "name": "Quartz Pillar",
+    "npc_sell_price": 1,
+    "id": "QUARTZ_PILLAR"
+  }, {
+    "material": "SMOOTH_QUARTZ",
+    "name": "Smooth Quartz Block",
+    "npc_sell_price": 5,
+    "id": "SMOOTH_QUARTZ"
+  }, {
+    "material": "SMOOTH_QUARTZ_STAIRS",
+    "name": "Smooth Quartz Stairs",
+    "npc_sell_price": 2,
+    "id": "SMOOTH_QUARTZ_STAIRS"
+  }, {
+    "material": "SMOOTH_QUARTZ_SLAB",
+    "name": "Smooth Quartz Slabs",
+    "npc_sell_price": 1,
+    "id": "SMOOTH_QUARTZ_SLAB"
+  }, {
+    "material": "AMETHYST_BLOCK",
+    "name": "Block of Amethyst",
+    "npc_sell_price": 2,
+    "id": "AMETHYST_BLOCK"
+  }, {
+    "material": "COPPER_BLOCK",
+    "name": "Block of Copper",
+    "npc_sell_price": 18,
+    "id": "COPPER_BLOCK"
+  }, {
+    "material": "CHISELED_COPPER",
+    "name": "Chiseled Copper",
+    "npc_sell_price": 18,
+    "id": "CHISELED_COPPER"
+  }, {
+    "material": "COPPER_GRATE",
+    "name": "Copper Grate",
+    "npc_sell_price": 18,
+    "id": "COPPER_GRATE"
+  }, {
+    "material": "CUT_COPPER",
+    "name": "Cut Copper",
+    "npc_sell_price": 18,
+    "id": "CUT_COPPER"
+  }, {
+    "material": "CUT_COPPER_STAIRS",
+    "name": "Cut Copper Stairs",
+    "npc_sell_price": 10,
+    "id": "CUT_COPPER_STAIRS"
+  }, {
+    "material": "CUT_COPPER_SLAB",
+    "name": "Cut Copper Slab",
+    "npc_sell_price": 5,
+    "id": "CUT_COPPER_SLAB"
+  }, {
+    "material": "COPPER_DOOR",
+    "name": "Copper Door",
+    "npc_sell_price": 5,
+    "id": "COPPER_DOOR"
+  }, {
+    "material": "COPPER_TRAPDOOR",
+    "name": "Copper Trapdoor",
+    "npc_sell_price": 3,
+    "id": "COPPER_TRAPDOOR"
+  }, {
+    "material": "COPPER_BULB",
+    "name": "Copper Bulb",
+    "npc_sell_price": 15,
+    "id": "COPPER_BULB"
+  }, {
+    "material": "EXPOSED_COPPER",
+    "name": "Exposed Copper",
+    "npc_sell_price": 18,
+    "id": "EXPOSED_COPPER"
+  }, {
+    "material": "EXPOSED_CHISELED_COPPER",
+    "name": "Exposed Chiseled Copper",
+    "npc_sell_price": 18,
+    "id": "EXPOSED_CHISELED_COPPER"
+  }, {
+    "material": "EXPOSED_COPPER_GRATE",
+    "name": "Exposed Copper Grate",
+    "npc_sell_price": 18,
+    "id": "EXPOSED_COPPER_GRATE"
+  }, {
+    "material": "EXPOSED_CUT_COPPER",
+    "name": "Exposed Cut Copper",
+    "npc_sell_price": 18,
+    "id": "EXPOSED_CUT_COPPER"
+  }, {
+    "material": "EXPOSED_CUT_COPPER_STAIRS",
+    "name": "Exposed Cut Copper Stairs",
+    "npc_sell_price": 10,
+    "id": "EXPOSED_CUT_COPPER_STAIRS"
+  }, {
+    "material": "EXPOSED_CUT_COPPER_SLAB",
+    "name": "Exposed Cut Copper Slab",
+    "npc_sell_price": 5,
+    "id": "EXPOSED_CUT_COPPER_SLAB"
+  }, {
+    "material": "EXPOSED_COPPER_DOOR",
+    "name": "Exposed Copper Door",
+    "npc_sell_price": 5,
+    "id": "EXPOSED_COPPER_DOOR"
+  }, {
+    "material": "EXPOSED_COPPER_TRAPDOOR",
+    "name": "Exposed Copper Trapdoor",
+    "npc_sell_price": 3,
+    "id": "EXPOSED_COPPER_TRAPDOOR"
+  }, {
+    "material": "EXPOSED_COPPER_BULB",
+    "name": "Exposed Copper Bulb",
+    "npc_sell_price": 15,
+    "id": "EXPOSED_COPPER_BULB"
+  }, {
+    "material": "WEATHERED_COPPER",
+    "name": "Weathered Copper",
+    "npc_sell_price": 18,
+    "id": "WEATHERED_COPPER"
+  }, {
+    "material": "WEATHERED_CHISELED_COPPER",
+    "name": "Weathered Chiseled Copper",
+    "npc_sell_price": 18,
+    "id": "WEATHERED_CHISELED_COPPER"
+  }, {
+    "material": "WEATHERED_COPPER_GRATE",
+    "name": "Weathered Copper Grate",
+    "npc_sell_price": 18,
+    "id": "WEATHERED_COPPER_GRATE"
+  }, {
+    "material": "WEATHERED_CUT_COPPER",
+    "name": "Weathered Cut Copper",
+    "npc_sell_price": 18,
+    "id": "WEATHERED_CUT_COPPER"
+  }, {
+    "material": "WEATHERED_CUT_COPPER_STAIRS",
+    "name": "Weathered Cut Copper Stairs",
+    "npc_sell_price": 10,
+    "id": "WEATHERED_CUT_COPPER_STAIRS"
+  }, {
+    "material": "WEATHERED_CUT_COPPER_SLAB",
+    "name": "Weathered Cut Copper Slab",
+    "npc_sell_price": 5,
+    "id": "WEATHERED_CUT_COPPER_SLAB"
+  }, {
+    "material": "WEATHERED_COPPER_DOOR",
+    "name": "Weathered Copper Door",
+    "npc_sell_price": 5,
+    "id": "WEATHERED_COPPER_DOOR"
+  }, {
+    "material": "WEATHERED_COPPER_TRAPDOOR",
+    "name": "Weathered Copper Trapdoor",
+    "npc_sell_price": 3,
+    "id": "WEATHERED_COPPER_TRAPDOOR"
+  }, {
+    "material": "WEATHERED_COPPER_BULB",
+    "name": "Weathered Copper Bulb",
+    "npc_sell_price": 15,
+    "id": "WEATHERED_COPPER_BULB"
+  }, {
+    "material": "OXIDIZED_COPPER",
+    "name": "Oxidized Copper",
+    "npc_sell_price": 18,
+    "id": "OXIDIZED_COPPER"
+  }, {
+    "material": "OXIDIZED_CHISELED_COPPER",
+    "name": "Oxidized Chiseled Copper",
+    "npc_sell_price": 18,
+    "id": "OXIDIZED_CHISELED_COPPER"
+  }, {
+    "material": "OXIDIZED_COPPER_GRATE",
+    "name": "Oxidized Copper Grate",
+    "npc_sell_price": 18,
+    "id": "OXIDIZED_COPPER_GRATE"
+  }, {
+    "material": "OXIDIZED_CUT_COPPER",
+    "name": "Oxidized Cut Copper",
+    "npc_sell_price": 18,
+    "id": "OXIDIZED_CUT_COPPER"
+  }, {
+    "material": "OXIDIZED_CUT_COPPER_STAIRS",
+    "name": "Oxidized Cut Copper Stairs",
+    "npc_sell_price": 10,
+    "id": "OXIDIZED_CUT_COPPER_STAIRS"
+  }, {
+    "material": "OXIDIZED_CUT_COPPER_SLAB",
+    "name": "Oxidized Cut Copper Slab",
+    "npc_sell_price": 5,
+    "id": "OXIDIZED_CUT_COPPER_SLAB"
+  }, {
+    "material": "OXIDIZED_COPPER_DOOR",
+    "name": "Oxidized Copper Door",
+    "npc_sell_price": 5,
+    "id": "OXIDIZED_COPPER_DOOR"
+  }, {
+    "material": "OXIDIZED_COPPER_TRAPDOOR",
+    "name": "Oxidized Copper Trapdoor",
+    "npc_sell_price": 3,
+    "id": "OXIDIZED_COPPER_TRAPDOOR"
+  }, {
+    "material": "OXIDIZED_COPPER_BULB",
+    "name": "Oxidized Copper Bulb",
+    "npc_sell_price": 15,
+    "id": "OXIDIZED_COPPER_BULB"
+  }, {
+    "material": "WAXED_COPPER_BLOCK",
+    "name": "Waxed Block of Copper",
+    "npc_sell_price": 18,
+    "id": "WAXED_COPPER_BLOCK"
+  }, {
+    "material": "WAXED_CHISELED_COPPER",
+    "name": "Waxed Chiseled Copper",
+    "npc_sell_price": 18,
+    "id": "WAXED_CHISELED_COPPER"
+  }, {
+    "material": "WAXED_COPPER_GRATE",
+    "name": "Waxed Copper Grate",
+    "npc_sell_price": 18,
+    "id": "WAXED_COPPER_GRATE"
+  }, {
+    "material": "WAXED_CUT_COPPER",
+    "name": "Waxed Cut Copper",
+    "npc_sell_price": 18,
+    "id": "WAXED_CUT_COPPER"
+  }, {
+    "material": "WAXED_CUT_COPPER_STAIRS",
+    "name": "Waxed Cut Copper Stairs",
+    "npc_sell_price": 10,
+    "id": "WAXED_CUT_COPPER_STAIRS"
+  }, {
+    "material": "WAXED_CUT_COPPER_SLAB",
+    "name": "Waxed Cut Copper Slab",
+    "npc_sell_price": 5,
+    "id": "WAXED_CUT_COPPER_SLAB"
+  }, {
+    "material": "WAXED_COPPER_DOOR",
+    "name": "Waxed Copper Door",
+    "npc_sell_price": 5,
+    "id": "WAXED_COPPER_DOOR"
+  }, {
+    "material": "WAXED_COPPER_TRAPDOOR",
+    "name": "Waxed Copper Trapdoor",
+    "npc_sell_price": 3,
+    "id": "WAXED_COPPER_TRAPDOOR"
+  }, {
+    "material": "WAXED_COPPER_BULB",
+    "name": "Waxed Copper Bulb",
+    "npc_sell_price": 15,
+    "id": "WAXED_COPPER_BULB"
+  }, {
+    "material": "WAXED_EXPOSED_COPPER",
+    "name": "Waxed Exposed Copper",
+    "npc_sell_price": 18,
+    "id": "WAXED_EXPOSED_COPPER"
+  }, {
+    "material": "WAXED_EXPOSED_CHISELED_COPPER",
+    "name": "Waxed Exposed Chiseled Copper",
+    "npc_sell_price": 18,
+    "id": "WAXED_EXPOSED_CHISELED_COPPER"
+  }, {
+    "material": "WAXED_EXPOSED_COPPER_GRATE",
+    "name": "Waxed Exposed Copper Grate",
+    "npc_sell_price": 18,
+    "id": "WAXED_EXPOSED_COPPER_GRATE"
+  }, {
+    "material": "WAXED_EXPOSED_CUT_COPPER",
+    "name": "Waxed Exposed Cut Copper",
+    "npc_sell_price": 18,
+    "id": "WAXED_EXPOSED_CUT_COPPER"
+  }, {
+    "material": "WAXED_EXPOSED_CUT_COPPER_STAIRS",
+    "name": "Waxed Exposed Cut Copper Stairs",
+    "npc_sell_price": 10,
+    "id": "WAXED_EXPOSED_CUT_COPPER_STAIRS"
+  }, {
+    "material": "WAXED_EXPOSED_CUT_COPPER_SLAB",
+    "name": "Waxed Exposed Cut Copper Slab",
+    "npc_sell_price": 5,
+    "id": "WAXED_EXPOSED_CUT_COPPER_SLAB"
+  }, {
+    "material": "WAXED_EXPOSED_COPPER_DOOR",
+    "name": "Waxed Exposed Copper Door",
+    "npc_sell_price": 5,
+    "id": "WAXED_EXPOSED_COPPER_DOOR"
+  }, {
+    "material": "WAXED_EXPOSED_COPPER_TRAPDOOR",
+    "name": "Waxed Exposed Copper Trapdoor",
+    "npc_sell_price": 3,
+    "id": "WAXED_EXPOSED_COPPER_TRAPDOOR"
+  }, {
+    "material": "WAXED_EXPOSED_COPPER_BULB",
+    "name": "Waxed Exposed Copper Bulb",
+    "npc_sell_price": 15,
+    "id": "WAXED_EXPOSED_COPPER_BULB"
+  }, {
+    "material": "WAXED_WEATHERED_COPPER",
+    "name": "Waxed Weathered Copper",
+    "npc_sell_price": 18,
+    "id": "WAXED_WEATHERED_COPPER"
+  }, {
+    "material": "WAXED_WEATHERED_CHISELED_COPPER",
+    "name": "Waxed Weathered Chiseled Copper",
+    "npc_sell_price": 18,
+    "id": "WAXED_WEATHERED_CHISELED_COPPER"
+  }, {
+    "material": "WAXED_WEATHERED_COPPER_GRATE",
+    "name": "Waxed Weathered Copper Grate",
+    "npc_sell_price": 18,
+    "id": "WAXED_WEATHERED_COPPER_GRATE"
+  }, {
+    "material": "WAXED_WEATHERED_CUT_COPPER",
+    "name": "Waxed Weathered Cut Copper",
+    "npc_sell_price": 18,
+    "id": "WAXED_WEATHERED_CUT_COPPER"
+  }, {
+    "material": "WAXED_WEATHERED_CUT_COPPER_STAIRS",
+    "name": "Waxed Weathered Cut Copper Stairs",
+    "npc_sell_price": 10,
+    "id": "WAXED_WEATHERED_CUT_COPPER_STAIRS"
+  }, {
+    "material": "WAXED_WEATHERED_CUT_COPPER_SLAB",
+    "name": "Waxed Weathered Cut Copper Slab",
+    "npc_sell_price": 5,
+    "id": "WAXED_WEATHERED_CUT_COPPER_SLAB"
+  }, {
+    "material": "WAXED_WEATHERED_COPPER_DOOR",
+    "name": "Waxed Weathered Copper Door",
+    "npc_sell_price": 5,
+    "id": "WAXED_WEATHERED_COPPER_DOOR"
+  }, {
+    "material": "WAXED_WEATHERED_COPPER_TRAPDOOR",
+    "name": "Waxed Weathered Copper Trapdoor",
+    "npc_sell_price": 3,
+    "id": "WAXED_WEATHERED_COPPER_TRAPDOOR"
+  }, {
+    "material": "WAXED_WEATHERED_COPPER_BULB",
+    "name": "Waxed Weathered Copper Bulb",
+    "npc_sell_price": 15,
+    "id": "WAXED_WEATHERED_COPPER_BULB"
+  }, {
+    "material": "WAXED_OXIDIZED_COPPER",
+    "name": "Waxed Oxidized Copper",
+    "npc_sell_price": 18,
+    "id": "WAXED_OXIDIZED_COPPER"
+  }, {
+    "material": "WAXED_OXIDIZED_CHISELED_COPPER",
+    "name": "Waxed Oxidized Chiseled Copper",
+    "npc_sell_price": 18,
+    "id": "WAXED_OXIDIZED_CHISELED_COPPER"
+  }, {
+    "material": "WAXED_OXIDIZED_COPPER_GRATE",
+    "name": "Waxed Oxidized Copper Grate",
+    "npc_sell_price": 18,
+    "id": "WAXED_OXIDIZED_COPPER_GRATE"
+  }, {
+    "material": "WAXED_OXIDIZED_CUT_COPPER",
+    "name": "Waxed Oxidized Cut Copper",
+    "npc_sell_price": 18,
+    "id": "WAXED_OXIDIZED_CUT_COPPER"
+  }, {
+    "material": "WAXED_OXIDIZED_CUT_COPPER_STAIRS",
+    "name": "Waxed Oxidized Cut Copper Stairs",
+    "npc_sell_price": 10,
+    "id": "WAXED_OXIDIZED_CUT_COPPER_STAIRS"
+  }, {
+    "material": "WAXED_OXIDIZED_CUT_COPPER_SLAB",
+    "name": "Waxed Oxidized Cut Copper Slab",
+    "npc_sell_price": 5,
+    "id": "WAXED_OXIDIZED_CUT_COPPER_SLAB"
+  }, {
+    "material": "WAXED_OXIDIZED_COPPER_DOOR",
+    "name": "Waxed Oxidized Copper Door",
+    "npc_sell_price": 5,
+    "id": "WAXED_OXIDIZED_COPPER_DOOR"
+  }, {
+    "material": "WAXED_OXIDIZED_COPPER_TRAPDOOR",
+    "name": "Waxed Oxidized Copper Trapdoor",
+    "npc_sell_price": 3,
+    "id": "WAXED_OXIDIZED_COPPER_TRAPDOOR"
+  }, {
+    "material": "WAXED_OXIDIZED_COPPER_BULB",
+    "name": "Waxed Oxidized Copper Bulb",
+    "npc_sell_price": 15,
+    "id": "WAXED_OXIDIZED_COPPER_BULB"
+  }, {
+    "material": "WHITE_WOOL",
+    "name": "White Wool",
+    "npc_sell_price": 2,
+    "id": "WHITE_WOOL"
+  }, {
+    "material": "LIGHT_GRAY_WOOL",
+    "name": "Light Gray Wool",
+    "npc_sell_price": 2,
+    "id": "LIGHT_GRAY_WOOL"
+  }, {
+    "material": "GRAY_WOOL",
+    "name": "Gray Wool",
+    "npc_sell_price": 2,
+    "id": "GRAY_WOOL"
+  }, {
+    "material": "BLACK_WOOL",
+    "name": "Black Wool",
+    "npc_sell_price": 2,
+    "id": "BLACK_WOOL"
+  }, {
+    "material": "BROWN_WOOL",
+    "name": "Brown Wool",
+    "npc_sell_price": 2,
+    "id": "BROWN_WOOL"
+  }, {
+    "material": "RED_WOOL",
+    "name": "Red Wool",
+    "npc_sell_price": 2,
+    "id": "RED_WOOL"
+  }, {
+    "material": "ORANGE_WOOL",
+    "name": "Orange Wool",
+    "npc_sell_price": 2,
+    "id": "ORANGE_WOOL"
+  }, {
+    "material": "YELLOW_WOOL",
+    "name": "Yellow Wool",
+    "npc_sell_price": 2,
+    "id": "YELLOW_WOOL"
+  }, {
+    "material": "LIME_WOOL",
+    "name": "Lime Wool",
+    "npc_sell_price": 2,
+    "id": "LIME_WOOL"
+  }, {
+    "material": "GREEN_WOOL",
+    "name": "Green Wool",
+    "npc_sell_price": 2,
+    "id": "GREEN_WOOL"
+  }, {
+    "material": "CYAN_WOOL",
+    "name": "Cyan Wool",
+    "npc_sell_price": 2,
+    "id": "CYAN_WOOL"
+  }, {
+    "material": "LIGHT_BLUE_WOOL",
+    "name": "Light Blue Wool",
+    "npc_sell_price": 2,
+    "id": "LIGHT_BLUE_WOOL"
+  }, {
+    "material": "BLUE_WOOL",
+    "name": "Blue Wool",
+    "npc_sell_price": 2,
+    "id": "BLUE_WOOL"
+  }, {
+    "material": "PURPLE_WOOL",
+    "name": "Purple Wool",
+    "npc_sell_price": 2,
+    "id": "PURPLE_WOOL"
+  }, {
+    "material": "MAGENTA_WOOL",
+    "name": "Magenta Wool",
+    "npc_sell_price": 2,
+    "id": "MAGENTA_WOOL"
+  }, {
+    "material": "PINK_WOOL",
+    "name": "Pink Wool",
+    "npc_sell_price": 2,
+    "id": "PINK_WOOL"
+  }, {
+    "material": "WHITE_CARPET",
+    "name": "White Carpet",
+    "npc_sell_price": 2,
+    "id": "WHITE_CARPET"
+  }, {
+    "material": "LIGHT_GRAY_CARPET",
+    "name": "Light Gray Carpet",
+    "npc_sell_price": 2,
+    "id": "LIGHT_GRAY_CARPET"
+  }, {
+    "material": "GRAY_CARPET",
+    "name": "Gray Carpet",
+    "npc_sell_price": 2,
+    "id": "GRAY_CARPET"
+  }, {
+    "material": "BLACK_CARPET",
+    "name": "Black Carpet",
+    "npc_sell_price": 2,
+    "id": "BLACK_CARPET"
+  }, {
+    "material": "BROWN_CARPET",
+    "name": "Brown Carpet",
+    "npc_sell_price": 2,
+    "id": "BROWN_CARPET"
+  }, {
+    "material": "RED_CARPET",
+    "name": "Red Carpet",
+    "npc_sell_price": 2,
+    "id": "RED_CARPET"
+  }, {
+    "material": "ORANGE_CARPET",
+    "name": "Orange Carpet",
+    "npc_sell_price": 2,
+    "id": "ORANGE_CARPET"
+  }, {
+    "material": "YELLOW_CARPET",
+    "name": "Yellow Carpet",
+    "npc_sell_price": 2,
+    "id": "YELLOW_CARPET"
+  }, {
+    "material": "LIME_CARPET",
+    "name": "Lime Carpet",
+    "npc_sell_price": 2,
+    "id": "LIME_CARPET"
+  }, {
+    "material": "GREEN_CARPET",
+    "name": "Green Carpet",
+    "npc_sell_price": 2,
+    "id": "GREEN_CARPET"
+  }, {
+    "material": "CYAN_CARPET",
+    "name": "Cyan Carpet",
+    "npc_sell_price": 2,
+    "id": "CYAN_CARPET"
+  }, {
+    "material": "LIGHT_BLUE_CARPET",
+    "name": "Light Blue Carpet",
+    "npc_sell_price": 2,
+    "id": "LIGHT_BLUE_CARPET"
+  }, {
+    "material": "BLUE_CARPET",
+    "name": "Blue Carpet",
+    "npc_sell_price": 2,
+    "id": "BLUE_CARPET"
+  }, {
+    "material": "PURPLE_CARPET",
+    "name": "Purple Carpet",
+    "npc_sell_price": 2,
+    "id": "PURPLE_CARPET"
+  }, {
+    "material": "MAGENTA_CARPET",
+    "name": "Magenta Carpet",
+    "npc_sell_price": 2,
+    "id": "MAGENTA_CARPET"
+  }, {
+    "material": "PINK_CARPET",
+    "name": "Pink Carpet",
+    "npc_sell_price": 2,
+    "id": "PINK_CARPET"
+  }, {
+    "material": "TERRACOTTA",
+    "name": "Terracotta",
+    "npc_sell_price": 2,
+    "id": "TERRACOTTA"
+  }, {
+    "material": "WHITE_TERRACOTTA",
+    "name": "White Terracotta",
+    "npc_sell_price": 2,
+    "id": "WHITE_TERRACOTTA"
+  }, {
+    "material": "LIGHT_GRAY_TERRACOTTA",
+    "name": "Light Gray Terracotta",
+    "npc_sell_price": 2,
+    "id": "LIGHT_GRAY_TERRACOTTA"
+  }, {
+    "material": "GRAY_TERRACOTTA",
+    "name": "Gray Terracotta",
+    "npc_sell_price": 2,
+    "id": "GRAY_TERRACOTTA"
+  }, {
+    "material": "BLACK_TERRACOTTA",
+    "name": "Black Terracotta",
+    "npc_sell_price": 2,
+    "id": "BLACK_TERRACOTTA"
+  }, {
+    "material": "BROWN_TERRACOTTA",
+    "name": "Brown Terracotta",
+    "npc_sell_price": 2,
+    "id": "BROWN_TERRACOTTA"
+  }, {
+    "material": "RED_TERRACOTTA",
+    "name": "Red Terracotta",
+    "npc_sell_price": 2,
+    "id": "RED_TERRACOTTA"
+  }, {
+    "material": "ORANGE_TERRACOTTA",
+    "name": "Orange Terracotta",
+    "npc_sell_price": 2,
+    "id": "ORANGE_TERRACOTTA"
+  }, {
+    "material": "YELLOW_TERRACOTTA",
+    "name": "Yellow Terracotta",
+    "npc_sell_price": 2,
+    "id": "YELLOW_TERRACOTTA"
+  }, {
+    "material": "LIME_TERRACOTTA",
+    "name": "Lime Terracotta",
+    "npc_sell_price": 2,
+    "id": "LIME_TERRACOTTA"
+  }, {
+    "material": "GREEN_TERRACOTTA",
+    "name": "Green Terracotta",
+    "npc_sell_price": 2,
+    "id": "GREEN_TERRACOTTA"
+  }, {
+    "material": "CYAN_TERRACOTTA",
+    "name": "Cyan Terracotta",
+    "npc_sell_price": 2,
+    "id": "CYAN_TERRACOTTA"
+  }, {
+    "material": "LIGHT_BLUE_TERRACOTTA",
+    "name": "Light Blue Terracotta",
+    "npc_sell_price": 2,
+    "id": "LIGHT_BLUE_TERRACOTTA"
+  }, {
+    "material": "BLUE_TERRACOTTA",
+    "name": "Blue Terracotta",
+    "npc_sell_price": 2,
+    "id": "BLUE_TERRACOTTA"
+  }, {
+    "material": "PURPLE_TERRACOTTA",
+    "name": "Purple Terracotta",
+    "npc_sell_price": 2,
+    "id": "PURPLE_TERRACOTTA"
+  }, {
+    "material": "MAGENTA_TERRACOTTA",
+    "name": "Magenta Terracotta",
+    "npc_sell_price": 2,
+    "id": "MAGENTA_TERRACOTTA"
+  }, {
+    "material": "PINK_TERRACOTTA",
+    "name": "Pink Terracotta",
+    "npc_sell_price": 2,
+    "id": "PINK_TERRACOTTA"
+  }, {
+    "material": "WHITE_CONCRETE",
+    "name": "White Concrete",
+    "npc_sell_price": 2,
+    "id": "WHITE_CONCRETE"
+  }, {
+    "material": "LIGHT_GRAY_CONCRETE",
+    "name": "Light Gray Concrete",
+    "npc_sell_price": 2,
+    "id": "LIGHT_GRAY_CONCRETE"
+  }, {
+    "material": "GRAY_CONCRETE",
+    "name": "Gray Concrete",
+    "npc_sell_price": 2,
+    "id": "GRAY_CONCRETE"
+  }, {
+    "material": "BLACK_CONCRETE",
+    "name": "Black Concrete",
+    "npc_sell_price": 2,
+    "id": "BLACK_CONCRETE"
+  }, {
+    "material": "BROWN_CONCRETE",
+    "name": "Brown Concrete",
+    "npc_sell_price": 2,
+    "id": "BROWN_CONCRETE"
+  }, {
+    "material": "RED_CONCRETE",
+    "name": "Red Concrete",
+    "npc_sell_price": 2,
+    "id": "RED_CONCRETE"
+  }, {
+    "material": "ORANGE_CONCRETE",
+    "name": "Orange Concrete",
+    "npc_sell_price": 2,
+    "id": "ORANGE_CONCRETE"
+  }, {
+    "material": "YELLOW_CONCRETE",
+    "name": "Yellow Concrete",
+    "npc_sell_price": 2,
+    "id": "YELLOW_CONCRETE"
+  }, {
+    "material": "LIME_CONCRETE",
+    "name": "Lime Concrete",
+    "npc_sell_price": 2,
+    "id": "LIME_CONCRETE"
+  }, {
+    "material": "GREEN_CONCRETE",
+    "name": "Green Concrete",
+    "npc_sell_price": 2,
+    "id": "GREEN_CONCRETE"
+  }, {
+    "material": "CYAN_CONCRETE",
+    "name": "Cyan Concrete",
+    "npc_sell_price": 2,
+    "id": "CYAN_CONCRETE"
+  }, {
+    "material": "LIGHT_BLUE_CONCRETE",
+    "name": "Light Blue Concrete",
+    "npc_sell_price": 2,
+    "id": "LIGHT_BLUE_CONCRETE"
+  }, {
+    "material": "BLUE_CONCRETE",
+    "name": "Blue Concrete",
+    "npc_sell_price": 2,
+    "id": "BLUE_CONCRETE"
+  }, {
+    "material": "PURPLE_CONCRETE",
+    "name": "Purple Concrete",
+    "npc_sell_price": 2,
+    "id": "PURPLE_CONCRETE"
+  }, {
+    "material": "MAGENTA_CONCRETE",
+    "name": "Magenta Concrete",
+    "npc_sell_price": 2,
+    "id": "MAGENTA_CONCRETE"
+  }, {
+    "material": "PINK_CONCRETE",
+    "name": "Pink Concrete",
+    "npc_sell_price": 2,
+    "id": "PINK_CONCRETE"
+  }, {
+    "material": "WHITE_CONCRETE_POWDER",
+    "name": "White Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "WHITE_CONCRETE_POWDER"
+  }, {
+    "material": "LIGHT_GRAY_CONCRETE_POWDER",
+    "name": "Light Gray Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "LIGHT_GRAY_CONCRETE_POWDER"
+  }, {
+    "material": "GRAY_CONCRETE_POWDER",
+    "name": "Gray Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "GRAY_CONCRETE_POWDER"
+  }, {
+    "material": "BLACK_CONCRETE_POWDER",
+    "name": "Black Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "BLACK_CONCRETE_POWDER"
+  }, {
+    "material": "BROWN_CONCRETE_POWDER",
+    "name": "Brown Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "BROWN_CONCRETE_POWDER"
+  }, {
+    "material": "RED_CONCRETE_POWDER",
+    "name": "Red Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "RED_CONCRETE_POWDER"
+  }, {
+    "material": "ORANGE_CONCRETE_POWDER",
+    "name": "Orange Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "ORANGE_CONCRETE_POWDER"
+  }, {
+    "material": "YELLOW_CONCRETE_POWDER",
+    "name": "Yellow Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "YELLOW_CONCRETE_POWDER"
+  }, {
+    "material": "LIME_CONCRETE_POWDER",
+    "name": "Lime Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "LIME_CONCRETE_POWDER"
+  }, {
+    "material": "GREEN_CONCRETE_POWDER",
+    "name": "Green Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "GREEN_CONCRETE_POWDER"
+  }, {
+    "material": "CYAN_CONCRETE_POWDER",
+    "name": "Cyan Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "CYAN_CONCRETE_POWDER"
+  }, {
+    "material": "LIGHT_BLUE_CONCRETE_POWDER",
+    "name": "Light Blue Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "LIGHT_BLUE_CONCRETE_POWDER"
+  }, {
+    "material": "BLUE_CONCRETE_POWDER",
+    "name": "Blue Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "BLUE_CONCRETE_POWDER"
+  }, {
+    "material": "PURPLE_CONCRETE_POWDER",
+    "name": "Purple Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "PURPLE_CONCRETE_POWDER"
+  }, {
+    "material": "MAGENTA_CONCRETE_POWDER",
+    "name": "Magenta Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "MAGENTA_CONCRETE_POWDER"
+  }, {
+    "material": "PINK_CONCRETE_POWDER",
+    "name": "Pink Concrete Powder",
+    "npc_sell_price": 2,
+    "id": "PINK_CONCRETE_POWDER"
+  }, {
+    "material": "WHITE_GLAZED_TERRACOTTA",
+    "name": "White Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "WHITE_GLAZED_TERRACOTTA"
+  }, {
+    "material": "LIGHT_GRAY_GLAZED_TERRACOTTA",
+    "name": "Light Gray Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "LIGHT_GRAY_GLAZED_TERRACOTTA"
+  }, {
+    "material": "GRAY_GLAZED_TERRACOTTA",
+    "name": "Gray Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "GRAY_GLAZED_TERRACOTTA"
+  }, {
+    "material": "BLACK_GLAZED_TERRACOTTA",
+    "name": "Black Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "BLACK_GLAZED_TERRACOTTA"
+  }, {
+    "material": "BROWN_GLAZED_TERRACOTTA",
+    "name": "Brown Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "BROWN_GLAZED_TERRACOTTA"
+  }, {
+    "material": "RED_GLAZED_TERRACOTTA",
+    "name": "Red Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "RED_GLAZED_TERRACOTTA"
+  }, {
+    "material": "ORANGE_GLAZED_TERRACOTTA",
+    "name": "Orange Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "ORANGE_GLAZED_TERRACOTTA"
+  }, {
+    "material": "YELLOW_GLAZED_TERRACOTTA",
+    "name": "Yellow Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "YELLOW_GLAZED_TERRACOTTA"
+  }, {
+    "material": "LIME_GLAZED_TERRACOTTA",
+    "name": "Lime Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "LIME_GLAZED_TERRACOTTA"
+  }, {
+    "material": "GREEN_GLAZED_TERRACOTTA",
+    "name": "Green Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "GREEN_GLAZED_TERRACOTTA"
+  }, {
+    "material": "CYAN_GLAZED_TERRACOTTA",
+    "name": "Cyan Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "CYAN_GLAZED_TERRACOTTA"
+  }, {
+    "material": "LIGHT_BLUE_GLAZED_TERRACOTTA",
+    "name": "Light Blue Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "LIGHT_BLUE_GLAZED_TERRACOTTA"
+  }, {
+    "material": "BLUE_GLAZED_TERRACOTTA",
+    "name": "Blue Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "BLUE_GLAZED_TERRACOTTA"
+  }, {
+    "material": "PURPLE_GLAZED_TERRACOTTA",
+    "name": "Purple Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "PURPLE_GLAZED_TERRACOTTA"
+  }, {
+    "material": "MAGENTA_GLAZED_TERRACOTTA",
+    "name": "Magenta Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "MAGENTA_GLAZED_TERRACOTTA"
+  }, {
+    "material": "PINK_GLAZED_TERRACOTTA",
+    "name": "Pink Glazed Terracotta",
+    "npc_sell_price": 2,
+    "id": "PINK_GLAZED_TERRACOTTA"
+  }, {
+    "material": "GLASS",
+    "name": "Glass",
+    "npc_sell_price": 2,
+    "id": "GLASS"
+  }, {
+    "material": "TINTED_GLASS",
+    "name": "Tinted Glass",
+    "npc_sell_price": 2,
+    "id": "TINTED_GLASS"
+  }, {
+    "material": "WHITE_STAINED_GLASS",
+    "name": "White Stained Glass",
+    "npc_sell_price": 2,
+    "id": "WHITE_STAINED_GLASS"
+  }, {
+    "material": "LIGHT_GRAY_STAINED_GLASS",
+    "name": "Light Gray Stained Glass",
+    "npc_sell_price": 2,
+    "id": "LIGHT_GRAY_STAINED_GLASS"
+  }, {
+    "material": "GRAY_STAINED_GLASS",
+    "name": "Gray Stained Glass",
+    "npc_sell_price": 2,
+    "id": "GRAY_STAINED_GLASS"
+  }, {
+    "material": "BLACK_STAINED_GLASS",
+    "name": "Black Stained Glass",
+    "npc_sell_price": 2,
+    "id": "BLACK_STAINED_GLASS"
+  }, {
+    "material": "BROWN_STAINED_GLASS",
+    "name": "Brown Stained Glass",
+    "npc_sell_price": 2,
+    "id": "BROWN_STAINED_GLASS"
+  }, {
+    "material": "RED_STAINED_GLASS",
+    "name": "Red Stained Glass",
+    "npc_sell_price": 2,
+    "id": "RED_STAINED_GLASS"
+  }, {
+    "material": "ORANGE_STAINED_GLASS",
+    "name": "Orange Stained Glass",
+    "npc_sell_price": 2,
+    "id": "ORANGE_STAINED_GLASS"
+  }, {
+    "material": "YELLOW_STAINED_GLASS",
+    "name": "Yellow Stained Glass",
+    "npc_sell_price": 2,
+    "id": "YELLOW_STAINED_GLASS"
+  }, {
+    "material": "LIME_STAINED_GLASS",
+    "name": "Lime Stained Glass",
+    "npc_sell_price": 2,
+    "id": "LIME_STAINED_GLASS"
+  }, {
+    "material": "GREEN_STAINED_GLASS",
+    "name": "Green Stained Glass",
+    "npc_sell_price": 2,
+    "id": "GREEN_STAINED_GLASS"
+  }, {
+    "material": "CYAN_STAINED_GLASS",
+    "name": "Cyan Stained Glass",
+    "npc_sell_price": 2,
+    "id": "CYAN_STAINED_GLASS"
+  }, {
+    "material": "LIGHT_BLUE_STAINED_GLASS",
+    "name": "Light Blue Stained Glass",
+    "npc_sell_price": 2,
+    "id": "LIGHT_BLUE_STAINED_GLASS"
+  }, {
+    "material": "BLUE_STAINED_GLASS",
+    "name": "Blue Stained Glass",
+    "npc_sell_price": 2,
+    "id": "BLUE_STAINED_GLASS"
+  }, {
+    "material": "PURPLE_STAINED_GLASS",
+    "name": "Purple Stained Glass",
+    "npc_sell_price": 2,
+    "id": "PURPLE_STAINED_GLASS"
+  }, {
+    "material": "MAGENTA_STAINED_GLASS",
+    "name": "Magenta Stained Glass",
+    "npc_sell_price": 2,
+    "id": "MAGENTA_STAINED_GLASS"
+  }, {
+    "material": "PINK_STAINED_GLASS",
+    "name": "Pink Stained Glass",
+    "npc_sell_price": 2,
+    "id": "PINK_STAINED_GLASS"
+  }, {
+    "material": "GLASS_PANE",
+    "name": "Glass Pane",
+    "npc_sell_price": 2,
+    "id": "GLASS_PANE"
+  }, {
+    "material": "WHITE_STAINED_GLASS_PANE",
+    "name": "White Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "WHITE_STAINED_GLASS_PANE"
+  }, {
+    "material": "LIGHT_GRAY_STAINED_GLASS_PANE",
+    "name": "Light Gray Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "LIGHT_GRAY_STAINED_GLASS_PANE"
+  }, {
+    "material": "GRAY_STAINED_GLASS_PANE",
+    "name": "Gray Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "GRAY_STAINED_GLASS_PANE"
+  }, {
+    "material": "BLACK_STAINED_GLASS_PANE",
+    "name": "Black Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "BLACK_STAINED_GLASS_PANE"
+  }, {
+    "material": "BROWN_STAINED_GLASS_PANE",
+    "name": "Brown Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "BROWN_STAINED_GLASS_PANE"
+  }, {
+    "material": "RED_STAINED_GLASS_PANE",
+    "name": "Red Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "RED_STAINED_GLASS_PANE"
+  }, {
+    "material": "ORANGE_STAINED_GLASS_PANE",
+    "name": "Orange Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "ORANGE_STAINED_GLASS_PANE"
+  }, {
+    "material": "YELLOW_STAINED_GLASS_PANE",
+    "name": "Yellow Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "YELLOW_STAINED_GLASS_PANE"
+  }, {
+    "material": "LIME_STAINED_GLASS_PANE",
+    "name": "Lime Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "LIME_STAINED_GLASS_PANE"
+  }, {
+    "material": "GREEN_STAINED_GLASS_PANE",
+    "name": "Green Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "GREEN_STAINED_GLASS_PANE"
+  }, {
+    "material": "CYAN_STAINED_GLASS_PANE",
+    "name": "Cyan Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "CYAN_STAINED_GLASS_PANE"
+  }, {
+    "material": "LIGHT_BLUE_STAINED_GLASS_PANE",
+    "name": "Light Blue Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "LIGHT_BLUE_STAINED_GLASS_PANE"
+  }, {
+    "material": "BLUE_STAINED_GLASS_PANE",
+    "name": "Blue Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "BLUE_STAINED_GLASS_PANE"
+  }, {
+    "material": "PURPLE_STAINED_GLASS_PANE",
+    "name": "Purple Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "PURPLE_STAINED_GLASS_PANE"
+  }, {
+    "material": "MAGENTA_STAINED_GLASS_PANE",
+    "name": "Magenta Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "MAGENTA_STAINED_GLASS_PANE"
+  }, {
+    "material": "PINK_STAINED_GLASS_PANE",
+    "name": "Pink Stained Glass Pane",
+    "npc_sell_price": 2,
+    "id": "PINK_STAINED_GLASS_PANE"
+  }, {
+    "material": "SHULKER_BOX",
+    "name": "Shulker Box",
+    "npc_sell_price": 50,
+    "id": "SHULKER_BOX"
+  }, {
+    "material": "WHITE_SHULKER_BOX",
+    "name": "White Shulker Box",
+    "npc_sell_price": 50,
+    "id": "WHITE_SHULKER_BOX"
+  }, {
+    "material": "LIGHT_GRAY_SHULKER_BOX",
+    "name": "Light Gray Shulker Box",
+    "npc_sell_price": 50,
+    "id": "LIGHT_GRAY_SHULKER_BOX"
+  }, {
+    "material": "GRAY_SHULKER_BOX",
+    "name": "Gray Shulker Box",
+    "npc_sell_price": 50,
+    "id": "GRAY_SHULKER_BOX"
+  }, {
+    "material": "BLACK_SHULKER_BOX",
+    "name": "Black Shulker Box",
+    "npc_sell_price": 50,
+    "id": "BLACK_SHULKER_BOX"
+  }, {
+    "material": "BROWN_SHULKER_BOX",
+    "name": "Brown Shulker Box",
+    "npc_sell_price": 50,
+    "id": "BROWN_SHULKER_BOX"
+  }, {
+    "material": "RED_SHULKER_BOX",
+    "name": "Red Shulker Box",
+    "npc_sell_price": 50,
+    "id": "RED_SHULKER_BOX"
+  }, {
+    "material": "ORANGE_SHULKER_BOX",
+    "name": "Orange Shulker Box",
+    "npc_sell_price": 50,
+    "id": "ORANGE_SHULKER_BOX"
+  }, {
+    "material": "YELLOW_SHULKER_BOX",
+    "name": "Yellow Shulker Box",
+    "npc_sell_price": 50,
+    "id": "YELLOW_SHULKER_BOX"
+  }, {
+    "material": "LIME_SHULKER_BOX",
+    "name": "Lime Shulker Box",
+    "npc_sell_price": 50,
+    "id": "LIME_SHULKER_BOX"
+  }, {
+    "material": "GREEN_SHULKER_BOX",
+    "name": "Green Shulker Box",
+    "npc_sell_price": 50,
+    "id": "GREEN_SHULKER_BOX"
+  }, {
+    "material": "CYAN_SHULKER_BOX",
+    "name": "Cyan Shulker Box",
+    "npc_sell_price": 50,
+    "id": "CYAN_SHULKER_BOX"
+  }, {
+    "material": "LIGHT_BLUE_SHULKER_BOX",
+    "name": "Light Blue Shulker Box",
+    "npc_sell_price": 50,
+    "id": "LIGHT_BLUE_SHULKER_BOX"
+  }, {
+    "material": "BLUE_SHULKER_BOX",
+    "name": "Blue Shulker Box",
+    "npc_sell_price": 50,
+    "id": "BLUE_SHULKER_BOX"
+  }, {
+    "material": "PURPLE_SHULKER_BOX",
+    "name": "Purple Shulker Box",
+    "npc_sell_price": 50,
+    "id": "PURPLE_SHULKER_BOX"
+  }, {
+    "material": "MAGENTA_SHULKER_BOX",
+    "name": "Magenta Shulker Box",
+    "npc_sell_price": 50,
+    "id": "MAGENTA_SHULKER_BOX"
+  }, {
+    "material": "PINK_SHULKER_BOX",
+    "name": "Pink Shulker Box",
+    "npc_sell_price": 50,
+    "id": "PINK_SHULKER_BOX"
+  }, {
+    "material": "WHITE_BED",
+    "name": "White Bed",
+    "npc_sell_price": 2,
+    "id": "WHITE_BED"
+  }, {
+    "material": "LIGHT_GRAY_BED",
+    "name": "Light Gray Bed",
+    "npc_sell_price": 2,
+    "id": "LIGHT_GRAY_BED"
+  }, {
+    "material": "GRAY_BED",
+    "name": "Gray Bed",
+    "npc_sell_price": 2,
+    "id": "GRAY_BED"
+  }, {
+    "material": "BLACK_BED",
+    "name": "Black Bed",
+    "npc_sell_price": 2,
+    "id": "BLACK_BED"
+  }, {
+    "material": "BROWN_BED",
+    "name": "Brown Bed",
+    "npc_sell_price": 2,
+    "id": "BROWN_BED"
+  }, {
+    "material": "RED_BED",
+    "name": "Red Bed",
+    "npc_sell_price": 2,
+    "id": "RED_BED"
+  }, {
+    "material": "ORANGE_BED",
+    "name": "Orange Bed",
+    "npc_sell_price": 2,
+    "id": "ORANGE_BED"
+  }, {
+    "material": "YELLOW_BED",
+    "name": "Yellow Bed",
+    "npc_sell_price": 2,
+    "id": "YELLOW_BED"
+  }, {
+    "material": "LIME_BED",
+    "name": "Lime Bed",
+    "npc_sell_price": 2,
+    "id": "LIME_BED"
+  }, {
+    "material": "GREEN_BED",
+    "name": "Green Bed",
+    "npc_sell_price": 2,
+    "id": "GREEN_BED"
+  }, {
+    "material": "CYAN_BED",
+    "name": "Cyan Bed",
+    "npc_sell_price": 2,
+    "id": "CYAN_BED"
+  }, {
+    "material": "LIGHT_BLUE_BED",
+    "name": "Light Blue Bed",
+    "npc_sell_price": 2,
+    "id": "LIGHT_BLUE_BED"
+  }, {
+    "material": "BLUE_BED",
+    "name": "Blue Bed",
+    "npc_sell_price": 2,
+    "id": "BLUE_BED"
+  }, {
+    "material": "PURPLE_BED",
+    "name": "Purple Bed",
+    "npc_sell_price": 2,
+    "id": "PURPLE_BED"
+  }, {
+    "material": "MAGENTA_BED",
+    "name": "Magenta Bed",
+    "npc_sell_price": 2,
+    "id": "MAGENTA_BED"
+  }, {
+    "material": "PINK_BED",
+    "name": "Pink Bed",
+    "npc_sell_price": 2,
+    "id": "PINK_BED"
+  }, {
+    "material": "CANDLE",
+    "name": "Candle",
+    "npc_sell_price": 2,
+    "id": "CANDLE"
+  }, {
+    "material": "WHITE_CANDLE",
+    "name": "White Candle",
+    "npc_sell_price": 2,
+    "id": "WHITE_CANDLE"
+  }, {
+    "material": "LIGHT_GRAY_CANDLE",
+    "name": "Light Gray Candle",
+    "npc_sell_price": 2,
+    "id": "LIGHT_GRAY_CANDLE"
+  }, {
+    "material": "GRAY_CANDLE",
+    "name": "Gray Candle",
+    "npc_sell_price": 2,
+    "id": "GRAY_CANDLE"
+  }, {
+    "material": "BLACK_CANDLE",
+    "name": "Black Candle",
+    "npc_sell_price": 2,
+    "id": "BLACK_CANDLE"
+  }, {
+    "material": "BROWN_CANDLE",
+    "name": "Brown Candle",
+    "npc_sell_price": 2,
+    "id": "BROWN_CANDLE"
+  }, {
+    "material": "RED_CANDLE",
+    "name": "Red Candle",
+    "npc_sell_price": 2,
+    "id": "RED_CANDLE"
+  }, {
+    "material": "ORANGE_CANDLE",
+    "name": "Orange Candle",
+    "npc_sell_price": 2,
+    "id": "ORANGE_CANDLE"
+  }, {
+    "material": "YELLOW_CANDLE",
+    "name": "Yellow Candle",
+    "npc_sell_price": 2,
+    "id": "YELLOW_CANDLE"
+  }, {
+    "material": "LIME_CANDLE",
+    "name": "Lime Candle",
+    "npc_sell_price": 2,
+    "id": "LIME_CANDLE"
+  }, {
+    "material": "GREEN_CANDLE",
+    "name": "Green Candle",
+    "npc_sell_price": 2,
+    "id": "GREEN_CANDLE"
+  }, {
+    "material": "CYAN_CANDLE",
+    "name": "Cyan Candle",
+    "npc_sell_price": 2,
+    "id": "CYAN_CANDLE"
+  }, {
+    "material": "LIGHT_BLUE_CANDLE",
+    "name": "Light Blue Candle",
+    "npc_sell_price": 2,
+    "id": "LIGHT_BLUE_CANDLE"
+  }, {
+    "material": "BLUE_CANDLE",
+    "name": "Blue Candle",
+    "npc_sell_price": 2,
+    "id": "BLUE_CANDLE"
+  }, {
+    "material": "PURPLE_CANDLE",
+    "name": "Purple Candle",
+    "npc_sell_price": 2,
+    "id": "PURPLE_CANDLE"
+  }, {
+    "material": "MAGENTA_CANDLE",
+    "name": "Magenta Candle",
+    "npc_sell_price": 2,
+    "id": "MAGENTA_CANDLE"
+  }, {
+    "material": "PINK_CANDLE",
+    "name": "Pink Candle",
+    "npc_sell_price": 2,
+    "id": "PINK_CANDLE"
+  }, {
+    "material": "WHITE_BANNER",
+    "name": "White Banner",
+    "npc_sell_price": 2,
+    "id": "WHITE_BANNER"
+  }, {
+    "material": "LIGHT_GRAY_BANNER",
+    "name": "Light Gray Banner",
+    "npc_sell_price": 2,
+    "id": "LIGHT_GRAY_BANNER"
+  }, {
+    "material": "GRAY_BANNER",
+    "name": "Gray Banner",
+    "npc_sell_price": 2,
+    "id": "GRAY_BANNER"
+  }, {
+    "material": "BLACK_BANNER",
+    "name": "Black Banner",
+    "npc_sell_price": 2,
+    "id": "BLACK_BANNER"
+  }, {
+    "material": "BROWN_BANNER",
+    "name": "Brown Banner",
+    "npc_sell_price": 2,
+    "id": "BROWN_BANNER"
+  }, {
+    "material": "RED_BANNER",
+    "name": "Red Banner",
+    "npc_sell_price": 2,
+    "id": "RED_BANNER"
+  }, {
+    "material": "ORANGE_BANNER",
+    "name": "Orange Banner",
+    "npc_sell_price": 2,
+    "id": "ORANGE_BANNER"
+  }, {
+    "material": "YELLOW_BANNER",
+    "name": "Yellow Banner",
+    "npc_sell_price": 2,
+    "id": "YELLOW_BANNER"
+  }, {
+    "material": "LIME_BANNER",
+    "name": "Lime Banner",
+    "npc_sell_price": 2,
+    "id": "LIME_BANNER"
+  }, {
+    "material": "GREEN_BANNER",
+    "name": "Green Banner",
+    "npc_sell_price": 2,
+    "id": "GREEN_BANNER"
+  }, {
+    "material": "CYAN_BANNER",
+    "name": "Cyan Banner",
+    "npc_sell_price": 2,
+    "id": "CYAN_BANNER"
+  }, {
+    "material": "LIGHT_BLUE_BANNER",
+    "name": "Light Blue Banner",
+    "npc_sell_price": 2,
+    "id": "LIGHT_BLUE_BANNER"
+  }, {
+    "material": "BLUE_BANNER",
+    "name": "Blue Banner",
+    "npc_sell_price": 2,
+    "id": "BLUE_BANNER"
+  }, {
+    "material": "PURPLE_BANNER",
+    "name": "Purple Banner",
+    "npc_sell_price": 2,
+    "id": "PURPLE_BANNER"
+  }, {
+    "material": "MAGENTA_BANNER",
+    "name": "Magenta Banner",
+    "npc_sell_price": 2,
+    "id": "MAGENTA_BANNER"
+  }, {
+    "material": "PINK_BANNER",
+    "name": "Pink Banner",
+    "npc_sell_price": 2,
+    "id": "PINK_BANNER"
+  }, {
+    "material": "GRASS_BLOCK",
+    "name": "Grass Block",
+    "npc_sell_price": 1,
+    "id": "GRASS_BLOCK"
+  }, {
+    "material": "PODZOL",
+    "name": "Podzol",
+    "npc_sell_price": 5,
+    "id": "PODZOL"
+  }, {
+    "material": "MYCELIUM",
+    "name": "Mycelium",
+    "npc_sell_price": 2,
+    "id": "MYCELIUM"
+  }, {
+    "material": "DIRT_PATH",
+    "name": "Dirt Path",
+    "npc_sell_price": 1,
+    "id": "DIRT_PATH"
+  }, {
+    "material": "DIRT",
+    "name": "Dirt",
+    "npc_sell_price": 1,
+    "id": "DIRT"
+  }, {
+    "material": "COARSE_DIRT",
+    "name": "Coarse Dirt",
+    "npc_sell_price": 1,
+    "id": "COARSE_DIRT"
+  }, {
+    "material": "ROOTED_DIRT",
+    "name": "Rooted Dirt",
+    "npc_sell_price": 1,
+    "id": "ROOTED_DIRT"
+  }, {
+    "material": "FARMLAND",
+    "name": "Farmland",
+    "npc_sell_price": 1,
+    "id": "FARMLAND"
+  }, {
+    "material": "MUD",
+    "name": "Mud",
+    "npc_sell_price": 2,
+    "id": "MUD"
+  }, {
+    "material": "CLAY",
+    "name": "Clay",
+    "npc_sell_price": 4,
+    "id": "CLAY"
+  }, {
+    "material": "GRAVEL",
+    "name": "Gravel",
+    "npc_sell_price": 3,
+    "id": "GRAVEL"
+  }, {
+    "material": "SAND",
+    "name": "Sand",
+    "npc_sell_price": 2,
+    "id": "SAND"
+  }, {
+    "material": "RED_SAND",
+    "name": "Red Sand",
+    "npc_sell_price": 5,
+    "id": "RED_SAND"
+  }, {
+    "material": "ICE",
+    "name": "Ice",
+    "npc_sell_price": 0.5,
+    "id": "ICE"
+  }, {
+    "material": "PACKED_ICE",
+    "name": "Packed Ice",
+    "npc_sell_price": 4.5,
+    "id": "PACKED_ICE"
+  }, {
+    "material": "BLUE_ICE",
+    "name": "Blue Ice",
+    "npc_sell_price": 3,
+    "id": "BLUE_ICE"
+  }, {
+    "material": "SNOW_BLOCK",
+    "name": "Snow Block",
+    "npc_sell_price": 4,
+    "id": "SNOW_BLOCK"
+  }, {
+    "material": "SNOW",
+    "name": "Snow",
+    "npc_sell_price": 1,
+    "id": "SNOW"
+  }, {
+    "material": "MOSS_BLOCK",
+    "name": "Moss Block",
+    "npc_sell_price": 3,
+    "id": "MOSS_BLOCK"
+  }, {
+    "material": "MOSS_CARPET",
+    "name": "Moss Carpet",
+    "npc_sell_price": 1,
+    "id": "MOSS_CARPET"
+  }, {
+    "material": "CALCITE",
+    "name": "Calcite",
+    "npc_sell_price": 3,
+    "id": "CALCITE"
+  }, {
+    "material": "DRIPSTONE_BLOCK",
+    "name": "Dripstone Block",
+    "npc_sell_price": 2,
+    "id": "DRIPSTONE_BLOCK"
+  }, {
+    "material": "POINTED_DRIPSTONE",
+    "name": "Pointed Dripstone",
+    "npc_sell_price": 2,
+    "id": "POINTED_DRIPSTONE"
+  }, {
+    "material": "MAGMA_BLOCK",
+    "name": "Magma Block",
+    "npc_sell_price": 4,
+    "id": "MAGMA_BLOCK"
+  }, {
+    "material": "OBSIDIAN",
+    "name": "Obsidian",
+    "npc_sell_price": 7,
+    "id": "OBSIDIAN"
+  }, {
+    "material": "CRYING_OBSIDIAN",
+    "name": "Crying Obsidian",
+    "npc_sell_price": 10,
+    "id": "CRYING_OBSIDIAN"
+  }, {
+    "material": "CRIMSON_NYLIUM",
+    "name": "Crimson Nylium",
+    "npc_sell_price": 3,
+    "id": "CRIMSON_NYLIUM"
+  }, {
+    "material": "WARPED_NYLIUM",
+    "name": "Warped Nylium",
+    "npc_sell_price": 3,
+    "id": "WARPED_NYLIUM"
+  }, {
+    "material": "SOUL_SAND",
+    "name": "Soul Sand",
+    "npc_sell_price": 4,
+    "id": "SOUL_SAND"
+  }, {
+    "material": "SOUL_SOIL",
+    "name": "Soul Soil",
+    "npc_sell_price": 4,
+    "id": "SOUL_SOIL"
+  }, {
+    "material": "BONE_BLOCK",
+    "name": "Bone Block",
+    "npc_sell_price": 6,
+    "id": "BONE_BLOCK"
+  }, {
+    "material": "COAL_ORE",
+    "name": "Coal Ore",
+    "npc_sell_price": 2,
+    "id": "COAL_ORE"
+  }, {
+    "material": "DEEPSLATE_COAL_ORE",
+    "name": "Deepslate Coal Ore",
+    "npc_sell_price": 2,
+    "id": "DEEPSLATE_COAL_ORE"
+  }, {
+    "material": "IRON_ORE",
+    "name": "Iron Ore",
+    "npc_sell_price": 3,
+    "id": "IRON_ORE"
+  }, {
+    "material": "DEEPSLATE_IRON_ORE",
+    "name": "Deepslate Iron Ore",
+    "npc_sell_price": 3,
+    "id": "DEEPSLATE_IRON_ORE"
+  }, {
+    "material": "COPPER_ORE",
+    "name": "Copper Ore",
+    "npc_sell_price": 4,
+    "id": "COPPER_ORE"
+  }, {
+    "material": "DEEPSLATE_COPPER_ORE",
+    "name": "Deepslate Copper Ore",
+    "npc_sell_price": 4,
+    "id": "DEEPSLATE_COPPER_ORE"
+  }, {
+    "material": "GOLD_ORE",
+    "name": "Gold Ore",
+    "npc_sell_price": 4,
+    "id": "GOLD_ORE"
+  }, {
+    "material": "DEEPSLATE_GOLD_ORE",
+    "name": "Deepslate Gold Ore",
+    "npc_sell_price": 4,
+    "id": "DEEPSLATE_GOLD_ORE"
+  }, {
+    "material": "REDSTONE_ORE",
+    "name": "Redstone Ore",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 6,
+    "id": "REDSTONE_ORE"
+  }, {
+    "material": "DEEPSLATE_REDSTONE_ORE",
+    "name": "Deepslate Redstone Ore",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 6,
+    "id": "DEEPSLATE_REDSTONE_ORE"
+  }, {
+    "material": "EMERALD_ORE",
+    "name": "Emerald Ore",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 8,
+    "id": "EMERALD_ORE"
+  }, {
+    "material": "DEEPSLATE_EMERALD_ORE",
+    "name": "Deepslate Emerald Ore",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 8,
+    "id": "DEEPSLATE_EMERALD_ORE"
+  }, {
+    "material": "LAPIS_ORE",
+    "name": "Lapis Lazuli Ore",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 5,
+    "id": "LAPIS_ORE"
+  }, {
+    "material": "DEEPSLATE_LAPIS_ORE",
+    "name": "Deepslate Lapis Lazuli Ore",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 5,
+    "id": "DEEPSLATE_LAPIS_ORE"
+  }, {
+    "material": "DIAMOND_ORE",
+    "name": "Diamond Ore",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10,
+    "id": "DIAMOND_ORE"
+  }, {
+    "material": "DEEPSLATE_DIAMOND_ORE",
+    "name": "Deepslate Diamond Ore",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10,
+    "id": "DEEPSLATE_DIAMOND_ORE"
+  }, {
+    "material": "NETHER_GOLD_ORE",
+    "name": "Nether Gold Ore",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 5,
+    "id": "NETHER_GOLD_ORE"
+  }, {
+    "material": "NETHER_QUARTZ_ORE",
+    "name": "Nether Quartz Ore",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 6,
+    "id": "NETHER_QUARTZ_ORE"
+  }, {
+    "material": "ANCIENT_DEBRIS",
+    "name": "Ancient Debris",
+    "tier": "RARE",
+    "npc_sell_price": 45,
+    "id": "ANCIENT_DEBRIS"
+  }, {
+    "material": "RAW_IRON_BLOCK",
+    "name": "Block of Raw Iron",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 12,
+    "id": "RAW_IRON_BLOCK"
+  }, {
+    "material": "RAW_COPPER_BLOCK",
+    "name": "Block of Raw Copper",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 8,
+    "id": "RAW_COPPER_BLOCK"
+  }, {
+    "material": "RAW_GOLD_BLOCK",
+    "name": "Block of Raw Gold",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10,
+    "id": "RAW_GOLD_BLOCK"
+  }, {
+    "material": "GLOWSTONE",
+    "name": "Glowstone",
+    "npc_sell_price": 8,
+    "id": "GLOWSTONE"
+  }, {
+    "material": "BUDDING_AMETHYST",
+    "name": "Budding Amethyst",
+    "npc_sell_price": 5,
+    "id": "BUDDING_AMETHYST"
+  }, {
+    "material": "SMALL_AMETHYST_BUD",
+    "name": "Small Amethyst Bud",
+    "npc_sell_price": 4,
+    "id": "SMALL_AMETHYST_BUD"
+  }, {
+    "material": "MEDIUM_AMETHYST_BUD",
+    "name": "Medium Amethyst Bud",
+    "npc_sell_price": 4,
+    "id": "MEDIUM_AMETHYST_BUD"
+  }, {
+    "material": "LARGE_AMETHYST_BUD",
+    "name": "Large Amethyst Bud",
+    "npc_sell_price": 4,
+    "id": "LARGE_AMETHYST_BUD"
+  }, {
+    "material": "AMETHYST_CLUSTER",
+    "name": "Amethyst Cluster",
+    "npc_sell_price": 5,
+    "id": "AMETHYST_CLUSTER"
+  }, {
+    "material": "MANGROVE_ROOTS",
+    "name": "Mangrove Roots",
+    "npc_sell_price": 3,
+    "id": "MANGROVE_ROOTS"
+  }, {
+    "material": "MUDDY_MANGROVE_ROOTS",
+    "name": "Muddy Mangrove Roots",
+    "npc_sell_price": 4,
+    "id": "MUDDY_MANGROVE_ROOTS"
+  }, {
+    "material": "MUSHROOM_STEM",
+    "name": "Mushroom Stem",
+    "npc_sell_price": 5,
+    "id": "MUSHROOM_STEM"
+  }, {
+    "material": "OAK_LEAVES",
+    "name": "Oak Leaves",
+    "npc_sell_price": 2,
+    "id": "OAK_LEAVES"
+  }, {
+    "material": "SPRUCE_LEAVES",
+    "name": "Spruce Leaves",
+    "npc_sell_price": 2,
+    "id": "SPRUCE_LEAVES"
+  }, {
+    "material": "BIRCH_LEAVES",
+    "name": "Birch Leaves",
+    "npc_sell_price": 2,
+    "id": "BIRCH_LEAVES"
+  }, {
+    "material": "JUNGLE_LEAVES",
+    "name": "Jungle Leaves",
+    "npc_sell_price": 2,
+    "id": "JUNGLE_LEAVES"
+  }, {
+    "material": "ACACIA_LEAVES",
+    "name": "Acacia Leaves",
+    "npc_sell_price": 2,
+    "id": "ACACIA_LEAVES"
+  }, {
+    "material": "DARK_OAK_LEAVES",
+    "name": "Dark Oak Leaves",
+    "npc_sell_price": 2,
+    "id": "DARK_OAK_LEAVES"
+  }, {
+    "material": "MANGROVE_LEAVES",
+    "name": "Mangrove Leaves",
+    "npc_sell_price": 2,
+    "id": "MANGROVE_LEAVES"
+  }, {
+    "material": "CHERRY_LEAVES",
+    "name": "Cherry Leaves",
+    "npc_sell_price": 2,
+    "id": "CHERRY_LEAVES"
+  }, {
+    "material": "AZALEA_LEAVES",
+    "name": "Azalea Leaves",
+    "npc_sell_price": 2,
+    "id": "AZALEA_LEAVES"
+  }, {
+    "material": "FLOWERING_AZALEA_LEAVES",
+    "name": "Flowering Azalea Leaves",
+    "npc_sell_price": 2,
+    "id": "FLOWERING_AZALEA_LEAVES"
+  }, {
+    "material": "BROWN_MUSHROOM_BLOCK",
+    "name": "Brown Mushroom Block",
+    "npc_sell_price": 10,
+    "id": "BROWN_MUSHROOM_BLOCK"
+  }, {
+    "material": "RED_MUSHROOM_BLOCK",
+    "name": "Red Mushroom Block",
+    "npc_sell_price": 10,
+    "id": "RED_MUSHROOM_BLOCK"
+  }, {
+    "material": "NETHER_WART_BLOCK",
+    "name": "Nether Wart Block",
+    "npc_sell_price": 36,
+    "id": "NETHER_WART_BLOCK"
+  }, {
+    "material": "WARPED_WART_BLOCK",
+    "name": "Warped Wart Block",
+    "npc_sell_price": 36,
+    "id": "WARPED_WART_BLOCK"
+  }, {
+    "material": "SHROOMLIGHT",
+    "name": "Shroomlight",
+    "npc_sell_price": 12,
+    "id": "SHROOMLIGHT"
+  }, {
+    "material": "OAK_SAPLING",
+    "name": "Oak Sapling",
+    "npc_sell_price": 0.25,
+    "id": "OAK_SAPLING"
+  }, {
+    "material": "SPRUCE_SAPLING",
+    "name": "Spruce Sapling",
+    "npc_sell_price": 0.25,
+    "id": "SPRUCE_SAPLING"
+  }, {
+    "material": "BIRCH_SAPLING",
+    "name": "Birch Sapling",
+    "npc_sell_price": 0.25,
+    "id": "BIRCH_SAPLING"
+  }, {
+    "material": "JUNGLE_SAPLING",
+    "name": "Jungle Sapling",
+    "npc_sell_price": 0.25,
+    "id": "JUNGLE_SAPLING"
+  }, {
+    "material": "ACACIA_SAPLING",
+    "name": "Acacia Sapling",
+    "npc_sell_price": 0.25,
+    "id": "ACACIA_SAPLING"
+  }, {
+    "material": "DARK_OAK_SAPLING",
+    "name": "Dark Oak Sapling",
+    "npc_sell_price": 0.25,
+    "id": "DARK_OAK_SAPLING"
+  }, {
+    "material": "MANGROVE_PROPAGULE",
+    "name": "Mangrove Propagule",
+    "npc_sell_price": 0.25,
+    "id": "MANGROVE_PROPAGULE"
+  }, {
+    "material": "CHERRY_SAPLING",
+    "name": "Cherry Sapling",
+    "npc_sell_price": 0.25,
+    "id": "CHERRY_SAPLING"
+  }, {
+    "material": "AZALEA",
+    "name": "Azalea",
+    "npc_sell_price": 0.5,
+    "id": "AZALEA"
+  }, {
+    "material": "FLOWERING_AZALEA",
+    "name": "Flowering Azalea",
+    "npc_sell_price": 0.5,
+    "id": "FLOWERING_AZALEA"
+  }, {
+    "material": "BROWN_MUSHROOM",
+    "name": "Brown Mushroom",
+    "npc_sell_price": 10,
+    "id": "BROWN_MUSHROOM"
+  }, {
+    "material": "RED_MUSHROOM",
+    "name": "Red Mushroom",
+    "npc_sell_price": 10,
+    "id": "RED_MUSHROOM"
+  }, {
+    "material": "CRIMSON_FUNGUS",
+    "name": "Crimson Fungus",
+    "npc_sell_price": 10,
+    "id": "CRIMSON_FUNGUS"
+  }, {
+    "material": "WARPED_FUNGUS",
+    "name": "Warped Fungus",
+    "npc_sell_price": 10,
+    "id": "WARPED_FUNGUS"
+  }, {
+    "material": "SHORT_GRASS",
+    "name": "Short Grass",
+    "npc_sell_price": 1,
+    "id": "SHORT_GRASS"
+  }, {
+    "material": "FERN",
+    "name": "Fern",
+    "npc_sell_price": 1,
+    "id": "FERN"
+  }, {
+    "material": "DEAD_BUSH",
+    "name": "Dead Bush",
+    "npc_sell_price": 2,
+    "id": "DEAD_BUSH"
+  }, {
+    "material": "DANDELION",
+    "name": "Dandelion",
+    "npc_sell_price": 1,
+    "id": "DANDELION"
+  }, {
+    "material": "POPPY",
+    "name": "Poppy",
+    "npc_sell_price": 1,
+    "id": "POPPY"
+  }, {
+    "material": "BLUE_ORCHID",
+    "name": "Blue Orchid",
+    "npc_sell_price": 1,
+    "id": "BLUE_ORCHID"
+  }, {
+    "material": "ALLIUM",
+    "name": "Allium",
+    "npc_sell_price": 1,
+    "id": "Allium"
+  }, {
+    "material": "AZURE_BLUET",
+    "name": "Azure Bluet",
+    "npc_sell_price": 1,
+    "id": "AZURE_BLUET"
+  }, {
+    "material": "RED_TULIP",
+    "name": "Red Tulip",
+    "npc_sell_price": 1,
+    "id": "RED_TULIP"
+  }, {
+    "material": "ORANGE_TULIP",
+    "name": "Orange Tulip",
+    "npc_sell_price": 1,
+    "id": "ORANGE_TULIP"
+  }, {
+    "material": "WHITE_TULIP",
+    "name": "White Tulip",
+    "npc_sell_price": 1,
+    "id": "WHITE_TULIP"
+  }, {
+    "material": "PINK_TULIP",
+    "name": "Pink Tulip",
+    "npc_sell_price": 1,
+    "id": "PINK_TULIP"
+  }, {
+    "material": "OXEYE_DAISY",
+    "name": "Oxeye Daisy",
+    "npc_sell_price": 1,
+    "id": "OXEYE_DAISY"
+  }, {
+    "material": "CORNFLOWER",
+    "name": "Cornflower",
+    "npc_sell_price": 1,
+    "id": "CORNFLOWER"
+  }, {
+    "material": "LILY_OF_THE_VALLEY",
+    "name": "Lily of the Valley",
+    "npc_sell_price": 1,
+    "id": "LILY_OF_THE_VALLEY"
+  }, {
+    "material": "TORCHFLOWER",
+    "name": "Torchflower",
+    "npc_sell_price": 1,
+    "id": "TORCHFLOWER"
+  }, {
+    "material": "WITHER_ROSE",
+    "name": "Wither Rose",
+    "npc_sell_price": 1,
+    "id": "WITHER_ROSE"
+  }, {
+    "material": "PINK_PETALS",
+    "name": "Pink Petals",
+    "npc_sell_price": 1,
+    "id": "PINK_PETALS"
+  }, {
+    "material": "SPORE_BLOSSOM",
+    "name": "Spore Blossom",
+    "npc_sell_price": 1,
+    "id": "SPORE_BLOSSOM"
+  }, {
+    "material": "BAMBOO",
+    "name": "Bamboo",
+    "npc_sell_price": 0.5,
+    "id": "BAMBOO"
+  }, {
+    "material": "SUGAR_CANE",
+    "name": "Sugar Cane",
+    "npc_sell_price": 4,
+    "id": "SUGAR_CANE"
+  }, {
+    "material": "CACTUS",
+    "name": "Cactus",
+    "npc_sell_price": 4,
+    "id": "CACTUS"
+  }, {
+    "material": "CRIMSON_ROOTS",
+    "name": "Crimson Roots",
+    "npc_sell_price": 1,
+    "id": "CRIMSON_ROOTS"
+  }, {
+    "material": "WARPED_ROOTS",
+    "name": "Warped Roots",
+    "npc_sell_price": 1,
+    "id": "WARPED_ROOTS"
+  }, {
+    "material": "NETHER_SPROUTS",
+    "name": "Nether Sprouts",
+    "npc_sell_price": 1,
+    "id": "NETHER_SPROUTS"
+  }, {
+    "material": "WEEPING_VINES",
+    "name": "Weeping Vines",
+    "npc_sell_price": 1,
+    "id": "WEEPING_VINES"
+  }, {
+    "material": "TWISTING_VINES",
+    "name": "Weeping Vines",
+    "npc_sell_price": 1,
+    "id": "TWISTING_VINES"
+  }, {
+    "material": "VINE",
+    "name": "Vines",
+    "npc_sell_price": 1,
+    "id": "VINE"
+  }, {
+    "material": "TALL_GRASS",
+    "name": "Tall Grass",
+    "npc_sell_price": 1,
+    "id": "TALL_GRASS"
+  }, {
+    "material": "LARGE_FERN",
+    "name": "Large Fern",
+    "npc_sell_price": 1,
+    "id": "LARGE_FERN"
+  }, {
+    "material": "SUNFLOWER",
+    "name": "Sunflower",
+    "npc_sell_price": 1,
+    "id": "SUNFLOWER"
+  }, {
+    "material": "LILAC",
+    "name": "Lilac",
+    "npc_sell_price": 1,
+    "id": "LILAC"
+  }, {
+    "material": "ROSE_BUSH",
+    "name": "Rose Bush",
+    "npc_sell_price": 1,
+    "id": "ROSE_BUSH"
+  }, {
+    "material": "PEONY",
+    "name": "Peony",
+    "npc_sell_price": 1,
+    "id": "PEONY"
+  }, {
+    "material": "PITCHER_PLANT",
+    "name": "Pitcher Plant",
+    "npc_sell_price": 1,
+    "id": "PITCHER_PLANT"
+  }, {
+    "material": "BIG_DRIPLEAF",
+    "name": "Big Dripleaf",
+    "npc_sell_price": 1,
+    "id": "BIG_DRIPLEAF"
+  }, {
+    "material": "SMALL_DRIPLEAF",
+    "name": "Small Dripleaf",
+    "npc_sell_price": 1,
+    "id": "SMALL_DRIPLEAF"
+  }, {
+    "material": "CHORUS_PLANT",
+    "name": "Chorus Plant",
+    "npc_sell_price": 1,
+    "id": "CHORUS_PLANT"
+  }, {
+    "material": "CHORUS_FLOWER",
+    "name": "Chorus Flower",
+    "npc_sell_price": 1,
+    "id": "CHORUS_FLOWER"
+  }, {
+    "material": "GLOW_LICHEN",
+    "name": "Glow Lichen",
+    "npc_sell_price": 1,
+    "id": "GLOW_LICHEN"
+  }, {
+    "material": "HANGING_ROOTS",
+    "name": "Hanging Roots",
+    "npc_sell_price": 1,
+    "id": "HANGING_ROOTS"
+  }, {
+    "material": "FROGSPAWN",
+    "name": "Frogspawn",
+    "npc_sell_price": 1,
+    "id": "FROGSPAWN"
+  }, {
+    "material": "TURTLE_EGG",
+    "name": "Turtle Egg",
+    "npc_sell_price": 10,
+    "id": "TURTLE_EGG"
+  }, {
+    "material": "SNIFFER_EGG",
+    "name": "Sniffer Egg",
+    "npc_sell_price": 10,
+    "id": "SNIFFER_EGG"
+  }, {
+    "material": "WHEAT_SEEDS",
+    "name": "Wheat Seeds",
+    "npc_sell_price": 3,
+    "id": "WHEAT_SEEDS"
+  }, {
+    "material": "COCOA_BEANS",
+    "name": "Cocoa Beans",
+    "npc_sell_price": 3,
+    "id": "COCOA_BEANS"
+  }, {
+    "material": "PUMPKIN_SEEDS",
+    "name": "Pumpkin Seeds",
+    "npc_sell_price": 1,
+    "id": "PUMPKIN_SEEDS"
+  }, {
+    "material": "MELON_SEEDS",
+    "name": "Melon Seeds",
+    "npc_sell_price": 1,
+    "id": "MELON_SEEDS"
+  }, {
+    "material": "BEETROOT_SEEDS",
+    "name": "Beetroot Seeds",
+    "npc_sell_price": 1,
+    "id": "BEETROOT_SEEDS"
+  }, {
+    "material": "TORCHFLOWER_SEEDS",
+    "name": "Torchflower Seeds",
+    "npc_sell_price": 1,
+    "id": "TORCHFLOWER_SEEDS"
+  }, {
+    "material": "PITCHER_POD",
+    "name": "Pitcher Pod",
+    "npc_sell_price": 1,
+    "id": "PITCHER_POD"
+  }, {
+    "material": "GLOW_BERRIES",
+    "name": "Glow Berries",
+    "npc_sell_price": 1,
+    "id": "GLOW_BERRIES"
+  }, {
+    "material": "SWEET_BERRIES",
+    "name": "Sweet Berries",
+    "npc_sell_price": 1,
+    "id": "SWEET_BERRIES"
+  }, {
+    "material": "NETHER_WART",
+    "name": "Nether Wart",
+    "npc_sell_price": 4,
+    "id": "NETHER_WART"
+  }, {
+    "material": "LILY_PAD",
+    "name": "Lily Pad",
+    "npc_sell_price": 1,
+    "id": "LILY_PAD"
+  }, {
+    "material": "SEAGRASS",
+    "name": "Seagrass",
+    "npc_sell_price": 1,
+    "id": "SEAGRASS"
+  }, {
+    "material": "SEA_PICKLE",
+    "name": "Sea Pickle",
+    "npc_sell_price": 1,
+    "id": "SEA_PICKLE"
+  }, {
+    "material": "KELP",
+    "name": "Kelp",
+    "npc_sell_price": 1,
+    "id": "Kelp"
+  }, {
+    "material": "DRIED_KELP_BLOCK",
+    "name": "Dried Kelp Block",
+    "npc_sell_price": 1,
+    "id": "DRIED_KELP_BLOCK"
+  }, {
+    "material": "TUBE_CORAL_BLOCK",
+    "name": "Tube Coral Block",
+    "npc_sell_price": 1,
+    "id": "TUBE_CORAL_BLOCK"
+  }, {
+    "material": "BRAIN_CORAL_BLOCK",
+    "name": "Brain Coral Block",
+    "npc_sell_price": 1,
+    "id": "BRAIN_CORAL_BLOCK"
+  }, {
+    "material": "BUBBLE_CORAL_BLOCK",
+    "name": "Bubble Coral Block",
+    "npc_sell_price": 1,
+    "id": "BUBBLE_CORAL_BLOCK"
+  }, {
+    "material": "FIRE_CORAL_BLOCK",
+    "name": "Fire Coral Block",
+    "npc_sell_price": 1,
+    "id": "FIRE_CORAL_BLOCK"
+  }, {
+    "material": "HORN_CORAL_BLOCK",
+    "name": "Horn Coral Block",
+    "npc_sell_price": 1,
+    "id": "HORN_CORAL_BLOCK"
+  }, {
+    "material": "DEAD_TUBE_CORAL_BLOCK",
+    "name": "Dead Tube Coral Block",
+    "npc_sell_price": 1,
+    "id": "DEAD_TUBE_CORAL_BLOCK"
+  }, {
+    "material": "DEAD_BRAIN_CORAL_BLOCK",
+    "name": "Dead Brain Coral Block",
+    "npc_sell_price": 1,
+    "id": "DEAD_BRAIN_CORAL_BLOCK"
+  }, {
+    "material": "DEAD_BUBBLE_CORAL_BLOCK",
+    "name": "Dead Bubble Coral Block",
+    "npc_sell_price": 1,
+    "id": "DEAD_BUBBLE_CORAL_BLOCK"
+  }, {
+    "material": "DEAD_FIRE_CORAL_BLOCK",
+    "name": "Dead Fire Coral Block",
+    "npc_sell_price": 1,
+    "id": "DEAD_FIRE_CORAL_BLOCK"
+  }, {
+    "material": "DEAD_HORN_CORAL_BLOCK",
+    "name": "Dead Horn Coral Block",
+    "npc_sell_price": 1,
+    "id": "DEAD_HORN_CORAL_BLOCK"
+  }, {
+    "material": "TUBE_CORAL",
+    "name": "Tube Coral",
+    "npc_sell_price": 1,
+    "id": "TUBE_CORAL"
+  }, {
+    "material": "BRAIN_CORAL",
+    "name": "Brain Coral",
+    "npc_sell_price": 1,
+    "id": "BRAIN_CORAL"
+  }, {
+    "material": "BUBBLE_CORAL",
+    "name": "Bubble Coral",
+    "npc_sell_price": 1,
+    "id": "BUBBLE_CORAL"
+  }, {
+    "material": "FIRE_CORAL",
+    "name": "Fire Coral",
+    "npc_sell_price": 1,
+    "id": "FIRE_CORAL"
+  }, {
+    "material": "HORN_CORAL",
+    "name": "Horn Coral",
+    "npc_sell_price": 1,
+    "id": "HORN_CORAL"
+  }, {
+    "material": "DEAD_TUBE_CORAL",
+    "name": "Dead Tube Coral",
+    "npc_sell_price": 1,
+    "id": "DEAD_TUBE_CORAL"
+  }, {
+    "material": "DEAD_BRAIN_CORAL",
+    "name": "Dead Brain Coral",
+    "npc_sell_price": 1,
+    "id": "DEAD_BRAIN_CORAL"
+  }, {
+    "material": "DEAD_BUBBLE_CORAL",
+    "name": "Dead Bubble Coral",
+    "npc_sell_price": 1,
+    "id": "DEAD_BUBBLE_CORAL"
+  }, {
+    "material": "DEAD_FIRE_CORAL",
+    "name": "Dead Fire Coral",
+    "npc_sell_price": 1,
+    "id": "DEAD_FIRE_CORAL"
+  }, {
+    "material": "DEAD_HORN_CORAL",
+    "name": "Dead Horn Coral",
+    "npc_sell_price": 1,
+    "id": "DEAD_HORN_CORAL"
+  }, {
+    "material": "TUBE_CORAL_FAN",
+    "name": "Tube Coral Fan",
+    "npc_sell_price": 1,
+    "id": "TUBE_CORAL_FAN"
+  }, {
+    "material": "BRAIN_CORAL_FAN",
+    "name": "Brain Coral Fan",
+    "npc_sell_price": 1,
+    "id": "BRAIN_CORAL_FAN"
+  }, {
+    "material": "BUBBLE_CORAL_FAN",
+    "name": "Bubble Coral Fan",
+    "npc_sell_price": 1,
+    "id": "BUBBLE_CORAL_FAN"
+  }, {
+    "material": "FIRE_CORAL_FAN",
+    "name": "Fire Coral Fan",
+    "npc_sell_price": 1,
+    "id": "FIRE_CORAL_FAN"
+  }, {
+    "material": "HORN_CORAL_FAN",
+    "name": "Horn Coral Fan",
+    "npc_sell_price": 1,
+    "id": "HORN_CORAL_FAN"
+  }, {
+    "material": "DEAD_TUBE_CORAL_FAN",
+    "name": "Dead Tube Coral Fan",
+    "npc_sell_price": 1,
+    "id": "DEAD_TUBE_CORAL_FAN"
+  }, {
+    "material": "DEAD_BRAIN_CORAL_FAN",
+    "name": "Dead Brain Coral Fan",
+    "npc_sell_price": 1,
+    "id": "DEAD_BRAIN_CORAL_FAN"
+  }, {
+    "material": "DEAD_BUBBLE_CORAL_FAN",
+    "name": "Dead Bubble Coral Fan",
+    "npc_sell_price": 1,
+    "id": "DEAD_BUBBLE_CORAL_FAN"
+  }, {
+    "material": "DEAD_FIRE_CORAL_FAN",
+    "name": "Dead Fire Coral Fan",
+    "npc_sell_price": 1,
+    "id": "DEAD_FIRE_CORAL_FAN"
+  }, {
+    "material": "DEAD_HORN_CORAL_FAN",
+    "name": "Dead Horn Coral Fan",
+    "npc_sell_price": 1,
+    "id": "DEAD_HORN_CORAL_FAN"
+  }, {
+    "material": "SPONGE",
+    "name": "Sponge",
+    "npc_sell_price": 50,
+    "id": "SPONGE"
+  }, {
+    "material": "WET_SPONGE",
+    "durability": 1,
+    "name": "Wet Sponge",
+    "npc_sell_price": 50,
+    "id": "WET_SPONGE"
+  }, {
+    "material": "MELON",
+    "name": "Melon",
+    "npc_sell_price": 18,
+    "id": "MELON"
+  }, {
+    "material": "PUMPKIN",
+    "name": "Pumpkin",
+    "npc_sell_price": 10,
+    "id": "PUMPKIN"
+  }, {
+    "material": "CARVED_PUMPKIN",
+    "name": "Carved Pumpkin",
+    "npc_sell_price": 10,
+    "id": "CARVED_PUMPKIN"
+  }, {
+    "material": "JACK_O_LANTERN",
+    "name": "Jack o'Lantern",
+    "npc_sell_price": 10,
+    "id": "JACK_O_LANTERN"
+  }, {
+    "material": "HAY_BLOCK",
+    "name": "Hay Bale",
+    "npc_sell_price": 54,
+    "id": "HAY_BLOCK"
+  }, {
+    "material": "BEE_NEST",
+    "name": "Bee Nest",
+    "npc_sell_price": 30,
+    "id": "BEE_NEST"
+  }, {
+    "material": "HONEYCOMB_BLOCK",
+    "name": "Honeycomb Block",
+    "npc_sell_price": 38,
+    "id": "HONEYCOMB_BLOCK"
+  }, {
+    "material": "SLIME_BLOCK",
+    "name": "Slime Block",
+    "npc_sell_price": 45,
+    "id": "SLIME_BLOCK"
+  }, {
+    "material": "HONEY_BLOCK",
+    "name": "Honey Block",
+    "npc_sell_price": 65,
+    "id": "HONEY_BLOCK"
+  }, {
+    "material": "OCHRE_FROGLIGHT",
+    "name": "Ochre Froglight",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50,
+    "id": "OCHRE_FROGLIGHT"
+  }, {
+    "material": "VERDANT_FROGLIGHT",
+    "name": "Verdant Froglight",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50,
+    "id": "VERDANT_FROGLIGHT"
+  }, {
+    "material": "PEARLESCENT_FROGLIGHT",
+    "name": "Pearlescent Froglight",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50,
+    "id": "PEARLESCENT_FROGLIGHT"
+  }, {
+    "material": "SCULK",
+    "name": "Sculk",
+    "npc_sell_price": 5,
+    "id": "SCULK"
+  }, {
+    "material": "SCULK_VEIN",
+    "name": "Sculk Vein",
+    "npc_sell_price": 3,
+    "id": "SCULK_VEIN"
+  }, {
+    "material": "SCULK_CATALYST",
+    "name": "Sculk Catalyst",
+    "npc_sell_price": 4,
+    "id": "SCULK_CATALYST"
+  }, {
+    "material": "SCULK_SHRIEKER",
+    "name": "Sculk Shrieker",
+    "npc_sell_price": 5,
+    "id": "SCULK_SHRIEKER"
+  }, {
+    "material": "SCULK_SENSOR",
+    "name": "Sculk Sensor",
+    "npc_sell_price": 5,
+    "id": "SCULK_SENSOR"
+  }, {
+    "material": "COBWEB",
+    "name": "Cobweb",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 10,
+    "id": "COBWEB"
+  }, {
+    "material": "BEDROCK",
+    "name": "Bedrock",
+    "tier": "LEGENDARY",
+    "npc_sell_price": 1,
+    "description": "&cI guess you have this now.",
+    "museum": true,
+    "id": "BEDROCK"
+  }, {
+    "material": "TORCH",
+    "name": "Torch",
+    "npc_sell_price": 0.3,
+    "id": "TORCH"
+  }, {
+    "material": "SOUL_TORCH",
+    "name": "Soul Torch",
+    "npc_sell_price": 0.5,
+    "id": "SOUL_TORCH"
+  }, {
+    "material": "REDSTONE_TORCH",
+    "name": "Redstone Torch",
+    "npc_sell_price": 1,
+    "id": "REDSTONE_TORCH"
+  }, {
+    "material": "LANTERN",
+    "name": "Lantern",
+    "npc_sell_price": 5,
+    "id": "LANTERN"
+  }, {
+    "material": "SOUL_LANTERN",
+    "name": "Soul Lantern",
+    "npc_sell_price": 5,
+    "id": "SOUL_LANTERN"
+  }, {
+    "material": "END_ROD",
+    "name": "End Rod",
+    "npc_sell_price": 15,
+    "id": "END_ROD"
+  }, {
+    "material": "REDSTONE_LAMP",
+    "name": "Redstone Lamp",
+    "npc_sell_price": 6,
+    "id": "REDSTONE_LAMP"
+  }, {
+    "material": "CRAFTING_TABLE",
+    "name": "Crafting Table",
+    "npc_sell_price": 1,
+    "id": "CRAFTING_TABLE"
+  }, {
+    "material": "STONECUTTER",
+    "name": "Stonecutter",
+    "npc_sell_price": 5,
+    "id": "STONECUTTER"
+  }, {
+    "material": "CARTOGRAPHY_TABLE",
+    "name": "Cartography",
+    "npc_sell_price": 5,
+    "id": "CARTOGRAPHY_TABLE"
+  }, {
+    "material": "FLETCHING_TABLE",
+    "name": "Fletching Table",
+    "npc_sell_price": 5,
+    "id": "FLETCHING_TABLE"
+  }, {
+    "material": "SMITHING_TABLE",
+    "name": "Smithing Table",
+    "npc_sell_price": 5,
+    "id": "SMITHING_TABLE"
+  }, {
+    "material": "GRINDSTONE",
+    "name": "Grindstone",
+    "npc_sell_price": 5,
+    "id": "GRINDSTONE"
+  }, {
+    "material": "LOOM",
+    "name": "Loom",
+    "npc_sell_price": 5,
+    "id": "LOOM"
+  }, {
+    "material": "FURNACE",
+    "name": "Furnace",
+    "npc_sell_price": 8,
+    "id": "FURNACE"
+  }, {
+    "material": "SMOKER",
+    "name": "Smoker",
+    "npc_sell_price": 5,
+    "id": "SMOKER"
+  }, {
+    "material": "BLAST_FURNACE",
+    "name": "Blast Furnace",
+    "npc_sell_price": 10,
+    "id": "BLAST_FURNACE"
+  }, {
+    "material": "CAMPFIRE",
+    "name": "Campfire",
+    "npc_sell_price": 3,
+    "id": "CAMPFIRE"
+  }, {
+    "material": "SOUL_CAMPFIRE",
+    "name": "Soul Campfire",
+    "npc_sell_price": 3,
+    "id": "SOUL_CAMPFIRE"
+  }, {
+    "material": "ANVIL",
+    "name": "Anvil",
+    "npc_sell_price": 45,
+    "id": "ANVIL"
+  }, {
+    "material": "CHIPPED_ANVIL",
+    "name": "Chipped Anvil",
+    "npc_sell_price": 45,
+    "id": "CHIPPED_ANVIL"
+  }, {
+    "material": "DAMAGED_ANVIL",
+    "name": "Damaged Anvil",
+    "npc_sell_price": 45,
+    "id": "DAMAGED_ANVIL"
+  }, {
+    "material": "COMPOSTER",
+    "name": "Composter",
+    "npc_sell_price": 5,
+    "id": "COMPOSTER"
+  }, {
+    "material": "NOTE_BLOCK",
+    "name": "Note Block",
+    "npc_sell_price": 3,
+    "id": "NOTE_BLOCK"
+  }, {
+    "material": "JUKEBOX",
+    "name": "Jukebox",
+    "npc_sell_price": 12,
+    "id": "JUKEBOX"
+  }, {
+    "material": "ENCHANTING_TABLE",
+    "name": "Enchanting Table",
+    "npc_sell_price": 40,
+    "id": "ENCHANTING_TABLE"
+  }, {
+    "material": "END_CRYSTAL",
+    "name": "End Crystal",
+    "tier": "RARE",
+    "npc_sell_price": 550,
+    "id": "END_CRYSTAL"
+  }, {
+    "material": "BREWING_STAND",
+    "name": "Brewing Stand",
+    "npc_sell_price": 12,
+    "id": "BREWING_STAND"
+  }, {
+    "material": "CAULDRON",
+    "name": "Cauldron",
+    "npc_sell_price": 10,
+    "id": "CAULDRON"
+  }, {
+    "material": "BELL",
+    "name": "Bell",
+    "npc_sell_price": 10,
+    "id": "BELL"
+  }, {
+    "material": "BEACON",
+    "name": "Beacon",
+    "tier": "RARE",
+    "npc_sell_price": 300,
+    "id": "BEACON"
+  }, {
+    "material": "CONDUIT",
+    "name": "Conduit",
+    "tier": "RARE",
+    "npc_sell_price": 125,
+    "id": "CONDUIT"
+  }, {
+    "material": "LODESTONE",
+    "name": "Lodestone",
+    "npc_sell_price": 5,
+    "id": "LODESTONE"
+  }, {
+    "material": "LADDER",
+    "name": "Ladder",
+    "npc_sell_price": 0.5,
+    "id": "LADDER"
+  }, {
+    "material": "SCAFFOLDING",
+    "name": "Scaffolding",
+    "npc_sell_price": 0.5,
+    "id": "SCAFFOLDING"
+  }, {
+    "material": "BEEHIVE",
+    "name": "Beehive",
+    "npc_sell_price": 1,
+    "id": "BEEHIVE"
+  }, {
+    "material": "SUSPICIOUS_SAND",
+    "name": "Suspicious Sand",
+    "npc_sell_price": 2,
+    "id": "SUSPICIOUS_SAND"
+  }, {
+    "material": "SUSPICIOUS_GRAVEL",
+    "name": "Suspicious Gravel",
+    "npc_sell_price": 3,
+    "id": "SUSPICIOUS_GRAVEL"
+  }, {
+    "material": "LIGHTNING_ROD",
+    "name": "Lightning Rod",
+    "npc_sell_price": 5,
+    "id": "LIGHTNING_ROD"
+  }, {
+    "material": "FLOWER_POT",
+    "name": "Flower Pot",
+    "npc_sell_price": 2,
+    "id": "FLOWER_POT"
+  }, {
+    "material": "DECORATED_POT",
+    "name": "Decorated Pot",
+    "npc_sell_price": 2,
+    "id": "DECORATED_POT"
+  }, {
+    "material": "ARMOR_STAND",
+    "name": "Armor Stand",
+    "npc_sell_price": 1,
+    "id": "ARMOR_STAND"
+  }, {
+    "material": "ITEM_FRAME",
+    "name": "Item Frame",
+    "npc_sell_price": 5,
+    "id": "ITEM_FRAME"
+  }, {
+    "material": "GLOW_ITEM_FRAME",
+    "name": "Glow Item Frame",
+    "npc_sell_price": 5,
+    "id": "GLOW_ITEM_FRAME"
+  }, {
+    "material": "PAINTING",
+    "name": "Painting",
+    "npc_sell_price": 1,
+    "id": "PAINTING"
+  }, {
+    "material": "BOOKSHELF",
+    "name": "Bookshelf",
+    "npc_sell_price": 20,
+    "id": "BOOKSHELF"
+  }, {
+    "material": "CHISELED_BOOKSHELF",
+    "name": "Chiseled Bookshelf",
+    "npc_sell_price": 20,
+    "id": "CHISELED_BOOKSHELF"
+  }, {
+    "material": "LECTERN",
+    "name": "Lectern",
+    "npc_sell_price": 10,
+    "id": "LECTERN"
+  }, {
+    "material": "OAK_SIGN",
+    "name": "Oak Sign",
+    "npc_sell_price": 1,
+    "id": "OAK_SIGN"
+  }, {
+    "material": "OAK_HANGING_SIGN",
+    "name": "Oak Hanging Sign",
+    "npc_sell_price": 1,
+    "id": "OAK_HANGING_SIGN"
+  }, {
+    "material": "SPRUCE_SIGN",
+    "name": "Spruce Sign",
+    "npc_sell_price": 1,
+    "id": "SPRUCE_SIGN"
+  }, {
+    "material": "SPRUCE_HANGING_SIGN",
+    "name": "Spruce Hanging Sign",
+    "npc_sell_price": 1,
+    "id": "SPRUCE_HANGING_SIGN"
+  }, {
+    "material": "BIRCH_SIGN",
+    "name": "Birch Sign",
+    "npc_sell_price": 1,
+    "id": "BIRCH_SIGN"
+  }, {
+    "material": "BIRCH_HANGING_SIGN",
+    "name": "Birch Hanging Sign",
+    "npc_sell_price": 1,
+    "id": "BIRCH_HANGING_SIGN"
+  }, {
+    "material": "JUNGLE_SIGN",
+    "name": "Jungle Sign",
+    "npc_sell_price": 1,
+    "id": "JUNGLE_SIGN"
+  }, {
+    "material": "JUNGLE_HANGING_SIGN",
+    "name": "Jungle Hanging Sign",
+    "npc_sell_price": 1,
+    "id": "JUNGLE_HANGING_SIGN"
+  }, {
+    "material": "ACACIA_SIGN",
+    "name": "Acacia Sign",
+    "npc_sell_price": 1,
+    "id": "ACACIA_SIGN"
+  }, {
+    "material": "ACACIA_HANGING_SIGN",
+    "name": "Acacia Hanging Sign",
+    "npc_sell_price": 1,
+    "id": "ACACIA_HANGING_SIGN"
+  }, {
+    "material": "DARK_OAK_SIGN",
+    "name": "Dark Oak Sign",
+    "npc_sell_price": 1,
+    "id": "DARK_OAK_SIGN"
+  }, {
+    "material": "DARK_OAK_HANGING_SIGN",
+    "name": "Dark Oak Hanging Sign",
+    "npc_sell_price": 1,
+    "id": "DARK_OAK_HANGING_SIGN"
+  }, {
+    "material": "MANGROVE_SIGN",
+    "name": "Mangrove Sign",
+    "npc_sell_price": 1,
+    "id": "MANGROVE_SIGN"
+  }, {
+    "material": "MANGROVE_HANGING_SIGN",
+    "name": "Mangrove Hanging Sign",
+    "npc_sell_price": 1,
+    "id": "MANGROVE_HANGING_SIGN"
+  }, {
+    "material": "CHERRY_SIGN",
+    "name": "Cherry Sign",
+    "npc_sell_price": 1,
+    "id": "CHERRY_SIGN"
+  }, {
+    "material": "CHERRY_HANGING_SIGN",
+    "name": "Cherry Hanging Sign",
+    "npc_sell_price": 1,
+    "id": "CHERRY_HANGING_SIGN"
+  }, {
+    "material": "BAMBOO_SIGN",
+    "name": "Bamboo Sign",
+    "npc_sell_price": 1,
+    "id": "BAMBOO_SIGN"
+  }, {
+    "material": "BAMBOO_HANGING_SIGN",
+    "name": "Bamboo Hanging Sign",
+    "npc_sell_price": 1,
+    "id": "BAMBOO_HANGING_SIGN"
+  }, {
+    "material": "CRIMSON_SIGN",
+    "name": "Crimson Sign",
+    "npc_sell_price": 1,
+    "id": "CRIMSON_SIGN"
+  }, {
+    "material": "CRIMSON_HANGING_SIGN",
+    "name": "Crimson Hanging Sign",
+    "npc_sell_price": 1,
+    "id": "CRIMSON_HANGING_SIGN"
+  }, {
+    "material": "WARPED_SIGN",
+    "name": "Crimson Sign",
+    "npc_sell_price": 1,
+    "id": "WARPED_SIGN"
+  }, {
+    "material": "WARPED_HANGING_SIGN",
+    "name": "Warped Hanging Sign",
+    "npc_sell_price": 1,
+    "id": "WARPED_HANGING_SIGN"
+  }, {
+    "material": "CHEST",
+    "name": "Chest",
+    "npc_sell_price": 2,
+    "id": "CHEST"
+  }, {
+    "material": "BARREL",
+    "name": "Barrel",
+    "npc_sell_price": 2,
+    "id": "BARREL"
+  }, {
+    "material": "ENDER_CHEST",
+    "name": "Ender Chest",
+    "npc_sell_price": 55,
+    "id": "ENDER_CHEST"
+  }, {
+    "material": "RESPAWN_ANCHOR",
+    "name": "Respawn Anchor",
+    "npc_sell_price": 30,
+    "id": "RESPAWN_ANCHOR"
+  }, {
+    "material": "SKELETON_SKULL",
+    "name": "Skeleton Skull",
+    "tier": "RARE",
+    "npc_sell_price": 20,
+    "id": "SKELETON_SKULL"
+  }, {
+    "material": "WITHER_SKELETON_SKULL",
+    "name": "Wither Skeleton Skull",
+    "tier": "RARE",
+    "npc_sell_price": 100,
+    "id": "WITHER_SKELETON_SKULL"
+  }, {
+    "material": "PLAYER_HEAD",
+    "name": "Player Head",
+    "tier": "RARE",
+    "npc_sell_price": 100,
+    "id": "PLAYER_HEAD"
+  }, {
+    "material": "ZOMBIE_HEAD",
+    "name": "Zombie Head",
+    "tier": "RARE",
+    "npc_sell_price": 20,
+    "id": "ZOMBIE_HEAD"
+  }, {
+    "material": "CREEPER_HEAD",
+    "name": "Creeper Head",
+    "tier": "RARE",
+    "npc_sell_price": 20,
+    "id": "CREEPER_HEAD"
+  }, {
+    "material": "PIGLIN_HEAD",
+    "name": "Piglin Head",
+    "tier": "RARE",
+    "npc_sell_price": 20,
+    "id": "PIGLIN_HEAD"
+  }, {
+    "material": "DRAGON_HEAD",
+    "name": "Dragon Head",
+    "tier": "RARE",
+    "npc_sell_price": 200,
+    "id": "DRAGON_HEAD"
+  }, {
+    "material": "DRAGON_EGG",
+    "name": "Dragon Egg",
+    "tier": "LEGENDARY",
+    "id": "DRAGON_EGG"
+  }, {
+    "material": "END_PORTAL_FRAME",
+    "name": "End Portal Frame",
+    "description": "&cHow can it possible?",
+    "tier": "LEGENDARY",
+    "id": "END_PORTAL_FRAME"
+  }, {
+    "material": "ENDER_EYE",
+    "name": "Eye of Ender",
+    "npc_sell_price": 15,
+    "id": "ENDER_EYE"
+  }, {
+    "material": "VAULT",
+    "name": "Vault",
+    "npc_sell_price": 32,
+    "id": "VAULT"
+  }, {
+    "material": "INFESTED_STONE",
+    "name": "Infested Stone",
+    "npc_sell_price": 1,
+    "id": "INFESTED_STONE"
+  }, {
+    "material": "INFESTED_COBBLESTONE",
+    "name": "Infested Cobblestone",
+    "npc_sell_price": 1,
+    "id": "INFESTED_COBBLESTONE"
+  }, {
+    "material": "INFESTED_STONE_BRICKS",
+    "name": "Infested Stone Bricks",
+    "npc_sell_price": 1,
+    "id": "INFESTED_STONE_BRICKS"
+  }, {
+    "material": "INFESTED_MOSSY_STONE_BRICKS",
+    "name": "Infested Mossy Stone Bricks",
+    "npc_sell_price": 1,
+    "id": "INFESTED_MOSSY_STONE_BRICKS"
+  }, {
+    "material": "INFESTED_CRACKED_STONE_BRICKS",
+    "name": "Infested Cracked Stone Bricks",
+    "npc_sell_price": 1,
+    "id": "INFESTED_CRACKED_STONE_BRICKS"
+  }, {
+    "material": "INFESTED_CHISELED_STONE_BRICKS",
+    "name": "Infested Chiseled Stone Bricks",
+    "npc_sell_price": 1,
+    "id": "INFESTED_CHISELED_STONE_BRICKS"
+  }, {
+    "material": "INFESTED_DEEPSLATE",
+    "name": "Infested Deepslate",
+    "npc_sell_price": 1,
+    "id": "INFESTED_DEEPSLATE"
+  }, {
+    "material": "REDSTONE",
+    "name": "Redstone Dust",
+    "npc_sell_price": 1,
+    "id": "REDSTONE"
+  }, {
+    "material": "REPEATER",
+    "name": "Redstone Repeater",
+    "npc_sell_price": 3,
+    "id": "REPEATER"
+  }, {
+    "material": "COMPARATOR",
+    "name": "Redstone Comparator",
+    "npc_sell_price": 5,
+    "id": "COMPARATOR"
+  }, {
+    "material": "TARGET",
+    "name": "Target",
+    "npc_sell_price": 2,
+    "id": "TARGET"
+  }, {
+    "material": "LEVER",
+    "name": "Lever",
+    "npc_sell_price": 1,
+    "id": "LEVER"
+  }, {
+    "material": "CALIBRATED_SCULK_SENSOR",
+    "name": "Calibrated Sculk Sensor",
+    "npc_sell_price": 5,
+    "id": "CALIBRATED_SCULK_SENSOR"
+  }, {
+    "material": "TRIPWIRE_HOOK",
+    "name": "Tripwire Hook",
+    "npc_sell_price": 2,
+    "id": "TRIPWIRE_HOOK"
+  }, {
+    "material": "STRING",
+    "name": "String",
+    "npc_sell_price": 3,
+    "id": "STRING"
+  }, {
+    "material": "DAYLIGHT_DETECTOR",
+    "name": "Daylight Detector",
+    "npc_sell_price": 9,
+    "id": "DAYLIGHT_DETECTOR"
+  }, {
+    "material": "PISTON",
+    "name": "Piston",
+    "npc_sell_price": 8,
+    "id": "PISTON"
+  }, {
+    "material": "STICKY_PISTON",
+    "name": "Sticky Piston",
+    "npc_sell_price": 12,
+    "id": "STICKY_PISTON"
+  }, {
+    "material": "DISPENSER",
+    "name": "Dispenser",
+    "npc_sell_price": 8,
+    "id": "DISPENSER"
+  }, {
+    "material": "DROPPER",
+    "name": "Dropper",
+    "npc_sell_price": 4,
+    "id": "DROPPER"
+  }, {
+    "material": "CRAFTER",
+    "name": "Crafter",
+    "npc_sell_price": 5,
+    "id": "CRAFTER"
+  }, {
+    "material": "HOPPER",
+    "name": "Hopper",
+    "npc_sell_price": 15,
+    "id": "HOPPER"
+  }, {
+    "material": "TRAPPED_CHEST",
+    "name": "Trapped Chest",
+    "npc_sell_price": 4,
+    "id": "TRAPPED_CHEST"
+  }, {
+    "material": "OBSERVER",
+    "name": "Observer",
+    "npc_sell_price": 5,
+    "id": "OBSERVER"
+  }, {
+    "material": "RAIL",
+    "name": "Rail",
+    "npc_sell_price": 1,
+    "id": "RAIL"
+  }, {
+    "material": "POWERED_RAIL",
+    "name": "Powered Rail",
+    "npc_sell_price": 3,
+    "id": "POWERED_RAIL"
+  }, {
+    "material": "DETECTOR_RAIL",
+    "name": "Detector Rail",
+    "npc_sell_price": 2,
+    "id": "DETECTOR_RAIL"
+  }, {
+    "material": "ACTIVATOR_RAIL",
+    "name": "Activator Rail",
+    "npc_sell_price": 2,
+    "id": "ACTIVATOR_RAIL"
+  }, {
+    "material": "MINECART",
+    "name": "Minecart",
+    "npc_sell_price": 8,
+    "id": "MINECART"
+  }, {
+    "material": "HOPPER_MINECART",
+    "name": "Minecart with Hopper",
+    "npc_sell_price": 22,
+    "id": "HOPPER_MINECART"
+  }, {
+    "material": "CHEST_MINECART",
+    "name": "Minecart with Chest",
+    "npc_sell_price": 10,
+    "id": "CHEST_MINECART"
+  }, {
+    "material": "FURNACE_MINECART",
+    "name": "Minecart with Furnace",
+    "npc_sell_price": 12,
+    "id": "FURNACE_MINECART"
+  }, {
+    "material": "TNT_MINECART",
+    "name": "Minecart with TNT",
+    "npc_sell_price": 22,
+    "id": "TNT_MINECART"
+  }, {
+    "material": "OAK_CHEST_BOAT",
+    "name": "Oak Boot with Chest",
+    "npc_sell_price": 5,
+    "id": "OAK_CHEST_BOAT"
+  }, {
+    "material": "BAMBOO_CHEST_RAFT",
+    "name": "Bamboo Raft with Chest",
+    "npc_sell_price": 5,
+    "id": "BAMBOO_CHEST_RAFT"
+  }, {
+    "material": "TNT",
+    "name": "TNT",
+    "npc_sell_price": 15,
+    "id": "TNT"
+  }, {
+    "material": "WOODEN_SHOVEL",
+    "name": "Wooden Shovel",
+    "category": "SHOVEL",
+    "stats": {
+      "DAMAGE": 15
+    },
+    "npc_sell_price": 1,
+    "id": "WOODEN_SHOVEL"
+  }, {
+    "material": "WOODEN_PICKAXE",
+    "name": "Wooden Pickaxe",
+    "category": "PICKAXE",
+    "stats": {
+      "BREAKING_POWER": 1,
+      "DAMAGE": 15,
+      "MINING_SPEED": 70
+    },
+    "npc_sell_price": 1,
+    "id": "WOODEN_PICKAXE"
+  }, {
+    "material": "WOODEN_AXE",
+    "name": "Wooden Axe",
+    "category": "AXE",
+    "attributes": {
+      "generic.attack_speed": -3
+    },
+    "stats": {
+      "DAMAGE": 10
+    },
+    "npc_sell_price": 1,
+    "id": "WOODEN_AXE"
+  }, {
+    "material": "WOODEN_HOE",
+    "name": "Wooden Hoe",
+    "category": "HOE",
+    "npc_sell_price": 1,
+    "id": "WOODEN_HOE"
+  }, {
+    "material": "STONE_SHOVEL",
+    "name": "Stone Shovel",
+    "category": "SHOVEL",
+    "stats": {
+      "DAMAGE": 20
+    },
+    "npc_sell_price": 1,
+    "id": "STONE_SHOVEL"
+  }, {
+    "material": "STONE_PICKAXE",
+    "name": "Stone Pickaxe",
+    "category": "PICKAXE",
+    "stats": {
+      "BREAKING_POWER": 2,
+      "DAMAGE": 20,
+      "MINING_SPEED": 110
+    },
+    "npc_sell_price": 2,
+    "id": "STONE_PICKAXE"
+  }, {
+    "material": "STONE_AXE",
+    "name": "Stone Axe",
+    "category": "AXE",
+    "attributes": {
+      "generic.attack_speed": -3
+    },
+    "stats": {
+      "DAMAGE": 15
+    },
+    "npc_sell_price": 2,
+    "id": "STONE_AXE"
+  }, {
+    "material": "STONE_HOE",
+    "name": "Stone Hoe",
+    "category": "HOE",
+    "npc_sell_price": 2,
+    "id": "STONE_HOE"
+  }, {
+    "material": "IRON_SHOVEL",
+    "name": "Iron Shovel",
+    "category": "SHOVEL",
+    "stats": {
+      "DAMAGE": 25
+    },
+    "npc_sell_price": 2,
+    "id": "IRON_SHOVEL"
+  }, {
+    "material": "IRON_PICKAXE",
+    "name": "Iron Pickaxe",
+    "category": "PICKAXE",
+    "stats": {
+      "BREAKING_POWER": 3,
+      "DAMAGE": 25,
+      "MINING_SPEED": 160
+    },
+    "npc_sell_price": 4,
+    "id": "IRON_PICKAXE"
+  }, {
+    "material": "IRON_AXE",
+    "name": "Iron Axe",
+    "category": "AXE",
+    "attributes": {
+      "generic.attack_speed": -3
+    },
+    "stats": {
+      "DAMAGE": 25
+    },
+    "npc_sell_price": 4,
+    "id": "IRON_AXE"
+  }, {
+    "material": "IRON_HOE",
+    "name": "Iron Hoe",
+    "category": "HOE",
+    "npc_sell_price": 3,
+    "id": "IRON_HOE"
+  }, {
+    "material": "GOLDEN_SHOVEL",
+    "name": "Golden Shovel",
+    "category": "SHOVEL",
+    "stats": {
+      "DAMAGE": 15
+    },
+    "npc_sell_price": 3,
+    "id": "GOLDEN_SHOVEL"
+  }, {
+    "material": "GOLDEN_PICKAXE",
+    "name": "Golden Pickaxe",
+    "category": "PICKAXE",
+    "stats": {
+      "BREAKING_POWER": 1,
+      "DAMAGE": 15,
+      "MINING_SPEED": 250
+    },
+    "npc_sell_price": 6,
+    "id": "GOLD_PICKAXE"
+  }, {
+    "material": "GOLDEN_AXE",
+    "name": "Golden Axe",
+    "category": "AXE",
+    "attributes": {
+      "generic.attack_speed": -3
+    },
+    "stats": {
+      "DAMAGE": 20
+    },
+    "npc_sell_price": 6,
+    "id": "GOLDEN_AXE"
+  }, {
+    "material": "GOLDEN_HOE",
+    "name": "Golden Hoe",
+    "category": "HOE",
+    "npc_sell_price": 4,
+    "id": "GOLDEN_HOE"
+  }, {
+    "material": "DIAMOND_SHOVEL",
+    "name": "Diamond Shovel",
+    "category": "SHOVEL",
+    "tier": "UNCOMMON",
+    "stats": {
+      "DAMAGE": 30
+    },
+    "npc_sell_price": 4,
+    "id": "DIAMOND_SHOVEL"
+  }, {
+    "material": "DIAMOND_PICKAXE",
+    "name": "Diamond Pickaxe",
+    "category": "PICKAXE",
+    "tier": "UNCOMMON",
+    "stats": {
+      "BREAKING_POWER": 4,
+      "DAMAGE": 30,
+      "MINING_SPEED": 220
+    },
+    "npc_sell_price": 12,
+    "id": "DIAMOND_PICKAXE"
+  }, {
+    "material": "DIAMOND_AXE",
+    "name": "Diamond Axe",
+    "category": "AXE",
+    "tier": "UNCOMMON",
+    "attributes": {
+      "generic.attack_speed": -3
+    },
+    "stats": {
+      "DAMAGE": 30
+    },
+    "npc_sell_price": 12,
+    "id": "DIAMOND_AXE"
+  }, {
+    "material": "DIAMOND_HOE",
+    "name": "Diamond Hoe",
+    "category": "HOE",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 8,
+    "id": "DIAMOND_HOE"
+  }, {
+    "material": "NETHERITE_SHOVEL",
+    "name": "Netherite Shovel",
+    "category": "SHOVEL",
+    "tier": "RARE",
+    "stats": {
+      "DAMAGE": 35
+    },
+    "npc_sell_price": 5,
+    "id": "NETHERITE_SHOVEL"
+  }, {
+    "material": "NETHERITE_PICKAXE",
+    "name": "Netherite Pickaxe",
+    "category": "PICKAXE",
+    "tier": "RARE",
+
+    "stats": {
+      "BREAKING_POWER": 5,
+      "DAMAGE": 35,
+      "MINING_SPEED": 250
+    },
+    "npc_sell_price": 18,
+    "id": "NETHERITE_PICKAXE"
+  }, {
+    "material": "NETHERITE_AXE",
+    "name": "Netherite Axe",
+    "category": "AXE",
+    "tier": "RARE",
+    "attributes": {
+      "generic.attack_speed": -3
+    },
+    "stats": {
+      "DAMAGE": 35
+    },
+    "npc_sell_price": 18,
+    "id": "NETHERITE_AXE"
+  }, {
+    "material": "NETHERITE_HOE",
+    "name": "Netherite Hoe",
+    "category": "HOE",
+    "tier": "RARE",
+    "npc_sell_price": 12,
+    "id": "NETHERITE_HOE"
+  }, {
+    "material": "BUCKET",
+    "name": "Bucket",
+    "npc_sell_price": 6,
+    "id": "BUCKET"
+  }, {
+    "material": "WATER_BUCKET",
+    "name": "Water Bucket",
+    "npc_sell_price": 4,
+    "id": "WATER_BUCKET"
+  }, {
+    "material": "COD_BUCKET",
+    "name": "Bucket of Cod",
+    "npc_sell_price": 8,
+    "id": "COD_BUCKET"
+  }, {
+    "material": "SALMON_BUCKET",
+    "name": "Bucket of Salmon",
+    "npc_sell_price": 8,
+    "id": "SALMON_BUCKET"
+  }, {
+    "material": "TROPICAL_FISH_BUCKET",
+    "name": "Bucket of Tropical Fish",
+    "npc_sell_price": 8,
+    "id": "TROPICAL_FISH_BUCKET"
+  }, {
+    "material": "PUFFERFISH_BUCKET",
+    "name": "Bucket of Pufferfish",
+    "npc_sell_price": 8,
+    "id": "PUFFERFISH_BUCKET"
+  }, {
+    "material": "AXOLOTL_BUCKET",
+    "name": "Bucket of Axolotl",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 30,
+    "id": "AXOLOTL_BUCKET"
+  }, {
+    "material": "TADPOLE_BUCKET",
+    "name": "Bucket of Tadpole",
+    "npc_sell_price": 8,
+    "id": "TADPOLE_BUCKET"
+  }, {
+    "material": "LAVA_BUCKET",
+    "name": "Lava Bucket",
+    "npc_sell_price": 8,
+    "id": "LAVA_BUCKET"
+  }, {
+    "material": "POWDER_SNOW_BUCKET",
+    "name": "Powder Snow Bucket",
+    "npc_sell_price": 8,
+    "id": "POWDER_SNOW_BUCKET"
+  }, {
+    "material": "MILK_BUCKET",
+    "name": "Milk Bucket",
+    "npc_sell_price": 4,
+    "id": "MILK_BUCKET"
+  }, {
+    "material": "FISHING_ROD",
+    "name": "Fishing Rod",
+    "category": "FISHING_ROD",
+    "stats": {
+      "DAMAGE": 10,
+      "STRENGTH": 5
+    },
+    "npc_sell_price": 2,
+    "id": "FISHING_ROD"
+  }, {
+    "material": "FLINT_AND_STEEL",
+    "name": "Flint and Steel",
+    "npc_sell_price": 4,
+    "id": "FLINT_AND_STEEL"
+  }, {
+    "material": "FIRE_CHARGE",
+    "name": "Fire Charge",
+    "npc_sell_price": 5,
+    "id": "FIRE_CHARGE"
+  }, {
+    "material": "BONE_MEAL",
+    "name": "Bone Meal",
+    "npc_sell_price": 0.5,
+    "id": "BONE_MEAL"
+  }, {
+    "material": "SHEARS",
+    "name": "Shears",
+    "category": "SHEARS",
+    "npc_sell_price": 3,
+    "id": "SHEARS"
+  }, {
+    "material": "BRUSH",
+    "name": "Brush",
+    "npc_sell_price": 3,
+    "id": "BRUSH"
+  }, {
+    "material": "NAME_TAG",
+    "name": "Name Tag",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50,
+    "museum": true,
+    "has_uuid": true,
+    "id": "NAME_TAG"
+  }, {
+    "material": "LEAD",
+    "name": "Lead",
+    "npc_sell_price": 8,
+    "id": "LEAD"
+  }, {
+    "material": "COMPASS",
+    "name": "Compass",
+    "npc_sell_price": 12,
+    "id": "COMPASS"
+  }, {
+    "material": "RECOVERY_COMPASS",
+    "name": "Recovery Compass",
+    "npc_sell_price": 12,
+    "id": "RECOVERY_COMPASS"
+  }, {
+    "material": "CLOCK",
+    "name": "Clock",
+    "npc_sell_price": 8,
+    "id": "CLOCK"
+  }, {
+    "material": "SPYGLASS",
+    "name": "Spyglass",
+    "npc_sell_price": 12,
+    "id": "SPYGLASS"
+  }, {
+    "material": "MAP",
+    "name": "Empty Map",
+    "npc_sell_price": 25,
+    "id": "MAP"
+  }, {
+    "material": "WRITABLE_BOOK",
+    "name": "Book and Quill",
+    "npc_sell_price": 9,
+    "id": "WRITABLE_BOOK"
+  }, {
+    "material": "WIND_CHARGE",
+    "name": "Wind Charge",
+    "npc_sell_price": 4,
+    "id": "WIND_CHARGE"
+  }, {
+    "material": "ENDER_PEARL",
+    "name": "Ender Pearl",
+    "npc_sell_price": 7,
+    "id": "ENDER_PEARL"
+  }, {
+    "material": "ELYTRA",
+    "name": "Elytra",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 35,
+    "id": "ELYTRA"
+  }, {
+    "material": "FIREWORK_ROCKET",
+    "name": "Firework Rocket",
+    "firework_power": 1,
+    "npc_sell_price": 5,
+    "id": "FIREWORK_ROCKET_1"
+  }, {
+    "material": "FIREWORK_ROCKET",
+    "name": "Firework Rocket",
+    "firework_power": 2,
+    "npc_sell_price": 5,
+    "id": "FIREWORK_ROCKET_2"
+  }, {
+    "material": "FIREWORK_ROCKET",
+    "name": "Firework Rocket",
+    "firework_power": 3,
+    "npc_sell_price": 5,
+    "id": "FIREWORK_ROCKET_3"
+  }, {
+    "material": "SADDLE",
+    "name": "Saddle",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 5,
+    "id": "SADDLE"
+  }, {
+    "material": "CARROT_ON_A_STICK",
+    "name": "Carrot on a Stick",
+    "npc_sell_price": 3,
+    "id": "CARROT_ON_A_STICK"
+  }, {
+    "material": "WARPED_FUNGUS_ON_A_STICK",
+    "name": "Warped Fungus on a Stick",
+    "npc_sell_price": 3,
+    "id": "WARPED_FUNGUS_ON_A_STICK"
+  }, {
+    "material": "OAK_BOAT",
+    "name": "Oak Boat",
+    "npc_sell_price": 1,
+    "id": "OAK_BOAT"
+  }, {
+    "material": "SPRUCE_BOAT",
+    "name": "Spruce Boat",
+    "npc_sell_price": 1,
+    "id": "SPRUCE_BOAT"
+  }, {
+    "material": "SPRUCE_CHEST_BOAT",
+    "name": "Spruce Boat with Chest",
+    "npc_sell_price": 1,
+    "id": "SPRUCE_CHEST_BOAT"
+  }, {
+    "material": "BIRCH_BOAT",
+    "name": "Birch Boat",
+    "npc_sell_price": 1,
+    "id": "BIRCH_BOAT"
+  }, {
+    "material": "BIRCH_CHEST_BOAT",
+    "name": "Birch Boat with Chest",
+    "npc_sell_price": 1,
+    "id": "BIRCH_CHEST_BOAT"
+  }, {
+    "material": "JUNGLE_BOAT",
+    "name": "Jungle Boat",
+    "npc_sell_price": 1,
+    "id": "JUNGLE_BOAT"
+  }, {
+    "material": "JUNGLE_CHEST_BOAT",
+    "name": "Jungle Boat with Chest",
+    "npc_sell_price": 1,
+    "id": "JUNGLE_CHEST_BOAT"
+  }, {
+    "material": "ACACIA_BOAT",
+    "name": "Acacia Boat",
+    "npc_sell_price": 1,
+    "id": "ACACIA_BOAT"
+  }, {
+    "material": "ACACIA_CHEST_BOAT",
+    "name": "Acacia Boat with Chest",
+    "npc_sell_price": 1,
+    "id": "ACACIA_CHEST_BOAT"
+  }, {
+    "material": "DARK_OAK_BOAT",
+    "name": "Dark Oak Boat",
+    "npc_sell_price": 1,
+    "id": "DARK_OAK_BOAT"
+  }, {
+    "material": "DARK_OAK_CHEST_BOAT",
+    "name": "Dark Oak Boat with Chest",
+    "npc_sell_price": 1,
+    "id": "DARK_OAK_CHEST_BOAT"
+  }, {
+    "material": "MANGROVE_BOAT",
+    "name": "Mangrove Boat",
+    "npc_sell_price": 1,
+    "id": "MANGROVE_BOAT"
+  }, {
+    "material": "MANGROVE_CHEST_BOAT",
+    "name": "Mangrove Boat with Chest",
+    "npc_sell_price": 1,
+    "id": "MANGROVE_CHEST_BOAT"
+  }, {
+    "material": "CHERRY_BOAT",
+    "name": "Cherry Boat",
+    "npc_sell_price": 1,
+    "id": "CHERRY_BOAT"
+  }, {
+    "material": "CHERRY_CHEST_BOAT",
+    "name": "Cherry Boat with Chest",
+    "npc_sell_price": 1,
+    "id": "CHERRY_CHEST_BOAT"
+  }, {
+    "material": "BAMBOO_RAFT",
+    "name": "Bamboo Raft",
+    "npc_sell_price": 1,
+    "id": "BAMBOO_RAFT"
+  }, {
+    "material": "MUSIC_DISC_13",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_13"
+  }, {
+    "material": "MUSIC_DISC_CAT",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_CAT"
+  }, {
+    "material": "MUSIC_DISC_BLOCKS",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_BLOCKS"
+  }, {
+    "material": "MUSIC_DISC_CHIRP",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_CHIRP"
+  }, {
+    "material": "MUSIC_DISC_FAR",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_FAR"
+  }, {
+    "material": "MUSIC_DISC_MALL",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_MALL"
+  }, {
+    "material": "MUSIC_DISC_MELLOHI",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_MELLOHI"
+  }, {
+    "material": "MUSIC_DISC_STAL",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_STAL"
+  }, {
+    "material": "MUSIC_DISC_STRAD",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_STRAD"
+  }, {
+    "material": "MUSIC_DISC_WARD",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_WARD"
+  }, {
+    "material": "MUSIC_DISC_11",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_11"
+  }, {
+    "material": "MUSIC_DISC_CREATOR_MUSIC_BOX",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_CREATOR_MUSIC_BOX"
+  }, {
+    "material": "MUSIC_DISC_WAIT",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_WAIT"
+  }, {
+    "material": "MUSIC_DISC_CREATOR",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_CREATOR"
+  }, {
+    "material": "MUSIC_DISC_OTHERSIDE",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_OTHERSIDE"
+  }, {
+    "material": "MUSIC_DISC_RELIC",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_RELIC"
+  }, {
+    "material": "MUSIC_DISC_5",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_5"
+  }, {
+    "material": "MUSIC_DISC_PIGSTEP",
+    "name": "Music Disc",
+    "tier": "RARE",
+    "npc_sell_price": 1,
+    "id": "MUSIC_DISC_PIGSTEP"
+  }, {
+    "material": "WOODEN_SWORD",
+    "name": "Wooden Sword",
+    "category": "SWORD",
+    "attributes": {
+      "generic.attack_speed": -2.4
+    },
+    "stats": {
+      "DAMAGE": 20
+    },
+    "npc_sell_price": 1,
+    "id": "WOODEN_SWORD"
+  }, {
+    "material": "STONE_SWORD",
+    "name": "Stone Sword",
+    "category": "SWORD",
+    "attributes": {
+      "generic.attack_speed": -2.4
+    },
+    "stats": {
+      "DAMAGE": 25
+    },
+    "npc_sell_price": 1,
+    "id": "STONE_SWORD"
+  }, {
+    "material": "IRON_SWORD",
+    "name": "Iron Sword",
+    "category": "SWORD",
+    "attributes": {
+      "generic.attack_speed": -2.4
+    },
+    "stats": {
+      "DAMAGE": 30
+    },
+    "npc_sell_price": 3,
+    "id": "IRON_SWORD"
+  }, {
+    "material": "GOLDEN_SWORD",
+    "name": "Golden Sword",
+    "category": "SWORD",
+    "attributes": {
+      "generic.attack_speed": -2.4
+    },
+    "stats": {
+      "DAMAGE": 20
+    },
+    "npc_sell_price": 4,
+    "id": "GOLDEN_SWORD"
+  }, {
+    "material": "DIAMOND_SWORD",
+    "name": "Diamond Sword",
+    "category": "SWORD",
+    "tier": "UNCOMMON",
+    "attributes": {
+      "generic.attack_speed": -2.4
+    },
+    "stats": {
+      "DAMAGE": 35
+    },
+    "npc_sell_price": 8,
+    "id": "DIAMOND_SWORD"
+  }, {
+    "material": "NETHERITE_SWORD",
+    "name": "Netherite Sword",
+    "category": "SWORD",
+    "tier": "RARE",
+    "attributes": {
+      "generic.attack_speed": -2.4
+    },
+    "stats": {
+      "DAMAGE": 40
+    },
+    "npc_sell_price": 12,
+    "id": "NETHERITE_SWORD"
+  }, {
+    "material": "TRIDENT",
+    "name": "Trident",
+    "category": "TRIDENT",
+    "tier": "EPIC",
+    "attributes": {
+      "generic.attack_speed": -2.7
+    },
+    "stats": {
+      "DAMAGE": 45
+    },
+    "npc_sell_price": 16,
+    "id": "TRIDENT"
+  }, {
+    "material": "MACE",
+    "name": "Mace",
+    "category": "MACE",
+    "tier": "EPIC",
+    "attributes": {
+      "generic.attack_speed": -3
+    },
+    "stats": {
+      "DAMAGE": 80
+    },
+    "npc_sell_price": 20,
+    "id": "MACE"
+  }, {
+    "material": "SHIELD",
+    "name": "Shield",
+    "category": "SHIELD",
+    "stats": {
+      "DEFENSE": 20
+    },
+    "npc_sell_price": 3,
+    "id": "SHIELD"
+  }, {
+    "material": "LEATHER_HELMET",
+    "name": "Leather Helmet",
+    "category": "HELMET",
+    "stats": {
+      "DEFENSE": 5
+    },
+    "npc_sell_price": 7,
+    "id": "LEATHER_HELMET"
+  }, {
+    "material": "LEATHER_CHESTPLATE",
+    "name": "Leather Chestplate",
+    "category": "CHESTPLATE",
+    "stats": {
+      "DEFENSE": 15
+    },
+    "npc_sell_price": 12,
+    "id": "LEATHER_CHESTPLATE"
+  }, {
+    "material": "LEATHER_LEGGINGS",
+    "name": "Leather Leggings",
+    "category": "LEGGINGS",
+    "stats": {
+      "DEFENSE": 10
+    },
+    "npc_sell_price": 10,
+    "id": "LEATHER_LEGGINGS"
+  }, {
+    "material": "LEATHER_BOOTS",
+    "name": "Leather Boots",
+    "category": "BOOTS",
+    "stats": {
+      "DEFENSE": 5
+    },
+    "npc_sell_price": 6,
+    "id": "LEATHER_BOOTS"
+  }, {
+    "material": "CHAINMAIL_HELMET",
+    "name": "Chainmail Helmet",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "stats": {
+      "DEFENSE": 12
+    },
+    "npc_sell_price": 7,
+    "id": "CHAINMAIL_HELMET"
+  }, {
+    "material": "CHAINMAIL_CHESTPLATE",
+    "name": "Chainmail Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "UNCOMMON",
+    "stats": {
+      "DEFENSE": 30
+    },
+    "npc_sell_price": 12,
+    "id": "CHAINMAIL_CHESTPLATE"
+  }, {
+    "material": "CHAINMAIL_LEGGINGS",
+    "name": "Chainmail Leggings",
+    "category": "LEGGINGS",
+    "tier": "UNCOMMON",
+    "stats": {
+      "DEFENSE": 20
+    },
+    "npc_sell_price": 10,
+    "id": "CHAINMAIL_LEGGINGS"
+  }, {
+    "material": "CHAINMAIL_BOOTS",
+    "name": "Chainmail Boots",
+    "category": "BOOTS",
+    "tier": "UNCOMMON",
+    "stats": {
+      "DEFENSE": 7
+    },
+    "npc_sell_price": 6,
+    "id": "CHAINMAIL_BOOTS"
+  }, {
+    "material": "IRON_HELMET",
+    "name": "Iron Helmet",
+    "category": "HELMET",
+    "stats": {
+      "DEFENSE": 12
+    },
+    "npc_sell_price": 7,
+    "id": "IRON_HELMET"
+  }, {
+    "material": "IRON_CHESTPLATE",
+    "name": "Iron Chestplate",
+    "category": "CHESTPLATE",
+    "stats": {
+      "DEFENSE": 30
+    },
+    "npc_sell_price": 12,
+    "id": "IRON_CHESTPLATE"
+  }, {
+    "material": "IRON_LEGGINGS",
+    "name": "Iron Leggings",
+    "category": "LEGGINGS",
+    "stats": {
+      "DEFENSE": 25
+    },
+    "npc_sell_price": 10,
+    "id": "IRON_LEGGINGS"
+  }, {
+    "material": "IRON_BOOTS",
+    "name": "Iron Boots",
+    "category": "BOOTS",
+    "stats": {
+      "DEFENSE": 10
+    },
+    "npc_sell_price": 6,
+    "id": "IRON_BOOTS"
+  }, {
+    "material": "GOLDEN_HELMET",
+    "name": "Golden Helmet",
+    "category": "HELMET",
+    "stats": {
+      "DEFENSE": 10
+    },
+    "npc_sell_price": 10,
+    "id": "GOLDEN_HELMET"
+  }, {
+    "material": "GOLDEN_CHESTPLATE",
+    "name": "Golden Chestplate",
+    "category": "CHESTPLATE",
+    "stats": {
+      "DEFENSE": 25
+    },
+    "npc_sell_price": 16,
+    "id": "GOLDEN_CHESTPLATE"
+  }, {
+    "material": "GOLDEN_LEGGINGS",
+    "name": "Golden Leggings",
+    "category": "LEGGINGS",
+    "stats": {
+      "DEFENSE": 15
+    },
+    "npc_sell_price": 14,
+    "id": "GOLDEN_LEGGINGS"
+  }, {
+    "material": "GOLDEN_BOOTS",
+    "name": "Golden Boots",
+    "category": "BOOTS",
+    "stats": {
+      "DEFENSE": 5
+    },
+    "npc_sell_price": 8,
+    "id": "GOLDEN_BOOTS"
+  }, {
+    "material": "DIAMOND_HELMET",
+    "name": "Diamond Helmet",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "stats": {
+      "DEFENSE": 15
+    },
+    "npc_sell_price": 20,
+    "id": "DIAMOND_HELMET"
+  }, {
+    "material": "DIAMOND_CHESTPLATE",
+    "name": "Diamond Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "UNCOMMON",
+    "stats": {
+      "DEFENSE": 40
+    },
+    "npc_sell_price": 32,
+    "id": "DIAMOND_CHESTPLATE"
+  }, {
+    "material": "DIAMOND_LEGGINGS",
+    "name": "Diamond Leggings",
+    "category": "LEGGINGS",
+    "tier": "UNCOMMON",
+    "stats": {
+      "DEFENSE": 30
+    },
+    "npc_sell_price": 28,
+    "id": "DIAMOND_LEGGINGS"
+  }, {
+    "material": "DIAMOND_BOOTS",
+    "name": "Diamond Boots",
+    "category": "BOOTS",
+    "tier": "UNCOMMON",
+    "stats": {
+      "DEFENSE": 15
+    },
+    "npc_sell_price": 16,
+    "id": "DIAMOND_BOOTS"
+  }, {
+    "material": "NETHERITE_HELMET",
+    "name": "Netherite Helmet",
+    "category": "HELMET",
+    "tier": "RARE",
+    "stats": {
+      "DEFENSE": 20
+    },
+    "npc_sell_price": 40,
+    "id": "NETHERITE_HELMET"
+  }, {
+    "material": "NETHERITE_CHESTPLATE",
+    "name": "Netherite Chestplate",
+    "category": "CHESTPLATE",
+    "tier": "RARE",
+    "stats": {
+      "DEFENSE": 45
+    },
+    "npc_sell_price": 64,
+    "id": "NETHERITE_CHESTPLATE"
+  }, {
+    "material": "NETHERITE_LEGGINGS",
+    "name": "Netherite Leggings",
+    "category": "LEGGINGS",
+    "tier": "RARE",
+    "stats": {
+      "DEFENSE": 35
+    },
+    "npc_sell_price": 56,
+    "id": "NETHERITE_LEGGINGS"
+  }, {
+    "material": "NETHERITE_BOOTS",
+    "name": "Netherite Boots",
+    "category": "BOOTS",
+    "tier": "RARE",
+    "stats": {
+      "DEFENSE": 20
+    },
+    "npc_sell_price": 32,
+    "id": "NETHERITE_BOOTS"
+  }, {
+    "material": "TURTLE_HELMET",
+    "name": "Turtle Shell",
+    "category": "HELMET",
+    "tier": "UNCOMMON",
+    "stats": {
+      "DEFENSE": 10
+    },
+    "npc_sell_price": 8,
+    "id": "TURTLE_HELMET"
+  }, {
+    "material": "LEATHER_HORSE_ARMOR",
+    "name": "Leather Horse Armor",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 250,
+    "museum": true,
+    "id": "LEATHER_HORSE_ARMOR"
+  }, {
+    "material": "IRON_HORSE_ARMOR",
+    "name": "Iron Horse Armor",
+    "tier": "RARE",
+    "npc_sell_price": 500,
+    "museum": true,
+    "id": "IRON_HORSE_ARMOR"
+  }, {
+    "material": "GOLDEN_HORSE_ARMOR",
+    "name": "Golden Horse Armor",
+    "tier": "EPIC",
+    "npc_sell_price": 650,
+    "museum": true,
+    "id": "GOLDEN_HORSE_ARMOR"
+  }, {
+    "material": "DIAMOND_HORSE_ARMOR",
+    "name": "Diamond Horse Armor",
+    "tier": "EPIC",
+    "npc_sell_price": 100,
+    "museum": true,
+    "id": "DIAMOND_HORSE_ARMOR"
+  }, {
+    "material": "WOLF_ARMOR",
+    "name": "Wolf Armor",
+    "npc_sell_price": 25,
+    "museum": true,
+    "id": "WOLF_ARMOR"
+  }, {
+    "material": "TOTEM_OF_UNDYING",
+    "name": "Totem of Undying",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 50,
+    "id": "TOTEM_OF_UNDYING"
+  }, {
+    "material": "SNOWBALL",
+    "name": "Snowball",
+    "npc_sell_price": 0.5,
+    "id": "SNOWBALL"
+  }, {
+    "material": "EGG",
+    "name": "Egg",
+    "npc_sell_price": 3,
+    "id": "EGG"
+  }, {
+    "material": "BOW",
+    "name": "Bow",
+    "category": "BOW",
+    "stats": {
+      "DAMAGE": 30
+    },
+    "npc_sell_price": 9,
+    "id": "BOW"
+  }, {
+    "material": "CROSSBOW",
+    "name": "Crossbow",
+    "category": "CROSS_BOW",
+    "stats": {
+      "DAMAGE": 35
+    },
+    "npc_sell_price": 10,
+    "id": "CROSSBOW"
+  }, {
+    "material": "ARROW",
+    "name": "Flint Arrow",
+    "category": "ARROW",
+    "stats": {
+      "DAMAGE": 1
+    },
+    "npc_sell_price": 2,
+    "id": "ARROW"
+  }, {
+    "material": "SPECTRAL_ARROW",
+    "name": "Spectral Arrow",
+    "category": "ARROW",
+    "stats": {
+      "DAMAGE": 3
+    },
+    "npc_sell_price": 2,
+    "id": "SPECTRAL_ARROW"
+  }, {
+    "material": "APPLE",
+    "name": "Apple",
+    "npc_sell_price": 5,
+    "id": "APPLE"
+  }, {
+    "material": "GOLDEN_APPLE",
+    "name": "Golden Apple",
+    "npc_sell_price": 8,
+    "id": "GOLDEN_APPLE"
+  }, {
+    "material": "ENCHANTED_GOLDEN_APPLE",
+    "name": "Enchanted Golden Apple",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 125,
+    "id": "ENCHANTED_GOLDEN_APPLE"
+  }, {
+    "material": "MELON_SLICE",
+    "name": "Melon Slice",
+    "npc_sell_price": 0.5,
+    "id": "MELON_SLICE"
+  }, {
+    "material": "CHORUS_FRUIT",
+    "name": "Chorus Fruit",
+    "npc_sell_price": 1,
+    "id": "CHORUS_FRUIT"
+  }, {
+    "material": "CARROT",
+    "name": "Carrot",
+    "npc_sell_price": 3,
+    "id": "CARROT"
+  }, {
+    "material": "GOLDEN_CARROT",
+    "name": "Golden Carrot",
+    "npc_sell_price": 4,
+    "id": "GOLDEN_CARROT"
+  }, {
+    "material": "POTATO",
+    "name": "Potato",
+    "npc_sell_price": 3,
+    "id": "POTATO"
+  }, {
+    "material": "BAKED_POTATO",
+    "name": "Baked Potato",
+    "npc_sell_price": 3,
+    "id": "BAKED_POTATO"
+  }, {
+    "material": "POISONOUS_POTATO",
+    "name": "Poisonous Potato",
+    "npc_sell_price": 10,
+    "id": "POISONOUS_POTATO"
+  }, {
+    "material": "BEETROOT",
+    "name": "Beetroot",
+    "npc_sell_price": 4,
+    "id": "BEETROOT"
+  }, {
+    "material": "DRIED_KELP",
+    "name": "Dried Kelp",
+    "npc_sell_price": 3,
+    "id": "DRIED_KELP"
+  }, {
+    "material": "BEEF",
+    "name": "Raw Beef",
+    "npc_sell_price": 4,
+    "id": "BEEF"
+  }, {
+    "material": "COOKED_BEEF",
+    "name": "Steak",
+    "npc_sell_price": 4,
+    "id": "COOKED_BEEF"
+  }, {
+    "material": "PORKCHOP",
+    "name": "Raw Porkchop",
+    "npc_sell_price": 5,
+    "id": "PORKCHOP"
+  }, {
+    "material": "COOKED_PORKCHOP",
+    "name": "Cooked Porkchop",
+    "npc_sell_price": 5,
+    "id": "COOKED_PORKCHOP"
+  }, {
+    "material": "MUTTON",
+    "name": "Raw Mutton",
+    "npc_sell_price": 5,
+    "id": "MUTTON"
+  }, {
+    "material": "COOKED_MUTTON",
+    "name": "Cooked Mutton",
+    "npc_sell_price": 5,
+    "id": "COOKED_MUTTON"
+  }, {
+    "material": "CHICKEN",
+    "name": "Raw Chicken",
+    "npc_sell_price": 4,
+    "id": "CHICKEN"
+  }, {
+    "material": "COOKED_CHICKEN",
+    "name": "Raw Chicken",
+    "npc_sell_price": 4,
+    "id": "COOKED_CHICKEN"
+  }, {
+    "material": "RABBIT",
+    "name": "Raw Rabbit",
+    "npc_sell_price": 4,
+    "id": "RABBIT"
+  }, {
+    "material": "COOKED_RABBIT",
+    "name": "Cooked Rabbit",
+    "npc_sell_price": 4,
+    "id": "COOKED_RABBIT"
+  }, {
+    "material": "COD",
+    "name": "Raw Cod",
+    "npc_sell_price": 8,
+    "id": "COD"
+  }, {
+    "material": "COOKED_COD",
+    "name": "Cooked Cod",
+    "npc_sell_price": 8,
+    "id": "COOKED_COD"
+  }, {
+    "material": "SALMON",
+    "name": "Raw Salmon",
+    "npc_sell_price": 10,
+    "id": "SALMON"
+  }, {
+    "material": "COOKED_SALMON",
+    "name": "Cooked Salmon",
+    "npc_sell_price": 10,
+    "id": "COOKED_SALMON"
+  }, {
+    "material": "TROPICAL_FISH",
+    "name": "Tropical Fish",
+    "npc_sell_price": 8,
+    "id": "TROPICAL_FISH"
+  }, {
+    "material": "PUFFERFISH",
+    "name": "Pufferfish",
+    "npc_sell_price": 15,
+    "id": "PUFFERFISH"
+  }, {
+    "material": "BREAD",
+    "name": "Bread",
+    "npc_sell_price": 3,
+    "id": "BREAD"
+  }, {
+    "material": "COOKIE",
+    "name": "Cookie",
+    "npc_sell_price": 0.3,
+    "id": "COOKIE"
+  }, {
+    "material": "CAKE",
+    "name": "Cake",
+    "npc_sell_price": 10,
+    "id": "CAKE"
+  }, {
+    "material": "PUMPKIN_PIE",
+    "name": "Pumpkin Pie",
+    "npc_sell_price": 9,
+    "id": "PUMPKIN_PIE"
+  }, {
+    "material": "ROTTEN_FLESH",
+    "name": "Rotten Flesh",
+    "npc_sell_price": 2,
+    "id": "ROTTEN_FLESH"
+  }, {
+    "material": "SPIDER_EYE",
+    "name": "Spider Eye",
+    "npc_sell_price": 3,
+    "id": "SPIDER_EYE"
+  }, {
+    "material": "MUSHROOM_STEW",
+    "name": "Mushroom Stew",
+    "npc_sell_price": 5,
+    "id": "MUSHROOM_STEW"
+  }, {
+    "material": "BEETROOT_SOUP",
+    "name": "Beetroot Soup",
+    "npc_sell_price": 5,
+    "id": "BEETROOT_SOUP"
+  }, {
+    "material": "RABBIT_STEW",
+    "name": "Rabbit Stew",
+    "npc_sell_price": 12,
+    "id": "RABBIT_STEW"
+  }, {
+    "material": "HONEY_BOTTLE",
+    "name": "Honey Bottle",
+    "npc_sell_price": 65,
+    "id": "HONEY_BOTTLE"
+  }, {
+    "material": "POTION",
+    "name": "Water Bottle",
+    "npc_sell_price": 2,
+    "id": "POTION"
+  }, {
+    "material": "SPLASH_POTION",
+    "name": "Splash Water Bottle",
+    "npc_sell_price": 2,
+    "id": "SPLASH_POTION"
+  }, {
+    "material": "LINGERING_POTION",
+    "name": "Lingering Water Bottle",
+    "npc_sell_price": 2,
+    "id": "LINGERING_POTION"
+  }, {
+    "material": "COAL",
+    "name": "Coal",
+    "npc_sell_price": 1,
+    "id": "COAL"
+  }, {
+    "material": "CHARCOAL",
+    "name": "Charcoal",
+    "npc_sell_price": 1,
+    "can_burn_in_furnace": true,
+    "id": "CHARCOAL"
+  }, {
+    "material": "RAW_IRON",
+    "name": "Raw Iron",
+    "npc_sell_price": 2,
+    "id": "RAW_IRON"
+  }, {
+    "material": "RAW_COPPER",
+    "name": "Raw Copper",
+    "npc_sell_price": 3,
+    "id": "RAW_COPPER"
+  }, {
+    "material": "RAW_GOLD",
+    "name": "Raw Gold",
+    "npc_sell_price": 3,
+    "id": "RAW_GOLD"
+  }, {
+    "material": "EMERALD",
+    "name": "Emerald",
+    "npc_sell_price": 4,
+    "id": "EMERALD"
+  }, {
+    "material": "LAPIS_LAZULI",
+    "name": "Lapis Lazuli",
+    "npc_sell_price": 1,
+    "id": "LAPIS_LAZULI"
+  }, {
+    "material": "DIAMOND",
+    "name": "Diamond",
+    "npc_sell_price": 8,
+    "id": "DIAMOND"
+  }, {
+    "material": "QUARTZ",
+    "name": "Nether Quartz",
+    "npc_sell_price": 4,
+    "id": "QUARTZ"
+  }, {
+    "material": "AMETHYST_SHARD",
+    "name": "Amethyst Shard",
+    "npc_sell_price": 5,
+    "id": "AMETHYST_SHARD"
+  }, {
+    "material": "IRON_NUGGET",
+    "name": "Iron Nugget",
+    "npc_sell_price": 0.3,
+    "id": "IRON_NUGGET"
+  }, {
+    "material": "GOLD_NUGGET",
+    "name": "Gold Nugget",
+    "npc_sell_price": 0.3,
+    "id": "GOLD_NUGGET"
+  }, {
+    "material": "IRON_INGOT",
+    "name": "Iron Ingot",
+    "npc_sell_price": 2,
+    "id": "IRON_INGOT"
+  }, {
+    "material": "COPPER_INGOT",
+    "name": "Copper Ingot",
+    "npc_sell_price": 3,
+    "id": "COPPER_INGOT"
+  }, {
+    "material": "GOLD_INGOT",
+    "name": "Gold Ingot",
+    "npc_sell_price": 3,
+    "id": "GOLD_INGOT"
+  }, {
+    "material": "NETHERITE_SCRAP",
+    "name": "Netherite Scrap",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 40,
+    "id": "NETHERITE_SCRAP"
+  }, {
+    "material": "NETHERITE_INGOT",
+    "name": "Netherite Ingot",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 160,
+    "id": "NETHERITE_INGOT"
+  }, {
+    "material": "STICK",
+    "name": "Stick",
+    "npc_sell_price": 0.25,
+    "id": "STICK"
+  }, {
+    "material": "FLINT",
+    "name": "Flint",
+    "npc_sell_price": 4,
+    "id": "FLINT"
+  }, {
+    "material": "WHEAT",
+    "name": "Wheat",
+    "npc_sell_price": 6,
+    "id": "WHEAT"
+  }, {
+    "material": "BONE",
+    "name": "Bone",
+    "npc_sell_price": 2,
+    "id": "BONE"
+  }, {
+    "material": "FEATHER",
+    "name": "Feather",
+    "npc_sell_price": 3,
+    "id": "FEATHER"
+  }, {
+    "material": "LEATHER",
+    "name": "Leather",
+    "npc_sell_price": 3,
+    "id": "LEATHER"
+  }, {
+    "material": "RABBIT_HIDE",
+    "name": "Rabbit Hide",
+    "npc_sell_price": 7,
+    "id": "RABBIT_HIDE"
+  }, {
+    "material": "HONEYCOMB",
+    "name": "Honeycomb",
+    "npc_sell_price": 8,
+    "id": "HONEYCOMB"
+  }, {
+    "material": "INK_SAC",
+    "name": "Ink Sac",
+    "npc_sell_price": 2,
+    "id": "INK_SAK"
+  }, {
+    "material": "GLOW_INK_SAC",
+    "name": "Glow Ink Sac",
+    "npc_sell_price": 20,
+    "id": "GLOW_INK_SAC"
+  }, {
+    "material": "TURTLE_SCUTE",
+    "name": "Turtle Scute",
+    "npc_sell_price": 5,
+    "id": "TURTLE_SCUTE"
+  }, {
+    "material": "ARMADILLO_SCUTE",
+    "name": "Armadillo Scute",
+    "npc_sell_price": 10,
+    "id": "ARMADILLO_SCUTE"
+  }, {
+    "material": "SLIME_BALL",
+    "name": "Slime Ball",
+    "npc_sell_price": 5,
+    "id": "SLIME_Ball"
+  }, {
+    "material": "CLAY_BALL",
+    "name": "Clay Ball",
+    "npc_sell_price": 12,
+    "id": "CLAY_BALL"
+  }, {
+    "material": "PRISMARINE_SHARD",
+    "name": "Prismarine Shard",
+    "npc_sell_price": 5,
+    "id": "PRISMARINE_SHARD"
+  }, {
+    "material": "PRISMARINE_CRYSTALS",
+    "name": "Prismarine Crystals",
+    "npc_sell_price": 5,
+    "id": "PRISMARINE_CRYSTALS"
+  }, {
+    "material": "NAUTILUS_SHELL",
+    "name": "Nautilus Shell",
+    "npc_sell_price": 12,
+    "id": "NAUTILUS_SHELL"
+  }, {
+    "material": "HEART_OF_THE_SEA",
+    "name": "Heart of the Sea",
+    "tier": "RARE",
+    "npc_sell_price": 55,
+    "id": "HEART_OF_THE_SEA"
+  }, {
+    "material": "BLAZE_ROD",
+    "name": "Blaze Rod",
+    "npc_sell_price": 9,
+    "id": "BLAZE_ROD"
+  }, {
+    "material": "BREEZE_ROD",
+    "name": "Breeze Rod",
+    "npc_sell_price": 12,
+    "id": "BREEZE_ROD"
+  }, {
+    "material": "HEAVY_CORE",
+    "name": "Heavy Core",
+    "tier": "EPIC",
+    "npc_sell_price": 1200,
+    "id": "HEAVY_CORE"
+  }, {
+    "material": "NETHER_STAR",
+    "name": "Nether Star",
+    "tier": "RARE",
+    "npc_sell_price": 200,
+    "id": "NETHER_STAR"
+  }, {
+    "material": "SHULKER_SHELL",
+    "name": "Shulker Shell",
+    "npc_sell_price": 15,
+    "id": "SHULKER_SHELL"
+  }, {
+    "material": "POPPED_CHORUS_FRUIT",
+    "name": "Popped Chorus Fruit",
+    "npc_sell_price": 5,
+    "id": "POPPED_CHORUS_FRUIT"
+  }, {
+    "material": "ECHO_SHARD",
+    "name": "Echo Shard",
+    "npc_sell_price": 7,
+    "id": "ECHO_SHARD"
+  }, {
+    "material": "DISC_FRAGMENT_5",
+    "name": "Disc Fragment",
+    "npc_sell_price": 7,
+    "id": "DISC_FRAGMENT_5"
+  }, {
+    "material": "WHITE_DYE",
+    "name": "White Dye",
+    "npc_sell_price": 2,
+    "id": "WHITE_DYE"
+  }, {
+    "material": "LIGHT_GRAY_DYE",
+    "name": "Light Gray Dye",
+    "npc_sell_price": 2,
+    "id": "LIGHT_GRAY_DYE"
+  }, {
+    "material": "GRAY_DYE",
+    "name": "Gray Dye",
+    "npc_sell_price": 2,
+    "id": "GRAY_DYE"
+  }, {
+    "material": "BLACK_DYE",
+    "name": "Black Dye",
+    "npc_sell_price": 2,
+    "id": "BLACK_DYE"
+  }, {
+    "material": "BROWN_DYE",
+    "name": "Brown Dye",
+    "npc_sell_price": 2,
+    "id": "BROWN_DYE"
+  }, {
+    "material": "RED_DYE",
+    "name": "Red Dye",
+    "npc_sell_price": 2,
+    "id": "RED_DYE"
+  }, {
+    "material": "ORANGE_DYE",
+    "name": "Orange Dye",
+    "npc_sell_price": 2,
+    "id": "ORANGE_DYE"
+  }, {
+    "material": "YELLOW_DYE",
+    "name": "Yellow Dye",
+    "npc_sell_price": 2,
+    "id": "YELLOW_DYE"
+  }, {
+    "material": "LIME_DYE",
+    "name": "Lime Dye",
+    "npc_sell_price": 2,
+    "id": "LIME_DYE"
+  }, {
+    "material": "GREEN_DYE",
+    "name": "Green Dye",
+    "npc_sell_price": 2,
+    "id": "GREEN_DYE"
+  }, {
+    "material": "CYAN_DYE",
+    "name": "Cyan Dye",
+    "npc_sell_price": 2,
+    "id": "CYAN_DYE"
+  }, {
+    "material": "LIGHT_BLUE_DYE",
+    "name": "Light Blue Dye",
+    "npc_sell_price": 2,
+    "id": "LIGHT_BLUE_DYE"
+  }, {
+    "material": "BLUE_DYE",
+    "name": "Blue Dye",
+    "npc_sell_price": 2,
+    "id": "BLUE_DYE"
+  }, {
+    "material": "PURPLE_DYE",
+    "name": "Purple Dye",
+    "npc_sell_price": 2,
+    "id": "PURPLE_DYE"
+  }, {
+    "material": "MAGENTA_DYE",
+    "name": "Magenta Dye",
+    "npc_sell_price": 2,
+    "id": "MAGENTA_DYE"
+  }, {
+    "material": "PINK_DYE",
+    "name": "Pink Dye",
+    "npc_sell_price": 2,
+    "id": "PINK_DYE"
+  }, {
+    "material": "BOWL",
+    "name": "Bowl",
+    "npc_sell_price": 0.5,
+    "id": "BOWL"
+  }, {
+    "material": "BRICK",
+    "name": "Brick",
+    "npc_sell_price": 3,
+    "id": "BRICK"
+  }, {
+    "material": "NETHER_BRICK",
+    "name": "Nether Brick",
+    "npc_sell_price": 1,
+    "id": "NETHER_BRICK"
+  }, {
+    "material": "PAPER",
+    "name": "Paper",
+    "npc_sell_price": 2,
+    "id": "PAPER"
+  }, {
+    "material": "BOOK",
+    "name": "Book",
+    "npc_sell_price": 12,
+    "id": "BOOK"
+  }, {
+    "material": "FIREWORK_STAR",
+    "name": "Firework Star",
+    "npc_sell_price": 8,
+    "id": "FIREWORK_STAR"
+  }, {
+    "material": "GLASS_BOTTLE",
+    "name": "Glass Bottle",
+    "npc_sell_price": 2,
+    "id": "GLASS_BOTTLE"
+  }, {
+    "material": "GLOWSTONE_DUST",
+    "name": "Glowstone Dust",
+    "npc_sell_price": 2,
+    "id": "GLOWSTONE_DUST"
+  }, {
+    "material": "GUNPOWDER",
+    "name": "Gunpowder",
+    "npc_sell_price": 4,
+    "id": "GUNPOWDER"
+  }, {
+    "material": "DRAGON_BREATH",
+    "name": "Dragon's Breath",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 25,
+    "id": "DRAGON_BREATH"
+  }, {
+    "material": "FERMENTED_SPIDER_EYE",
+    "name": "Fermented Spider Eye",
+    "npc_sell_price": 10,
+    "id": "FERMENTED_SPIDER_EYE"
+  }, {
+    "material": "BLAZE_POWDER",
+    "name": "Blaze Powder",
+    "npc_sell_price": 4,
+    "id": "BLAZE_POWDER"
+  }, {
+    "material": "SUGAR",
+    "name": "Sugar",
+    "npc_sell_price": 2,
+    "id": "SUGAR"
+  }, {
+    "material": "RABBIT_FOOT",
+    "name": "Rabbit's Foot",
+    "npc_sell_price": 5,
+    "id": "RABBIT_FOOT"
+  }, {
+    "material": "GLISTERING_MELON_SLICE",
+    "name": "Glistering Melon Slice",
+    "npc_sell_price": 3.5,
+    "id": "GLISTERING_MELON_SLICE"
+  }, {
+    "material": "MAGMA_CREAM",
+    "name": "Magma Cream",
+    "npc_sell_price": 8,
+    "id": "MAGMA_CREAM"
+  }, {
+    "material": "GHAST_TEAR",
+    "name": "Ghast Tear",
+    "npc_sell_price": 16,
+    "id": "GHAST_TEAR"
+  }, {
+    "material": "PHANTOM_MEMBRANE",
+    "name": "Phantom Membrane",
+    "npc_sell_price": 7,
+    "id": "PHANTOM_MEMBRANE"
+  }, {
+    "material": "ANGLER_POTTERY_SHERD",
+    "name": "Angler Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "ANGLER_POTTERY_SHERD"
+  }, {
+    "material": "ARCHER_POTTERY_SHERD",
+    "name": "Archer Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "ARCHER_POTTERY_SHERD"
+  }, {
+    "material": "ARMS_UP_POTTERY_SHERD",
+    "name": "Arms Up Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "ARMS_UP_POTTERY_SHERD"
+  }, {
+    "material": "BLADE_POTTERY_SHERD",
+    "name": "Blade Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "BLADE_POTTERY_SHERD"
+  }, {
+    "material": "BREWER_POTTERY_SHERD",
+    "name": "Brewer Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "BREWER_POTTERY_SHERD"
+  }, {
+    "material": "BURN_POTTERY_SHERD",
+    "name": "Burn Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "BURN_POTTERY_SHERD"
+  }, {
+    "material": "DANGER_POTTERY_SHERD",
+    "name": "Danger Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "DANGER_POTTERY_SHERD"
+  }, {
+    "material": "FLOW_POTTERY_SHERD",
+    "name": "Flow Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "FLOW_POTTERY_SHERD"
+  }, {
+    "material": "EXPLORER_POTTERY_SHERD",
+    "name": "Explorer Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "EXPLORER_POTTERY_SHERD"
+  }, {
+    "material": "FRIEND_POTTERY_SHERD",
+    "name": "Friend Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "FRIEND_POTTERY_SHERD"
+  }, {
+    "material": "GUSTER_POTTERY_SHERD",
+    "name": "Guster Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "GUSTER_POTTERY_SHERD"
+  }, {
+    "material": "HEART_POTTERY_SHERD",
+    "name": "Heart Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "HEART_POTTERY_SHERD"
+  }, {
+    "material": "HEARTBREAK_POTTERY_SHERD",
+    "name": "Heartbreak Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "HEARTBREAK_POTTERY_SHERD"
+  }, {
+    "material": "HOWL_POTTERY_SHERD",
+    "name": "Howl Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "HOWL_POTTERY_SHERD"
+  }, {
+    "material": "MINER_POTTERY_SHERD",
+    "name": "Miner Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "MINER_POTTERY_SHERD"
+  }, {
+    "material": "MOURNER_POTTERY_SHERD",
+    "name": "Mourner Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "MOURNER_POTTERY_SHERD"
+  }, {
+    "material": "PLENTY_POTTERY_SHERD",
+    "name": "Plenty Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "PLENTY_POTTERY_SHERD"
+  }, {
+    "material": "PRIZE_POTTERY_SHERD",
+    "name": "Prize Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "PRIZE_POTTERY_SHERD"
+  }, {
+    "material": "SCRAPE_POTTERY_SHERD",
+    "name": "Scrape Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "SCRAPE_POTTERY_SHERD"
+  }, {
+    "material": "SHEAF_POTTERY_SHERD",
+    "name": "Sheaf Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "SHEAF_POTTERY_SHERD"
+  }, {
+    "material": "SHELTER_POTTERY_SHERD",
+    "name": "Shelter Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "SHELTER_POTTERY_SHERD"
+  }, {
+    "material": "SKULL_POTTERY_SHERD",
+    "name": "Skull Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "SKULL_POTTERY_SHERD"
+  }, {
+    "material": "SNORT_POTTERY_SHERD",
+    "name": "Snort Pottery Sherd",
+    "npc_sell_price": 10,
+    "id": "SNORT_POTTERY_SHERD"
+  }, {
+    "material": "NETHERITE_UPGRADE_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "NETHERITE_UPGRADE_SMITHING_TEMPLATE"
+  }, {
+    "material": "SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "VEX_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "VEX_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "WILD_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "WILD_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "COAST_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "COAST_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "DUNE_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "DUNE_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "RAISER_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "RAISER_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "HOST_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "HOST_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "WARD_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "WARD_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "TIDE_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "TIDE_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "RIB_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "RIB_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "EYE_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "EYE_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "FLOW_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "FLOW_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "BOLT_ARMOR_TRIM_SMITHING_TEMPLATE",
+    "name": "Smithing Template",
+    "tier": "UNCOMMON",
+    "npc_sell_price": 200,
+    "id": "BOLT_ARMOR_TRIM_SMITHING_TEMPLATE"
+  }, {
+    "material": "EXPERIENCE_BOTTLE",
+    "name": "Bottle o' Enchanting",
+    "npc_sell_price": 5,
+    "id": "EXPERIENCE_BOTTLE"
+  }, {
+    "material": "TRIAL_KEY",
+    "name": "Trail Key",
+    "npc_sell_price": 20,
+    "id": "TRIAL_KEY"
+  }, {
+    "material": "OMINOUS_TRIAL_KEY",
+    "name": "Ominous Trail Key",
+    "npc_sell_price": 40,
+    "id": "OMINOUS_TRIAL_KEY"
+  }, {
+    "material": "SPAWNER",
+    "name": "Monster Spawner",
+    "npc_sell_price": 100,
+    "id": "SPAWNER"
+  }, {
+    "material": "TRIAL_SPAWNER",
+    "name": "Trial Spawner",
+    "npc_sell_price": 100,
+    "id": "TRIAL_SPAWNER"
+  }, {
+    "material": "ALLAY_SPAWN_EGG",
+    "name": "Allay Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "ALLAY_SPAWN_EGG"
+  }, {
+    "material": "ARMADILLO_SPAWN_EGG",
+    "name": "Armadillo Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "ARMADILLO_SPAWN_EGG"
+  }, {
+    "material": "AXOLOTL_SPAWN_EGG",
+    "name": "Axolotl Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "AXOLOTL_SPAWN_EGG"
+  }, {
+    "material": "BAT_SPAWN_EGG",
+    "name": "Bat Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "BAT_SPAWN_EGG"
+  }, {
+    "material": "BEE_SPAWN_EGG",
+    "name": "Bee Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "BEE_SPAWN_EGG"
+  }, {
+    "material": "BLAZE_SPAWN_EGG",
+    "name": "Blaze Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "BLAZE_SPAWN_EGG"
+  }, {
+    "material": "BOGGED_SPAWN_EGG",
+    "name": "Bogged Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "BOGGED_SPAWN_EGG"
+  }, {
+    "material": "BREEZE_SPAWN_EGG",
+    "name": "Breeze Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "BREEZE_SPAWN_EGG"
+  }, {
+    "material": "CAMEL_SPAWN_EGG",
+    "name": "Camel Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "CAMEL_SPAWN_EGG"
+  }, {
+    "material": "CAT_SPAWN_EGG",
+    "name": "Cat Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "CAT_SPAWN_EGG"
+  }, {
+    "material": "CAVE_SPIDER_SPAWN_EGG",
+    "name": "Cave Spider Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "CAVE_SPIDER_SPAWN_EGG"
+  }, {
+    "material": "CHICKEN_SPAWN_EGG",
+    "name": "Chicken Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "CHICKEN_SPAWN_EGG"
+  }, {
+    "material": "COD_SPAWN_EGG",
+    "name": "Cod Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "COD_SPAWN_EGG"
+  }, {
+    "material": "COW_SPAWN_EGG",
+    "name": "Cow Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "COW_SPAWN_EGG"
+  }, {
+    "material": "CREEPER_SPAWN_EGG",
+    "name": "Creeper Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "CREEPER_SPAWN_EGG"
+  }, {
+    "material": "DOLPHIN_SPAWN_EGG",
+    "name": "Dolphin Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "DOLPHIN_SPAWN_EGG"
+  }, {
+    "material": "DONKEY_SPAWN_EGG",
+    "name": "Donkey Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "DONKEY_SPAWN_EGG"
+  }, {
+    "material": "DROWNED_SPAWN_EGG",
+    "name": "Drowned Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "DROWNED_SPAWN_EGG"
+  }, {
+    "material": "ELDER_GUARDIAN_SPAWN_EGG",
+    "name": "Elder Guardian Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "ELDER_GUARDIAN_SPAWN_EGG"
+  }, {
+    "material": "ENDERMAN_SPAWN_EGG",
+    "name": "Enderman Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "ENDERMAN_SPAWN_EGG"
+  }, {
+    "material": "ENDERMITE_SPAWN_EGG",
+    "name": "Endermite Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "ENDERMITE_SPAWN_EGG"
+  }, {
+    "material": "EVOKER_SPAWN_EGG",
+    "name": "Evoker Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "EVOKER_SPAWN_EGG"
+  }, {
+    "material": "FOX_SPAWN_EGG",
+    "name": "Fox Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "FOX_SPAWN_EGG"
+  }, {
+    "material": "FROG_SPAWN_EGG",
+    "name": "Frog Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "FROG_SPAWN_EGG"
+  }, {
+    "material": "GHAST_SPAWN_EGG",
+    "name": "Ghast Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "GHAST_SPAWN_EGG"
+  }, {
+    "material": "GLOW_SQUID_SPAWN_EGG",
+    "name": "Glow Squid Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "GLOW_SQUID_SPAWN_EGG"
+  }, {
+    "material": "GOAT_SPAWN_EGG",
+    "name": "Goat Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "GOAT_SPAWN_EGG"
+  }, {
+    "material": "GUARDIAN_SPAWN_EGG",
+    "name": "Guardian Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "GUARDIAN_SPAWN_EGG"
+  }, {
+    "material": "HOGLIN_SPAWN_EGG",
+    "name": "Hoglin Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "HOGLIN_SPAWN_EGG"
+  }, {
+    "material": "HORSE_SPAWN_EGG",
+    "name": "Horse Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "HORSE_SPAWN_EGG"
+  }, {
+    "material": "HUSK_SPAWN_EGG",
+    "name": "Husk Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "HUSK_SPAWN_EGG"
+  }, {
+    "material": "IRON_GOLEM_SPAWN_EGG",
+    "name": "Iron Golem Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "IRON_GOLEM_SPAWN_EGG"
+  }, {
+    "material": "LLAMA_SPAWN_EGG",
+    "name": "Llama Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "LLAMA_SPAWN_EGG"
+  }, {
+    "material": "MAGMA_CUBE_SPAWN_EGG",
+    "name": "Magma Cube Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "MAGMA_CUBE_SPAWN_EGG"
+  }, {
+    "material": "MOOSHROOM_SPAWN_EGG",
+    "name": "Mooshroom Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "MOOSHROOM_SPAWN_EGG"
+  }, {
+    "material": "MULE_SPAWN_EGG",
+    "name": "Mule Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "MULE_SPAWN_EGG"
+  }, {
+    "material": "OCELOT_SPAWN_EGG",
+    "name": "Ocelot Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "OCELOT_SPAWN_EGG"
+  }, {
+    "material": "PANDA_SPAWN_EGG",
+    "name": "Panda Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "PANDA_SPAWN_EGG"
+  }, {
+    "material": "PARROT_SPAWN_EGG",
+    "name": "Parrot Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "PARROT_SPAWN_EGG"
+  }, {
+    "material": "PHANTOM_SPAWN_EGG",
+    "name": "Phantom Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "PHANTOM_SPAWN_EGG"
+  }, {
+    "material": "PIG_SPAWN_EGG",
+    "name": "Pig Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "PIG_SPAWN_EGG"
+  }, {
+    "material": "PIGLIN_SPAWN_EGG",
+    "name": "Piglin Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "PIGLIN_SPAWN_EGG"
+  }, {
+    "material": "PIGLIN_BRUTE_SPAWN_EGG",
+    "name": "Piglin Brute Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "PIGLIN_BRUTE_SPAWN_EGG"
+  }, {
+    "material": "PILLAGER_SPAWN_EGG",
+    "name": "Pillager Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "PILLAGER_SPAWN_EGG"
+  }, {
+    "material": "POLAR_BEAR_SPAWN_EGG",
+    "name": "Polar Bear Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "POLAR_BEAR_SPAWN_EGG"
+  }, {
+    "material": "PUFFERFISH_SPAWN_EGG",
+    "name": "Pufferfish Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "PUFFERFISH_SPAWN_EGG"
+  }, {
+    "material": "RABBIT_SPAWN_EGG",
+    "name": "Rabbit Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "RABBIT_SPAWN_EGG"
+  }, {
+    "material": "RAVAGER_SPAWN_EGG",
+    "name": "Ravager Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "RAVAGER_SPAWN_EGG"
+  }, {
+    "material": "SALMON_SPAWN_EGG",
+    "name": "Salmon Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "SALMON_SPAWN_EGG"
+  }, {
+    "material": "SHEEP_SPAWN_EGG",
+    "name": "Sheep Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "SHEEP_SPAWN_EGG"
+  }, {
+    "material": "SHULKER_SPAWN_EGG",
+    "name": "Shulker Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "SHULKER_SPAWN_EGG"
+  }, {
+    "material": "SILVERFISH_SPAWN_EGG",
+    "name": "Silverfish Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "SILVERFISH_SPAWN_EGG"
+  }, {
+    "material": "SKELETON_SPAWN_EGG",
+    "name": "Skeleton Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "SKELETON_SPAWN_EGG"
+  }, {
+    "material": "SKELETON_HORSE_SPAWN_EGG",
+    "name": "Skeleton Horse Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "SKELETON_HORSE_SPAWN_EGG"
+  }, {
+    "material": "SLIME_SPAWN_EGG",
+    "name": "Slime Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "SLIME_SPAWN_EGG"
+  }, {
+    "material": "SNIFFER_SPAWN_EGG",
+    "name": "Sniffer Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "SNIFFER_SPAWN_EGG"
+  }, {
+    "material": "SNOW_GOLEM_SPAWN_EGG",
+    "name": "Snow Golem Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "SNOW_GOLEM_SPAWN_EGG"
+  }, {
+    "material": "SPIDER_SPAWN_EGG",
+    "name": "Spider Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "SPIDER_SPAWN_EGG"
+  }, {
+    "material": "SQUID_SPAWN_EGG",
+    "name": "Squid Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "SQUID_SPAWN_EGG"
+  }, {
+    "material": "STRAY_SPAWN_EGG",
+    "name": "Stray Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "STRAY_SPAWN_EGG"
+  }, {
+    "material": "STRIDER_SPAWN_EGG",
+    "name": "Strider Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "STRIDER_SPAWN_EGG"
+  }, {
+    "material": "TADPOLE_SPAWN_EGG",
+    "name": "Tadpole Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "TADPOLE_SPAWN_EGG"
+  }, {
+    "material": "TRADER_LLAMA_SPAWN_EGG",
+    "name": "Trader Llama Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "TRADER_LLAMA_SPAWN_EGG"
+  }, {
+    "material": "TROPICAL_FISH_SPAWN_EGG",
+    "name": "Tropical Fish Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "TROPICAL_FISH_SPAWN_EGG"
+  }, {
+    "material": "TURTLE_SPAWN_EGG",
+    "name": "Turtle Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "TURTLE_SPAWN_EGG"
+  }, {
+    "material": "VEX_SPAWN_EGG",
+    "name": "Vex Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "VEX_SPAWN_EGG"
+  }, {
+    "material": "VILLAGER_SPAWN_EGG",
+    "name": "Villager Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "VILLAGER_SPAWN_EGG"
+  }, {
+    "material": "VINDICATOR_SPAWN_EGG",
+    "name": "Vindicator Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "VINDICATOR_SPAWN_EGG"
+  }, {
+    "material": "WANDERING_TRADER_SPAWN_EGG",
+    "name": "Wandering Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "WANDERING_TRADER_SPAWN_EGG"
+  }, {
+    "material": "WARDEN_SPAWN_EGG",
+    "name": "Warden Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "WARDEN_SPAWN_EGG"
+  }, {
+    "material": "WITCH_SPAWN_EGG",
+    "name": "Witch Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "WITCH_SPAWN_EGG"
+  }, {
+    "material": "WITHER_SKELETON_SPAWN_EGG",
+    "name": "Wither Skeleton Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "WITHER_SKELETON_SPAWN_EGG"
+  }, {
+    "material": "WOLF_SPAWN_EGG",
+    "name": "Wolf Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "WOLF_SPAWN_EGG"
+  }, {
+    "material": "ZOGLIN_SPAWN_EGG",
+    "name": "Zoglin Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "ZOGLIN_SPAWN_EGG"
+  }, {
+    "material": "ZOMBIE_SPAWN_EGG",
+    "name": "Zombie Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "ZOMBIE_SPAWN_EGG"
+  }, {
+    "material": "ZOMBIE_HORSE_SPAWN_EGG",
+    "name": "Zombie Horse Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "ZOMBIE_HORSE_SPAWN_EGG"
+  }, {
+    "material": "ZOMBIE_VILLAGER_SPAWN_EGG",
+    "name": "Zombie Villager Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "ZOMBIE_VILLAGER_SPAWN_EGG"
+  }, {
+    "material": "ZOMBIFIED_PIGLIN_SPAWN_EGG",
+    "name": "Zombified Piglin Spawn Egg",
+    "npc_sell_price": 100,
+    "id": "ZOMBIFIED_PIGLIN_SPAWN_EGG"
+  }
+  ]
+}
