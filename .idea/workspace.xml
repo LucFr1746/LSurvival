@@ -10,49 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="922a3945-9798-4f71-9f25-9e0bb55d93d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/Anvil/AnvilAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/Anvil/AnvilCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/Anvil/AnvilGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/Anvil/AnvilInteract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/EnchantingTable/EnchantingGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/EnchantingTable/EnchantingTableCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/EnchantingTable/EnchantingTableInteract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/EnchantingTable/EnchantingTableManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/EnchantingTable/Guide/EnchantmentsGuideGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/EnchantingTable/Guide/EnchantmentsGuideSubGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/EnchantingTable/SubGUI/EnchantmentGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/LEnchants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/java/io/github/lucfr1746/LEnchants/Utils/EnchantmentJsonLoaderAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LEnchants/src/main/resources/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/dependency-reduced-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/java/io/github/lucfr1746/LItems/Commands/ServerItemsCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/java/io/github/lucfr1746/LItems/DataManager/DataManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/java/io/github/lucfr1746/LItems/DataManager/PluginFiles/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/java/io/github/lucfr1746/LItems/DataManager/PluginFiles/Languages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/java/io/github/lucfr1746/LItems/LItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/java/io/github/lucfr1746/LItems/ServerItems/MenuItem/SurvivalMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/java/io/github/lucfr1746/LItems/ServerItems/MenuItem/SurvivalMenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/java/io/github/lucfr1746/LItems/ServerItems/ServerItemsGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/java/io/github/lucfr1746/LItems/ServerItems/ServerItemsLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/java/io/github/lucfr1746/LItems/Utils/ItemJsonLoaderAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/resources/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/resources/items.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/resources/languages/en_US.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LItems/src/main/resources/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LSkills/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LSkills/src/main/java/io/github/lucfr1746/lskills/LSkills.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LSkills/src/main/resources/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LSkills/src/main/resources/skills/combat.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
